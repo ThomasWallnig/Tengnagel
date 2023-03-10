@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Johann Küttner von Künitz to ST. 1621-11-08</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0162</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listPlace type="mentioned">
+                  <place>
+                     <placeName xml:id="ST_Place_0105">Brussels</placeName>
+                  </place>
+               </listPlace>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">241r–241r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0162">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0721">Johann Küttner von Künitz</persName>
+               <placeName xml:id="ST_Place_0105">Brussels</placeName>
+               <date when="1621-11-08">8 November 1621</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">ST</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0702">Charles Bonaventure de Longueval, Count of Bucquoy</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0678">Luis de Velasco y Velasco, 2nd Count of Salazar</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0717">Rodrigo Calderón, Count of Oliva</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0710">Frederick V of the Palatinate</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0718">Pedro Téllez-Girón, 3rd Duke of Osuna</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0719">Sirtori</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0720">Bitner</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0722">Griffin Markham</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Robert Scheilder to ST. 1620-10-20</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0146</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0044">
+                     <title>Nicephorus Callistus, Historia Ecclesiastica</title>
+                  </bibl>
+               </listBibl>
+               <listPlace type="mentioned">
+                  <place>
+                     <placeName xml:id="ST_Place_0105">Brussells</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0023">Spain</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0158">Bordeaux</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0003">Bavaria</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0101">Belgium</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0029">Germany</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0128">Sicily</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0070">Antwerp</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0016">Madrid</placeName>
+                  </place>
+               </listPlace>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">214r–214r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0146">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0285">Robert Scheilder</persName>
+               <placeName xml:id="ST_Place_0150">Arras</placeName>
+               <date when="1620-10-20">20 October 1620</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">ST</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0485">Vincent Noguera</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0035">Daniel Heinsius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0069">Heribert Rosweyde</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0052">Johannes Meursius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0082">Jacques Sirmond</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0022">Fronton Du Duc</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0523">François Savary de Brèves</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0162">Nicephorus Callistus</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0113">John Chrysostom</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0681">Philippe Duplessis-Mornay</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0682">Arnobius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0683">Prudentius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0684">Philippe Clüver</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0686">Denis Pétau</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0072">Joseph Justus Scaliger</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>

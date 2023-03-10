@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Thomas Erpenius to ST. 1617-05-02</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0066</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0056">
+                     <title>Qur'an</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0207">
+                     <title>Biblia arabica</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0205">
+                     <title>Giarrumia</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0206">
+                     <title>Thomas Erpenius, Historia Josephi patriarchae ex Alcorano</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0208">
+                     <title>Henri Estienne, Thesaurus linguae gracae</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0209">
+                     <title>Thomas Erpenius, Historia Saracenica</title>
+                  </bibl>
+               </listBibl>
+               <listPlace type="mentioned">
+                  <place>
+                     <placeName xml:id="ST_"/>
+                  </place>
+               </listPlace>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">100r–100r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0066">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
+               <placeName xml:id="ST_Place_0063">Leiden</placeName>
+               <date when="1617-05-02">2 May 1617</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">ST</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Unknow Alphabet (line n. 28)
+
+Hebrew </language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0136">Ian van Wyningen</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0066">Franciscus Raphelengius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0110">Abū' l-Fidā' [Abilfeda]</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0588">Henri Estienne</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>
