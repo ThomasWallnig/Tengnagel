@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Jacob Christmann. 1611-02-28</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0139</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0174">
+                     <title>Murād Beg, Kitāb-i Tesvīyetü l- Teveccüh ilā l-Ḥaḳḳ</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0005a">
+                     <title>Abū' l-Fidā' , Taqwīm al-buldān</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0160">
+                     <title>Tā'rīḫü l-Cenābī</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0150">
+                     <title>İsa Necati Dīvān-i Necātī</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0070">
+                     <title>Avicenna, al-Qānūn fī ṭ-ṭibb</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0072">
+                     <title>al-Arbaʿa al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0152">
+                     <title>Life of S. George in arabic</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0155">
+                     <title>Omar &amp; Ossman &amp; Aly carmine</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0153">
+                     <title>Preces recitandi modus (in arabic)</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0156">
+                     <title>Alexandri M. Histor. fabulosa</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0154">
+                     <title>Vita Muhammad. Ebn becser (in Turkish)</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0158">
+                     <title>Leunclavius Annales Sultanorum Othmanidarum, a Turcis sua lingua scripti,</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0157">
+                     <title>Husem B. Aly Hist. Otthomamiam histor. quam edidit Leonclavius, multis omissis, plerisque additis non absque mendis</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0151">
+                     <title>Uri ben Simeon of Biala, Jacob Christmann, Calendarium Palaestinorum &amp; universorum Iudaeorum ad annos quadraginta supputatum ... ex sermone Hebraeo in Latinum conversum per Jacobum Christmannum</title>
+                  </bibl>
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0120 Qur'an ST_Works_0056">
+                     <title>Lexicon Persico Turcicum (or. Scaliger)</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0149">
+                     <title>Qur'an with interlinear in Turkish</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0088">
+                     <title>Kitāb al-Āǧurrūmīya / Grammatica Arabica</title>
+                  </bibl>
+               </listBibl>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">187r–187r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0139">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1611-02-28">28 February 1611</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0011">Jacob Christmann</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0110">Abū' l-Fidā'</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0403">İsa Necati</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0404">Uri ben Simeon of Biala</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0151">İbrāhīm Dervīş</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0300">Johannes Leunclavius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0072">Joseph Justus Scaliger</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0139">Avicenna</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0405">Murād Beg</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0300">Johannes Leunclavius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0406">Seyfried Breunner</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0418">Cavellat</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>

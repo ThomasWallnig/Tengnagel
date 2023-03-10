@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Samuel Slade to ST. 1608-08-01</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0066a</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0084">
+                     <title>Leon Modena, Ḥeleḳ rishon mi-sefer midbar Yehudah</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0085">
+                     <title>Giovanni Tommaso Minadoi, HIstoria della Guerra tra Turchi e Persiani</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0086">
+                     <title>Francesco Sansovino, Della cose notabili che sono in Venetia,</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0087">
+                     <title>Ibn al-Hâjib Kāfīya li-Ibn al-Ḥāǧib : Grammatica arabica Dicta Caphiah, Auctore filio Alhagiabi</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0088">
+                     <title>Mohammed ibn Adjurrum, Kitāb al-Āǧurrūmīya / Grammatica Arabica : In compendium redacta, quæ uocatur Giarrumia</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0024">
+                     <title>Euclides, Kitāb taḥrīr usūl li-Uqlīdis min taʾlīf ̮Hwaǧa Nasīr-ad-dīn aṭ-Ṭūsī. Euclidis Elementorvm Geometricorvm Libri Tredecim</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0089">
+                     <title>Avicenna, Kutub al-qānūn fi 'ṭ-ṭibb li Abū ʿAlī ar-raʾīs Ibn Sīnā / Libri Quinque Canonis Medicinae Abu Ali Principis Filii Sinae alias corrupte Avicennae</title>
+                  </bibl>
+               </listBibl>
+               <listPlace type="mentioned">
+                  <place>
+                     <placeName xml:id="ST_Place_0030">Venice</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0065">Padua</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0015">London</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0001">Vienna</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0027">Orient</placeName>
+                  </place>
+               </listPlace>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">96r–96r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0066a">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0083">Samuel Slade</persName>
+               <placeName xml:id="ST_Place_0030">Venice</placeName>
+               <date when="1608-08-01">1 August 1608</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">ST</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0071">Henry Savile</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0039">David Hoeschel</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0096">Henry Wotton</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0138">Leon Modena</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0270">Simone il Saliburghese</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0151">İbrāhīm Dervīş</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0271">Giovanni Tommaso Minadoi</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0272">Francesco Sansovino</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0273">Ibn al-Hâjib</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0274">Mohammed ibn Adjurrum</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0144">Euclides</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0139">Avicenna,</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>

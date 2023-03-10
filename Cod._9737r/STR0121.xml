@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Johann van Giffen. s.d.? (controllare)</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0121</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0118">
+                     <title>Viaggi Fatti Da Vinetia, Alla Tana, In Persia, In India, Et In Costantinopoli</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0116">
+                     <title>João de Barros, Dell'Asia, seconda Deca di G. Barros tradotta dal portoghese in italiano da A. Ulloa</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0117">
+                     <title>Opera dilettevole da intendere, nella qual si contiene doi itinerarij in Tartaria</title>
+                  </bibl>
+               </listBibl>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">169v–169v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0121">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="s.d.? (controllare)">s.d.? (controllare)</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0346">Johann van Giffen</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0111">Hubert van Giffen</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0348">Pistorius's sons</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0140">João de Barros</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0142">Alfonso de Ulloa</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0347">Giovanni da Pian del Carmine</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0061">Johann Pistorius</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0349">Tengnagel's uncle</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>

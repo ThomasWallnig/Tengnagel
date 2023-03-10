@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Baldassare Bolognetti. 1610-11-26</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2023">2023</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0119</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note type="editorial">
+               <listPlace type="mentioned">
+                  <place>
+                     <placeName xml:id="ST_Place_0003">Bavaria</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0022">Rome</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0025">Transylvania</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0084">Moscovia</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0022">Rome</placeName>
+                  </place>
+                  <place>
+                     <placeName xml:id="ST_Place_0085 =&gt; the name ist Stein">Opidum Austriae Steina</placeName>
+                  </place>
+               </listPlace>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">168v–168v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0119">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1610-11-26">26 November 1610</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0239">Baldassare Bolognetti</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+         <particDesc>
+            <person>
+               <persName xml:id="ST_Pers_0200">Rudolf II</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0101">Matthias II</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0309">Ernst of Baviera</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0240">Ernst II duke of Brunswick-Lüneburg</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0003">Gabriel Báthory</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0241">Sigismund III Vasa, King of Polonia</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0242">P. Thomas</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0243">D. Bonfigliolo</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0244">D. Gozzadini</persName>
+            </person>
+            <person>
+               <persName xml:id="ST_Pers_0345">Antonio Caetani</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+</TEI>
