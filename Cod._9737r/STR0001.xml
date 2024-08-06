@@ -3,7 +3,7 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Petrus Cavellatus to ST. 1604-03-22</title>
+            <title type="main">Pierre Cavellat to Sebastian Tengnagel. 1604-03-22</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
@@ -18,7 +18,7 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511/">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
