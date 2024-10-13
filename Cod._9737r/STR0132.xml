@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Johann Lieb to ST. 1611-02-08</title>
+            <title type="main">Johann Lieb to Sebastian Tengnagel. 1611-02-08</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0141">
                      <title>Pentateuch in arabic (copy)</title>
@@ -43,23 +50,50 @@
                      <title>Regensburg's Chronicle (copy, and in Herrera)</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0103">Passau</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0103">
+                        <placeName>Passau</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0149">
+                        <persName>Johann Prigglmayer</persName>
+                     </person>
+                     <person ref="ST_Pers_0090">
+                        <persName>Ursula Ungelter</persName>
+                     </person>
+                     <person ref="ST_Pers_0328">
+                        <persName>Simon</persName>
+                     </person>
+                     <person ref="ST_Pers_0028">
+                        <persName>Christoph Gewold</persName>
+                     </person>
+                     <person ref="ST_Pers_0229">
+                        <persName>Johann Lieb's son</persName>
+                     </person>
+                     <person ref="ST_Pers_0044">
+                        <persName>Wolfgang Lazius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lieb was finishing copy of book Nr. 800, when Gewold told him to collate also Andreas's [of Regensburg] chroicle with the number 5536; hopes to finish soon, also to be able to gratify ST with the Arab Pentateuch; ST and his wife have hosted Lieb's son in Vienna; Wasserburg granted a stipend form him; Lieb tries to finish the collating although he'd rather do that in Vienna, without Gewold and with ST's expertise on hard-to-read matter, e.g. "de Latio"; Simon has hopefully returned; Liebhad showed him around the Library, where Prigglmayr had handed him a printed treatise - holefully not lost among Passavian soldiers; news about a family marriage (of the "licentiat" with a doctor''s daughter" to ST's sister-in-law</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">179r–179r</biblScope>
+               <biblScope unit="page">179r–181v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -74,38 +108,17 @@
                <date when="1611-02-08">8 February 1611</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>German</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0149">Johann Prügglmaier</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0090">Ursula Ungelter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0228">Simon</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0028">Christoph Gewold</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0229">Lieb's son</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0044">Wolfgang Lazius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

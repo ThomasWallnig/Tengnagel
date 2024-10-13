@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Martin II. Günter to ST. 1626-06-29</title>
+            <title type="main">Martin II Günter to Sebastian Tengnagel. 1626-06-29</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,44 @@
             <idno>STT0073</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0039">
+                     <title>Chronica Austriae</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0080">
+                        <persName>Johann Seyfried</persName>
+                     </person>
+                     <person ref="ST_Pers_0910">
+                        <persName>Reichard Streun von Schwarzenau</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Martin II. Günter was Zwettl Abbot (1625–1639) after Seyfried
+St gli aveva chiesto indietro i libri che aveva prestato a Seyfried, ma due l'attuale abate non li trova. Riferimento alla peste.</note>
+               <note>Chronica Austriaca MS - Apologia Righardi (Reichart Streun von Schwarzenau)</note>
+               <note>Paola, ti segno per l'attività di ST che cerca di recuperare i libri che ha prestato, e in aquesto caso anche un ms piuttosto prezioso.</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">121r–121r</biblScope>
+               <biblScope unit="page">121r–122v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,22 +87,22 @@
          </textClass>
          <correspDesc ref="STT0073">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0909">Martin II. Günter</persName>
+               <persName xml:id="ST_Pers_0909">Martin II Günter</persName>
                <placeName xml:id="ST_Place_0106">Zwettl</placeName>
                <date when="1626-06-29">29 June 1626</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Peti iterum libros meos 17 Octob. 1626. Reverendiss. Abbatis Zwetalensis Dni Martini Ginter epistola 29 Iuni a° 1626 data. Accept. 4° Iuli De libris meis inventis, exceptas Apolog. Streini(?) et Chronici Austriaco M. It de domicilio in aedibus suis mihi attribuendo(?)</cell>
+      </body>
+   </text>
 </TEI>

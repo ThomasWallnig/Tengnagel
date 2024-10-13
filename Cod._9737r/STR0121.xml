@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Sebastian Tengnagel to Johann van Giffen. s.d.? (controllare)</title>
+            <title type="main">Sebastian Tengnagel to Johann van Giffen. s.d.</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0118">
                      <title>Viaggi Fatti Da Vinetia, Alla Tana, In Persia, In India, Et In Costantinopoli</title>
@@ -46,14 +53,52 @@
                      <title>Opera dilettevole da intendere, nella qual si contiene doi itinerarij in Tartaria</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0111">
+                        <persName>Hubert van Giffen</persName>
+                     </person>
+                     <person ref="ST_Pers_0348">
+                        <persName>Johann Pistorius's sons</persName>
+                     </person>
+                     <person ref="ST_Pers_0140">
+                        <persName>João de Barros</persName>
+                     </person>
+                     <person ref="ST_Pers_0142">
+                        <persName>Alfonso de Ulloa</persName>
+                     </person>
+                     <person ref="ST_Pers_0347">
+                        <persName>Giovanni da Pian del Carmine</persName>
+                     </person>
+                     <person ref="ST_Pers_0061">
+                        <persName>Johannes Pistorius</persName>
+                     </person>
+                     <person ref="ST_Pers_0349">
+                        <persName>Sebastian Tengnagel's uncle</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>J. von Giffen, figlio di Obertus Giphanius (http://www.staatliche-bibliothek-passau.de/staadi/psn/027.html). </note>
+               <note>Gifanio ha scritto a ST una lettera con cui lo informava di aver fatto ritorno in patria sano e salvo. Tuttavia, la preoccupazione di ST che all'amico, durante il suo peregrinare, potesse essere successo anche qualcosa di triste, mentre a mo' di un nuovo Ulisse visitava diversi popoli e città. La preoccupazione viene rimossa da una lettera piena d'affetto e di umanità e dunque Sebastian si rallegra molto che la fortuna abbia assistito l'amico reduce e gli augura di continuare ad aver fortuna. Nella stessa lettera GIfanio gli annunciava di essere stato a Bura e di aver visto lo zio di ST [lo zio era capitularem senem, quindi una carica politica]. Magari, dice ST, gli fosse stato lecito dare l'ultimo saluto, come l'animo spesso desidera. Il suo dovero lo teneva invece lontano e glielo ha impedito. 
+Per quanto riguarda i nostri conti, sappi che io riconosco che tutto è stato fatto conformemente al contratto. --- [segue parte che riguarda calcoli economici tra i due ]. 
+I libri che io desidero ottenere dalla biblioeca del tuo illustre padre, sono libri italiani. Sono la descrizione dell'Asia di Giovanni de barros tradotto dal portoghese da Alfonso Ulloa, Venezia 1502; un altro è Viaggi da Venetia alla ana per alcuni frati dell'ordine minore, Venezia 1537
+Se vorrai onorare i miei studi con questi libri, o uomo chiarissimo, infatti io so per certo che quelli si trovano presso tuo padre, mi farai un grandissimo beneficio, e qualunque prezzo tu stabilirai io sono disposto a pagarlo e perciò, per cortesia, procurameli tutti in modo tale che io [greco]. Se poi dalla tua generosità potrò ottenere il catalogo della biblioteca di tuo padre, questo mi sarà di non poco guadagno, sia che tu lo renda pubblico sia che tu me ne conceda una copia personale. </note>
+               <note>ST vuole anche i libri di Giphanio in possesso dei figli di Pistorius (ai quali erano stati prestati). </note>
+               <note>Ora, nel cod. 9708 Blozio aveva annotato i libri che doveva portare dall'Italia a Giffen e ci sono anche questi che ora chiede ST: ff. 153v-154r: libri che doveva portare dall’Italia a Giphonio. Tra gli altri ci sono: historia del mondo di Guazzo, Guicciardini, “Un libro di tutte le religioni del mondo” - fol. 236 r: Italici libri ad Gifanum missi: 27) doi itinerari in Tartaria per alcuni frati dell’ordine minore, 1537 / fols. 279-283: libri italici a me Gifanio empti et missi: tra gli altri: Tacito, Tutte le religioni del mondo, Guicciardini, Giovio, “ Historia dell’origine di tutte le religioni del mondo raccolte da fra Paolo Moriggia milanese, venetia 1569</note>
+               <note>Chiedere a Paola dei rapporti tra Gifanio padre e Blozio. cf. suo libro</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
@@ -69,7 +114,7 @@
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
                <placeName xml:id="ST_Place_0001">Vienna</placeName>
-               <date when="s.d.? (controllare)">s.d.? (controllare)</date>
+               <date when="s.d.">s.d.</date>
             </correspAction>
             <correspAction type="received">
                <persName xml:id="ST_Pers_0346">Johann van Giffen</persName>
@@ -80,29 +125,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0111">Hubert van Giffen</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0348">Pistorius's sons</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0140">João de Barros</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0142">Alfonso de Ulloa</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0347">Giovanni da Pian del Carmine</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0061">Johann Pistorius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0349">Tengnagel's uncle</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ad Ioh. Giphanium</cell>
+      </body>
+   </text>
 </TEI>

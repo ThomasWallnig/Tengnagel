@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Johannes Hemelarius to ST. 1628-09-14</title>
+            <title type="main">Johannes Hemelarius to Sebastian Tengnagel. 1628-09-14</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,48 @@
             <idno>STT0121</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0014">
+                        <placeName>Istanbul</placeName>
+                     </place>
+                     <place ref="ST_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                     <place ref="ST_Place_0045">
+                        <placeName>Italy</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0970">
+                        <persName>Petrus Golius</persName>
+                     </person>
+                     <person ref="ST_Pers_0846">
+                        <persName>Jacobus Golius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Ioahannes Hemelarius (1570-1655), an Antwerp canon from the Hague, and moreover a former student of Justus Lipsius and no mean neo-Latin poet and antiquarian. He was a friend of Grotius. Petrus Golius, Jacobus' younger brother, was brought up by his maternal uncle, Johannes Hemelarius, at Antwerp, and converted by him to Catholicism at an early age. He joined the order of the barefoot Carmelites, adopting the name "Celestinus de Sancta Liduina". Like his brother, he studied Arabic, but in his case for missionary purposes, in the pursuit of which he came out to Aleppo before 1636, while Pococke was still there, and the two became friends despite their rivalry over books and their confessional differences. </note>
+               <note>Nella lettera parla dei suoi due nipoti, Fra Celestino e Jacobum Golium, conoscendo l'affetto di ST per entrambi. Il primo, dice, è di perdetta fede "ortodossa"; mentre il secondo è ancora protestante, fede nella quale è nato (a fide ortodoxa alienum... excaecatione vel potius ignorantia veritatis cum lacte ei propinata). Tuttavia non dispera che potrà anche lui convertirsi, com'è capitato al fratello durante un viaggio in Italia (in perigrinatione italica). Aggiunge che J. Golium si trovava a costantinopoli e stava rientrando in europa dopo un viaggio così tanto pericoloso per il corpo e per l'anima (permulta pericula in tali itinere, tam animo quam corpori impedentis sint metuenda). Si augura che faccia il viaggio via terra e che così arrivi a Vienna, dove ST potrebbe dargli buoni consigli e collaborare alla sua conversione. </note>
+               <note>CHRISTIANITY sicuramente nelle conversioni e forse anche sugli studi arabici</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">198r–198r</biblScope>
+               <biblScope unit="page">198r–198v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -57,17 +96,17 @@
                <date when="1628-09-14">14 September 1628</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Dni Hemelari Canonici Anverp. e(?) Lipsi amanuens. viri doctiss. Epistola de D. Golio Arab. ling. peritiss. 12 Sept. data, accept. 2 Octob.</cell>
+      </body>
+   </text>
 </TEI>

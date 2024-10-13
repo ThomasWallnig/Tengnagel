@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Jan Gruter to ST. 1611-09-27</title>
+            <title type="main">Jan Gruter to Sebastian Tengnagel. 1611-09-27</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0027">
                      <title>Jan Gruter, Florilegium Ethico-Politicum</title>
@@ -49,18 +56,52 @@
                      <title>Valentin Schindler, Lexicon Pentaglotton, Hebraicum, Chaldaicum, Syriacum, Talmudico-Rabbinicum, &amp; Arabicum</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0066">
+                        <persName>Franciscus Raphelengius</persName>
+                     </person>
+                     <person ref="ST_Pers_0125">
+                        <persName>Andreas Wechelus' heirs</persName>
+                     </person>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0011">
+                        <persName>Jakob Christmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0110">
+                        <persName>Abū' l-Fidā'</persName>
+                     </person>
+                     <person ref="ST_Pers_0112">
+                        <persName>Cornelis van der Myle</persName>
+                     </person>
+                     <person ref="ST_Pers_0421">
+                        <persName>Valentin Schindler</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>scrittura difficile ma come al solito è interessante. Christmann dice (come al solito) che è pigro e che ancora non ha preparato l'indice dei libri ebraici che ST gli aveva chiesto. Dice che ha sentito che il lessico di Refelengio è in stampa (esce effettivamente nel 1612). Poi c'è un cenno a Abilfeda e a un libro in arabo per Christmann (libellus arabicus pro Christmanno): potrebbe essere Murad? Di Kirstenius non ha più avuto notizie.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">204r–204r</biblScope>
+               <biblScope unit="page">204r–204v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -75,38 +116,17 @@
                <date when="1611-09-27">27 September 1611</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0066">Franciscus Raphelengius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0125">Andrea Wechelius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0035">Daniel Heinsius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0011">Jakob Christmann</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0110">Abū' l-Fidā'</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0112">Cornelis Van der Myle</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0421">Valentin Schindler</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Gruteri VI Nov. A° 1611</cell>
+      </body>
+   </text>
 </TEI>

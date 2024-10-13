@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Johannes Seyfried to ST. 1622-04-12</title>
+            <title type="main">Johann Seyfried to Sebastian Tengnagel. 1622-04-12</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,27 +41,67 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0001">Vienna</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0135">Pannonia</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                     <place ref="ST_Place_0135">
+                        <placeName>Pannonia</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0573">
+                        <persName>Herodotus</persName>
+                     </person>
+                     <person ref="ST_Pers_0774">
+                        <persName>Pausanias</persName>
+                     </person>
+                     <person ref="ST_Pers_0773">
+                        <persName>Diodorus Siculus</persName>
+                     </person>
+                     <person ref="ST_Pers_0500">
+                        <persName>Plutarch</persName>
+                     </person>
+                     <person ref="ST_Pers_0647">
+                        <persName>Homer</persName>
+                     </person>
+                     <person ref="ST_Pers_0775">
+                        <persName>Athenaeus</persName>
+                     </person>
+                     <person ref="ST_Pers_0772">
+                        <persName>Wenceslaus</persName>
+                     </person>
+                     <person ref="ST_Pers_0695">
+                        <persName>Flavio Biondo</persName>
+                     </person>
+                     <person ref="ST_Pers_0769">
+                        <persName>Johannes Zonaras</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Philipp Clüver</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>looks for helper as his amanuensis is leaving him; sends "schmalz"</note>
+               <note>Lazius, De gentium aliquot migrationibus - Lazius, De Pannonia - Lazius, Des khunigreichs Hungern - Cllüver, Germania antiqua - Seyfried, Historia Austriaca</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">279r–279r</biblScope>
+               <biblScope unit="page">279r–281v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -64,61 +111,22 @@
          </textClass>
          <correspDesc ref="STS0186">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0080">Johannes Seyfried</persName>
+               <persName xml:id="ST_Pers_0080">Johann Seyfried</persName>
                <placeName xml:id="ST_Place_0107">Zwettl</placeName>
                <date when="1622-04-12">12 April 1622</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0573">Herodotos</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0774">Pausanias</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0773">Diodorus Siculus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0500">Plutarch</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0647">Homerus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0775">Athenaeus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0772">Wenceslaus amanuensis</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0695">Flavio Biondo</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0769">Johannes Zonaras</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0684">Philipp Clüver</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0090">Ursula Ungelter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0044">Wolfgang Lazius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0080">Johann Seyfried</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0770">Eustathius of Thessalonika</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">D. Zwetalens. Abb. de Histor. suis. De Pannonis vide et vadianum in epitome. Datae 4 Novem. 1622. Respondi 8 eiusdem submisi quaed. de Pannonis ex Scalig. Causabono Eustath. Iornande etc</cell>
+      </body>
+   </text>
 </TEI>

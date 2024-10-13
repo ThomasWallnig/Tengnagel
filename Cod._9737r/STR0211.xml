@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Valentin Leuchtius to ST. 1614-10-06</title>
+            <title type="main">Sebastian Tengnagel to Fronton du Duc. 1614-09-08</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,29 @@
             <idno>STR0211</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>è la copia di quella al f. 283</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">287r–287r</biblScope>
+               <biblScope unit="page">285r–286v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,34 +72,22 @@
          </textClass>
          <correspDesc ref="STR0211">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0045">Valentin Leuchtius</persName>
-               <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
-               <date when="1614-10-06">6 October 1614</date>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1614-09-08">8 September 1614</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0022">Fronton du Duc</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0451">Baron von Stralendorf</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0101">Matthia II</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0470">Gergardus Ostermeyer</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0452">Joannes Schmandinus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0080">Johann Seyfried</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

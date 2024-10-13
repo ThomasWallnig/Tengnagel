@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to [Victor Scialac]. 1613-01-08</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0031</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0035">
+                     <title>De thesauro linguae Arabicae, Alcamusi nomine</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0036">
+                     <title>SS. Patrum monumenta</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0037">
+                     <title>Joan Baptista Raymundi Bibliothecae indicem</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0038">
+                     <title>Opus veteris testamenti Arabicum praecipue Prophaetae</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0027">
+                        <placeName>Orient</placeName>
+                     </place>
+                     <place ref="ST_Place_0043">
+                        <placeName>Bibliotheca Vaticana</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0065">
+                        <persName>Giovanni Battista Raimondi</persName>
+                     </person>
+                     <person ref="ST_Pers_0160">
+                        <persName>Leonard Abel</persName>
+                     </person>
+                     <person ref="ST_Pers_0030">
+                        <persName>Jacob Gretser</persName>
+                     </person>
+                     <person ref="ST_Pers_0019">
+                        <persName>Johannes Decker</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lettera molto interessante. si tratta di Victor Scialac, da mettere in connessione con 9737r, fol. 92 (lettera in cui Gretser parla male di V. Scialach) ST chiede notizie della tipografia araba e siriana a roma e si rallegra del favore che il pontefice mostra versto questi studi perché "Utinam eam mentem Deus B. Pontifici inspiraret et firmaret, haut dubie id Religionis Christianae augmento, et Muhamedicae excidio verteret. Praedare(?) enim SS. Patrum monumenta, qua apud Syros, qua apud Arabes, cumplurima recondita iacent, quae si Europaeis nestris vulgarentur, magnum splendorem ac lucem historiae cum profanae tum Ecclesiasticae, atque ritibus Catholicis, de quibus hodie disceptatur, non mediocriter adferent". Chiede poi se ci sono in vendita testi in arabo o siariaco, e chiede informazioni su cataloghi di libri orientali. Chiede poi l'indice della biblioteca di Giovan B. Raimondi.  Importante per Roma!!! Citare nell'articolo AGENTS and CHRISTIANITY</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">45r–45v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0031">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1613-01-08">8 January 1613</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0075">[Victor Scialac]</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

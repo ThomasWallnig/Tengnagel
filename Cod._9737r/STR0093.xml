@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">John Harrington to William Bedell. 1609-09-04</title>
+            <title type="main">John Harington to William Bedell. 1609-09-04</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,36 @@
             <idno>STR0093</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0307">
+                        <persName>William Bedwell</persName>
+                     </person>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>È indirizzata a William Bedwell, che viene descritto come eminente orientalista. Credo dunque ci sia un errore di ominimia: viene consegnata a William Bedell, cappellano di Wotton che viene però scambiato per William Bedwell l'orientalista. Possibile? Grafia molto difficile da leggere purtroppo. Devo tornarci, ma è difficile. Si menziona Kirstenius e l'edizione dei 4 evangelisti. Si menziona anche (nei margini) la vedova di Blotius, Ursula, quindi moglie di Tengnagel</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">136r–136r</biblScope>
+               <biblScope unit="page">136r–136v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,7 +79,7 @@
          </textClass>
          <correspDesc ref="STR0093">
             <correspAction type="sent">
-               <persName xml:id="John Harington ST_Pers_0034">John Harrington</persName>
+               <persName xml:id="ST_Pers_0034">John Harington</persName>
                <placeName xml:id="ST_Place_0001">Vienna</placeName>
                <date when="1609-09-04">4 September 1609</date>
             </correspAction>
@@ -61,16 +88,19 @@
             </correspAction>
          </correspDesc>
          <langUsage>
-            <language>English </language>
+            <language>English</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0307">William Bedwell</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Literae commendatitiae ab Illust. Comite
+Ioanne Haringthono Barone a Balneis 
+Anglo, mea de causa scripta ad Gulielmum
+Bedwellum linguarum oriental.
+et Arabice peritiss. Henrici Wottoni legati 
+Regi ad Venetos theolog.
+A. 1609</cell>
+      </body>
+   </text>
 </TEI>

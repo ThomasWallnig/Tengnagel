@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_">
                      <title/>
@@ -46,18 +53,46 @@
                      <title/>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="ST_Pers_0132">
+                        <persName>Elias Hutter</persName>
+                     </person>
+                     <person ref="ST_Pers_0068">
+                        <persName>Konrad Rittershausen</persName>
+                     </person>
+                     <person ref="ST_Pers_0288">
+                        <persName>Georg Remus</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                     <person ref="ST_Pers_0093">
+                        <persName>Marcus Welser</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Sulla restituzione dei libri in Arabo dati da Blotius a Hutter a Norimberga nel 1601. Tra essi ci sono: 2 dizionari di arabo - 1 Nomenclatura arabica e 4 libri di astronomia di piccolo formato e con la copertina rossa. Quasi interamente trascritta. Da tradurre per bene (in parte ho fatto). Si parla anche di un de Catal. et Arabicol. libello che ST aveva chiesto. Gli chiede inoltre se possiede mss in ebraico (an ne in Hebr. apud vos MS ). Giudizio sul metodo di Blotius, che faceva gran casini e che ha portato alla perdita di molti testi, il che ha portato Blozio ad avere problemi nell'aula: De Huttero igitur inquirendum putavi, quem te indice, tandem erui. An vero Syngrapha aliqua, quibus hosce libros a Doctore Blotio se accepisse contestetur, adsit mihi incompertum, scriptorum enim et literarum D. Bloti confusa et indigesta moles ab excatiori huius disquisitione me hactenus arcuit. Illud tamen scio illum plerunque bona quidem fide, sed magno suo incommodo codices nonnullos alis concredere solere, qua re factum ut complures disperierint, et in non levem offensionem in aula incurrerit. - Partially published in Lambeck, Commentarii.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">114r–114r</biblScope>
+               <biblScope unit="page">114r–114v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -78,26 +113,11 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0004">Hugo Blotius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0132">Elias Hutter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0068">Konrad Rittershausen</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0288">Georg Remus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0093">Marcus Welser</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

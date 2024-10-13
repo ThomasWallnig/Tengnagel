@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">ST to Ferdinand II. 1630.0</title>
+            <title type="main">Sebastian Tengnagel to Ferdinand II. 1630</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,42 @@
             <idno>STT0140</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0992">
+                        <persName>Massimiliano Bosso</persName>
+                     </person>
+                     <person ref="ST_Pers_0983">
+                        <persName>Nicolaus Crusenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0993">
+                        <persName>Giovanni Battista Maria Pallotta</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Riguarda l'ispezione delle carte di Crusenius che gli era stata affidata dall'imperatore. </note>
+               <note>Avendo obbedito all’ordine della vostra Maestà Imperiale, sono andato dall’ illustrissimo e
+reverendissimo signor Cardinale e Nunzio, e ho richiesto indietro la scatola/cassetta con gli scritti storici di Cruseno. E lui mi ha risposto – oltre a una serie di altre cose – che avrebbe fatto aprire la cassetta e mi avrebbe mostrato e messo a disposizione tutti gli scritti storici (aurae primo deve essere una frase fatta, ma non la capisco). Io però gli ho risposto che mi pareva più opportuno che – lasciando la cassetta chiusa e intatta- la consegnasse insieme agli scritti ivi contenuti al RP provinciale e a me (evidentemente, o clementissimo Cesare, con l’idea che, se la cassetta venisse per caso aperta dai ministri del nunzio, alcune cose anche di una certa segretezza e di una certa importanza che sono state comunicate a Crusenio dai Cancellari, potessero andare perdute con una certa facilità, oppure -dato che il genere umano è per natura curioso, potessero essere asportate/portate via).
+Perciò– a mio modestissimo parere- ritengo più sicuro e più conveniente per l’autorità della vostra santa maestà impeiale che quella suddetta cassetta, insieme a tutti gli scritti, venga presentata, chiusa e sigillata, attraverso il cameriere Massimiliano de Bosso al padre provinciale e da lui a me. Ma che tutto sia e vada secondo il volere della vostra Maestà imperiale, al quale interamente e molto umilmente io mi rimetto e mi consegno.</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">228r–228r</biblScope>
+               <biblScope unit="page">228r–229v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,9 +85,9 @@
          </textClass>
          <correspDesc ref="STT0140">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
                <placeName xml:id="ST_Place_0001">Vienna</placeName>
-               <date when="1630.0">1630.0</date>
+               <date when="1630">1630</date>
             </correspAction>
             <correspAction type="received">
                <persName xml:id="ST_Pers_0097">Ferdinand II</persName>
@@ -63,11 +96,12 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ad Sacratissimam Caesaream Regiamque Maiestatem Suam. Sebastiani Tengnageli I.V.D et Biblioth. Libellus supplex. 
+Ut cista cum scriptis omnibus Historicis R.P. Crusenii clausa et obsignata, ab Rev. et Ill.mo Dno Cardinale et Nuntio per D. Maximilianum de Bossu repetatur, et R.P. Provinciali Augustiniano, indeque mihi traditur</cell>
+      </body>
+   </text>
 </TEI>

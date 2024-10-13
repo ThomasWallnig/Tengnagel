@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,77 @@
             <idno>STT0135</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0159">
+                        <placeName>Utrecht</placeName>
+                     </place>
+                     <place ref="ST_Place_0232">
+                        <placeName>Groningen</placeName>
+                     </place>
+                     <place ref="ST_Place_0235">
+                        <placeName>IJssel</placeName>
+                     </place>
+                     <place ref="ST_Place_0236">
+                        <placeName>Duisburg</placeName>
+                     </place>
+                     <place ref="ST_Place_0237">
+                        <placeName>Veluwe</placeName>
+                     </place>
+                     <place ref="ST_Place_0238">
+                        <placeName>Arnhem</placeName>
+                     </place>
+                     <place ref="ST_Place_0239">
+                        <placeName>Linge</placeName>
+                     </place>
+                     <place ref="ST_Place_0203">
+                        <placeName>Holland</placeName>
+                     </place>
+                     <place ref="ST_Place_0156">
+                        <placeName>Brabant</placeName>
+                     </place>
+                     <place ref="ST_Place_0146">
+                        <placeName>Flanders</placeName>
+                     </place>
+                     <place ref="ST_Place_0240">
+                        <placeName>Ghent</placeName>
+                     </place>
+                     <place ref="ST_Place_0129">
+                        <placeName>Leuven</placeName>
+                     </place>
+                     <place ref="ST_Place_0105">
+                        <placeName>Brussels</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0976">
+                        <persName>Johann T'serclaes von Tilly</persName>
+                     </person>
+                     <person ref="ST_Pers_0984">
+                        <persName>John Maurice</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>News about movements in the War. Crusenio: monaco agostiniano olandese, attivo in Austria e in Boemia. Fu nominato da Ferdinando nel 1623 suo cronista. Divenne poi provinciale di Boemia e morì a Vienna il 10 nov. 1629
+Curtius: non trovo molte informazioni ma nel 1636 pubblicò "Virorum Illostrium ex ordine eremitarum D. Augustini Elogia"</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">220r–220r</biblScope>
+               <biblScope unit="page">220r–220v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -63,11 +131,12 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Curtius Augustin. 
+indirizzo scritto da Curtius: Crusenio, ST Doctori, Historiographo Caesareo</cell>
+      </body>
+   </text>
 </TEI>

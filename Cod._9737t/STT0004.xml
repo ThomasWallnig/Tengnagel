@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Ian Van Wyningen to ST. 1625-02-11</title>
+            <title type="main">Jan van Wyningen to Sebastian Tengnagel. 1625-02-11</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,46 @@
             <idno>STT0004</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0052">
+                        <persName>Johannes Meursius</persName>
+                     </person>
+                     <person ref="ST_Pers_0056">
+                        <persName>Bernardus Paludanus</persName>
+                     </person>
+                     <person ref="ST_Pers_0097">
+                        <persName>Ferdinand II</persName>
+                     </person>
+                     <person ref="ST_Pers_0832">
+                        <persName>Dr. Vos</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Has received letter from Tengnagel, who appears to be in bad health. Grateful that he is nevertheless still helping with his business. Has copy of a letter that confirms that the ship his brother rented was at the order of his Royal Highness (the Emperor), something about a Doctor Palidanus and 'other provision from the Emperor's court'. Seems to be an issue with payment of the captain and the rightful owner of the cargo and the profits made from it. Still intending to travel to Vienna and resolve all outstanding matters. Mentions sending a letter of gratitude to a certain Doctor Vos. Doctor Erpenius has passed away seven or eight weeks ago. Has been working to get the catalogus from his library, as soon as he receives it he will send it to Tengnagel.</note>
+               <note>HULYA</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">6r–6r</biblScope>
+               <biblScope unit="page">6r–6v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,22 +89,22 @@
          </textClass>
          <correspDesc ref="STT0004">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0136">Ian Van Wyningen</persName>
+               <persName xml:id="ST_Pers_0136">Jan van Wyningen</persName>
                <placeName xml:id="ST_Place_0037">Amsterdam</placeName>
                <date when="1625-02-11">11 February 1625</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Dutch</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Wyning. 11 februar. 1625 reddit 26 febr. De morte D. Erpeni carissimi amicorum. Respondi 5 Marti et scripsi ad Meursium et misi catalogum quon. libror.</cell>
+      </body>
+   </text>
 </TEI>

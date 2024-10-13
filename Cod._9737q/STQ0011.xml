@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Robert de Scheilder to ST. 1614-08-16</title>
+            <title type="main">Pierre Coton to s.n.. 1612-10-29</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,48 +25,52 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
-            <idno>STR0199a</idno>
+            <idno>STQ0011</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_Works_0044">
-                     <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
-                  </bibl>
-               </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0001">Vienna</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0019">Paris</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0120">
+                        <persName>Jean Dubois</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Ex litteris P. Cotton Paris. Elenco di sventure che hanno colpito gli avversari dei gesuiti. Si tratta di un genere diffuso, fa ridere</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737q</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">268r–268r</biblScope>
+               <biblScope unit="page">21v–21v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67,39 +78,24 @@
          <textClass>
             <classCode scheme="Tengnagel">letter</classCode>
          </textClass>
-         <correspDesc ref="STR0199a">
+         <correspDesc ref="STQ0011">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0285">Robert de Scheilder</persName>
-               <placeName xml:id="ST_Place_0073">Linz</placeName>
-               <date when="1614-08-16">16 August 1614</date>
+               <persName xml:id="ST_Pers_0016">Pierre Coton</persName>
+               <placeName xml:id="ST_Place_0006">Paris</placeName>
+               <date when="1612-10-29">29 October 1612</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="">s.n.</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0080">Johann Seyfried</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0018">Jean-Auguste De Thou</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0185">Morel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0109">Pedro de Alcalá</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0162">Nicephorus Callistus Xanthopulus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0361">Luis del Mármol Carvajal</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ex litteris P. Cotton Paris. 29 Oct. 1612. </cell>
+      </body>
+   </text>
 </TEI>

@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Ian Van Wyningen to ST. 1625-02-17</title>
+            <title type="main">Jan van Wyningen to Sebastian Tengnagel. 1625-02-17</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,42 @@
             <idno>STT0005</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0209">
+                     <title>Thomas Erpenius, Ibn al-ʿAmīd al-Makīn, Historia Saracenica</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0230">
+                        <persName>al-Farabi</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lot: </note>
+               <note>Something about the catalogue of Erpenius' bequeathed books. Tengnagel has requested this to see if any of the books have his interest. Mentions a copy of a list of contents that was sent with his last letter, but I am not sure if this is still about Erpenius' library, as Van Wijninghen then switches to the issue with the captain demanding money. Another news update about Breda with numbers of soldiers and other military power.</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">7r–7r</biblScope>
+               <biblScope unit="page">7r–7v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,22 +85,24 @@
          </textClass>
          <correspDesc ref="STT0005">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0136">Ian Van Wyningen</persName>
+               <persName xml:id="ST_Pers_0136">Jan van Wyningen</persName>
                <placeName xml:id="ST_Place_0037">Amsterdam</placeName>
                <date when="1625-02-17">17 February 1625</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Dutch</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Respondi 12 Martii et peti quosd. libros ex Biblioth. Erpeniana Mirchondi histor., Dictionn. Arab. et Pers. Abugiateri et Saidi historiam Dat. 17 februar. accept- 10 Mart. a° 1625 cum Erpenii Bibliothecae Catalogo. Vita sive oratio funeb. Erpeni petenda - an Typographia Vend. an Georg. Almacini historia Saracenica excusa sit. 
+
+</cell>
+      </body>
+   </text>
 </TEI>

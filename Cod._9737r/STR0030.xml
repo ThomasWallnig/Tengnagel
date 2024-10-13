@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Don Gabriel De Buena Ventura to ST. 1606-10-14</title>
+            <title type="main">Jan Gruter to Hugo Blotius, Sebastian Tengnagel. 1606-11-07</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,37 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
+                  <bibl xml:id="ST_Works_0005b">
+                     <title>Abū' l-Fidā' , Taqwīm al-Buldān</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0061">
+                     <title>Weigenmaier, Lexicon Arabicum</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lettera importante, trascritta e tradotta. Gli dice che l'imperatore ha concesso il prestito del ms di Abilfeda, ma che bisogna trovare un modo per trasmetterlo. Aveva pensato al tipografo Marnius, ma non gli ha risposto. Gli manda anche il singrafo con cui ST e Blozio si impegnano a restituire il codice entro l'anno e in perfetto stato. Poi Gruter si lamenta per il silenzio di ST riguardo al lessico da completare lasciato da Georg Weigenmaier. Elogia l'opera e comunica che se non riceverà una risposta si rivolgerà a Casaubon. Ma aveva voluto dare la precedenza a ST perché anche lui, Gruter, era belga. </note>
+               <note>si tratta della trascrizione di mano di tengnagel</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">41r–41r</biblScope>
+               <biblScope unit="page">42r–42v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -61,17 +81,22 @@
          </textClass>
          <correspDesc ref="STR0030">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0224">Don Gabriel De Buena Ventura</persName>
-               <placeName xml:id="ST_Place_0030">Venice</placeName>
-               <date when="1606-10-14">14 October 1606</date>
+               <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
+               <placeName xml:id="ST_Place_0036">Heidelberg</placeName>
+               <date when="1606-11-07">7 November 1606</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070 ST_Pers_0004">Hugo Blotius, Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
-            <language>Spanish</language>
+            <language>Latin</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">"Doctissimi viri Iani Gruteri Biblioth. Palatinae Praefecti, de Abilfeda Princ. Syriae ante annos 300, plus minus, Cosmograph. Arabice Manuscripto, raro et singulari fortean, in universo orbe, auctore"</cell>
+      </body>
+   </text>
 </TEI>

@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,29 +41,54 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0044">
                      <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0023">Spain</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0023">
+                        <placeName>Spain</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0022">
+                        <persName>Fronton du Duc</persName>
+                     </person>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                     <person ref="ST_Pers_0030">
+                        <persName>Jacob Gretser</persName>
+                     </person>
+                     <person ref="ST_Pers_0167">
+                        <persName>Johann Lange</persName>
+                     </person>
+                     <person ref="ST_Pers_0162">
+                        <persName>Nicephorus Callistus Xanthopulus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>trascritta velocemente, bisogna tornarci. Parla molto di Fronton Du Duc ma poi dice: Poiché tra tutte le lingue orientali, la caldaica, l'ebraica, e la siriaca, io mi sto sforzando di raggiungere la cima più alta, vale a dire la lingua arabica, per coltivarla sto implorando l'aiuto di dotti da ogni dove. Per quesrto mi rivolgo a te, che sei versatile e poliglotta, affinché tu possa indicarmi qualche fonte dove saziare la mia sete. Poiché sei stato in Spagna e sicuramente hai stretto amicizia con uomini eruditi, con qualche moro, io spero che possa aiutarmi. [Cum caeteris Orientalibus linguis Haebraic. vel Chaldaicae et Syriacae, Arabicam ceu fastigium summum imponere adlaborem, et ad hanc excolendam undique doctorum virorum veluti subsidiarias manus implorem, lubuit ad te xxx et xxx exercitatum adire, si ad aliquem fortassean fontem, quo sitim explere possim, digitum benivole intenderis. Cum enim Hispaniam lustraveris, et eruditos homines ad tuam amicitiam haud dubie adiunxeris, spero confore, ut tua indiana(?) e Maurorum attegris nonnulla ad hoc pertinentia eruam]</note>
+               <note>USO IN CHRISTIANITY</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">110r–110r</biblScope>
+               <biblScope unit="page">110r–110v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -79,23 +111,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0022">Fronton du Duc</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0009">Isaac Casaubon</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0030">Jacob Gretser</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0167">Johann Lange</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0162">Nicephorus Callistus Xanthopulus</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

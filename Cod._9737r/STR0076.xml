@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Petrus Kirstenius to ST. 1609-01-09</title>
+            <title type="main">Petrus Kirstenius to Sebastian Tengnagel. 1609-01-09</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0020">
                      <title>Vitae Evangelistarum quatuor</title>
@@ -46,18 +53,38 @@
                      <title>Ketābā d-Ewangeliyōn qaddīšā de-Māran w-Alāhan Yēšūʾ Mešīḥā ... Liber Sacrosancti Evangelii De Iesv Christo Domino &amp; Deo nostro</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0139">
+                        <persName>Avicenna</persName>
+                     </person>
+                     <person ref="ST_Pers_0244">
+                        <persName>Thiel</persName>
+                     </person>
+                     <person ref="ST_Pers_0238">
+                        <persName>Johann Albrecht Widmannstetter</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>ancora a lungo sulle fatiche legate alla tipografia, che deve combinare con la sua attività medica. PS sui corani: "ti prego di farmi sapere se hai ricevuto quell’esemplare del Corano più elegante / assai elegante, e cosa pensi riguardo all’edizione dei tre Corani. Ti prego di farmi avere l’esemplare del Nuovo Testamento stampato presso di voi in caratteri siriaci, te lo restituirò con tantissime grazie al più presto [Peto significa an Alkoranii elegantius illud Exemplar receperis et quod de tribus Alkoranibus editione sentias. N.T. Syriacis characteribus apud vos impressi, quaeso transmittas exemplar, remittam gratis gratiis pecuniam, quae primam significaveris]</note>
+               <note>DA USARE PER CHRISTIANITY E ARTICOLO ROMA</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">112r–112r</biblScope>
+               <biblScope unit="page">112r–113v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -68,27 +95,21 @@
          <correspDesc ref="STR0076">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
-               <placeName xml:id="ST_Place_0032">Wroclav</placeName>
+               <placeName xml:id="ST_Place_0032">Wrocław</placeName>
                <date when="1609-01-09">9 January 1609</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0139">Avicenna</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0244">Henricus Thiel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0292">Johann Albrecht Widmannstetter</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Redd. 18 feb. A° 1609. Respondi 22 febr.</cell>
+      </body>
+   </text>
 </TEI>

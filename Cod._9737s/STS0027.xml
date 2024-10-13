@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,43 @@
             <idno>STS0027</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0100">
+                        <persName>Maximilian I</persName>
+                     </person>
+                     <person ref="ST_Pers_0529">
+                        <persName>Jacobus Beccius</persName>
+                     </person>
+                     <person ref="ST_Pers_0027">
+                        <persName>Marquard Freher</persName>
+                     </person>
+                     <person ref="ST_Pers_0532">
+                        <persName>Kaspar Brusch</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Si parla di monasteri. Thomas! C'è un passaggio interessante, in cui mi sembra che si parli dei protestanti come di una "ferita di Chirone", dunque inguaribile ma neppure mortale, qualcosa che causa indicibili sofferenze e disperazioni : Macte itaque hoc studio VC praeclare itaque ac superis conatui tuo faventibus ac rapinarum suarum vindicibus hoc opus pertexe, ut ne, quibus frons etiamnum imbecillior, et conscientia necdum ferrea adhaesit, ab hoc rerum divinatum sacrilegio tandem aliquando manum tollant deterreantxx sed vereor, ne medicina serior sit, et acrioribus omnio remedia hoc ulnus plane Chironium curand. expellendum sit. </note>
+               <note>USARE IN CHRISTIANITY</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">40r–40r</biblScope>
+               <biblScope unit="page">40r–40v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -63,20 +97,11 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0100">Maximilian I</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0529">Jacobus Beccius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0027">Marquard Freher</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0532">Kaspar Brusch</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

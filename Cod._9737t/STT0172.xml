@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Job Hartmann von Enenkel to Sebastian Tengnagel. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0172</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0258">
+                        <persName>Hieronymus Megiser</persName>
+                     </person>
+                     <person ref="ST_Pers_1005">
+                        <persName>Johannes Melchior Maderus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Salute, mio nobile ed eccellente Signore,
+colui che ti porta questa lettera, Giovanni Melchiorre Madero, è uno studioso di lingue orientali e conosce tra l'altro anche l'arabo.
+Mi è stato raccomandato dal nostro caro Megisero, affinché io a mia volta lo raccomandassi a te.
+E ciò che io, con questa lettera, ho voluto concedere/assicurare a Madero, tu (concedilo) per la tua umanità/generosità: a lui che viene qui per vedere il tuo soglio (imperiale) ti mostrerai benevolo, tanto quanto il suo ingegno avrà meritato.</note>
+               <note>Addio e voglimi bene</note>
+               <note>AGENTS!! ma come posso capire se resta poi a servizio di ST? importantissimo da guardare con attenzione questo: http://data.onb.ac.at/rec/AC10090699 
+su di lui cf. https://www.zedler-lexikon.de/index.html?c=blaettern&amp;id=170187&amp;bandnummer=19&amp;seitenzahl=0100&amp;supplement=0&amp;dateiformat=1%27</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">277r–277v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0172">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0024">Job Hartmann von Enenkel</persName>
+               <placeName xml:id="">s.l.</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">D. Baroni Enenckeli littera 
+qua commendat Maderum Arabico 
+doctum</cell>
+      </body>
+   </text>
+</TEI>

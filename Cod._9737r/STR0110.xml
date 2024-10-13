@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">[Jan Gruter] to Redzenberger [Caspar Ratzenberger?]. 1610-10-20</title>
+            <title type="main">[Jan Gruter] to Redzenberger. 1610-10-20</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,38 +41,79 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0102">
                      <title>Historia Augusta</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0234">Heilbronn</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0021">Prague</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0001">Vienna</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0234">
+                        <placeName>Heilbronn</placeName>
+                     </place>
+                     <place ref="ST_Place_0021">
+                        <placeName>Prague</placeName>
+                     </place>
+                     <place ref="ST_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                     <place ref="ST_Place_0008">
+                        <placeName>Frankfurt am Main</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_1013">
+                        <persName>Ranutio Ghero</persName>
+                     </person>
+                     <person ref="ST_Pers_1014">
+                        <persName>Sebastian Hornmold</persName>
+                     </person>
+                     <person ref="ST_Pers_0178">
+                        <persName>Johann Matthäus Wacker von Wackenfels</persName>
+                     </person>
+                     <person ref="ST_Pers_0147">
+                        <persName>Johann Anton Barvitius</persName>
+                     </person>
+                     <person ref="ST_Pers_0011">
+                        <persName>Jakob Christmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0021">
+                        <persName>Caspar Dornau</persName>
+                     </person>
+                     <person ref="ST_Pers_0070">
+                        <persName>Sebastian Tengnagel</persName>
+                     </person>
+                     <person ref="ST_Pers_0090">
+                        <persName>Ursula Ungelter</persName>
+                     </person>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Arminius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>La ONB la considera parte della lettera precedente, ma non va bene, anche se è complicato capire di cosa si tratti esattamente, perché Tengnagel interviene con alcune sue correzioni. Che sia la copia del segretario di ST? La grafia è identica alla precedente. Dovrebbe trattarsi della persona che sarebbe andata a Vienna; si menziona dunque la richiesta e una "scheda" di Christmann da consegnare a Tengnagel. </note>
+               <note>Thomas, mi aiuti? Ci sono altri nomi che non identifico . =&gt; Ho aggiunto qualche nome. Il Festi[...]nius medicus regius non lo identifico; forse l'hai visto altrove?</note>
+               <note>grazie! Vedo solo un problema con l'identificazione con Caspar: sembra che sia morto nel 1603; Ranutio Ghero è uno pseudonimo di Gruter, ma lo inserisco come tale nell'elenco dei nomi</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">160v–160v</biblScope>
+               <biblScope unit="page">160v–161r</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -80,50 +128,17 @@
                <date when="1610-10-20">20 October 1610</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0225">Redzenberger [Caspar Ratzenberger?]</persName>
+               <persName xml:id="ST_Pers_0325">Redzenberger</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_1013">Ranutio Ghero</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1014">Sebastian Hornmol</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_PERS_0178">Johann Matthäus Wacker von Wackenfels</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0147">Johann Anton Barvitius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0011">Jakob Christimann</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0021">Caspar Dornau</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0090">Ursula Ungelter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0004">Hugo Blotius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0318">Arminior, Wechel, famulus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0226">Tobia Scultetus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ian Gruteri memor.</cell>
+      </body>
+   </text>
 </TEI>

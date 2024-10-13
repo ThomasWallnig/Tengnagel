@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,11 +41,8 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
                   <bibl xml:id="ST_Works_0114">
                      <title>Joseph Justus Scaliger, Opuscula varia antehac non edita</title>
                   </bibl>
@@ -55,18 +59,64 @@
                      <title>Cathologum libroum Constantinopoli venalium Manuscriptorum in linguis Graeca, Syra, hebraica, Arabica Persica, Turcica vel Chaldaica</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0039">
+                        <persName>David Hoeschel</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0018">
+                        <persName>Jacques-Auguste De Thou</persName>
+                     </person>
+                     <person ref="ST_Pers_0185">
+                        <persName>Fédéric Morel</persName>
+                     </person>
+                     <person ref="ST_Pers_0319a">
+                        <persName>Johann Rhode</persName>
+                     </person>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0335">
+                        <persName>Étienne Hubert</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Guillaume Le Bé</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Commenti su Kirstenius e Le Bé e gli Opuscula di Scaliger. Grafia difficile</note>
+               <note>Quando ho visto gli opuscoli scaligeriani sono stato preso da un incredibile ardore. chiede che dopo questa sorta di antipasto arrivino opere anche più sostanziose, che contengano un tesoro di opere arabiche, infatti io brucio per l'ardore di studiare quella lingua e sono consapevole che in questo amore siamo complici/rivali [...]
+a parte la tua straordinaria benevelenza nei miei confronti non capisco per quale motivo finora non ho saputo nient'altro da te. Forse perché la mia lettera, che avevo saffidato al bibliotecario di Francorte, o si è persa o è stata trascurata. Perciò ti raccomando ––– mio amico Hoeschel --- 
+Messa da parte ogni tergervisazione dirò tutto quello che mi viene sulla lingua --- ti chiederò quando usciranno quei Proverbi e che cosa facciano quell'Erpenio e quello Hubertus. Vorrei anche che tu mi mandsassi un catalogo dei tuoi libri arabi e anche in altre longue orientali, quel lessico trilingue, la cosmografia di cui si fa menzione nella lettera, e ti chiedo anche di spiegarmi meglio dove siano stati scritti e comprati --- [poi riferimenti a autori classici?? non capisco] ... [sono infiammato dal tuo desiderio ... ] ma c'è una buona speranza che grazie a te Heinsius dica di sì e accetti di fare da mistagogo. Se ancora fosse vivo quel grande uomo[chi?] allora sarebbe lecito copiare alcuni manoscrtiti arabi, turchi [...] poi si parla di un lessico turco-arabo e un altro arabo-persiano che scaliger desiderava tradurre e curare. Chiede se c'è disponibilità di ... e quegli sulla Genesi e il Pentateuco in lettere ebraiche, scritti in arabo da un ebreo, se questi potessi procurare una copia. poi magari fossero copiati quel lessico messo insieme da Scaliger i tipi di Gullieume Le Bé, amico nostro, e quelle altre cose a cui anche tu lavori. Il nostro Kirstenius ha pubblicato uno specimen non certo da disprezzare, anche sei i vostri caratteri sono siperiori senza dubbio a quelli di Kirstenius per l'eleganza. Nella vita degli evangelisti da me ricevuta ci sono un bel po' di errori che vanno corretti e quindi bisogna preparare un'altra edizione e su questo io continuerò a insistere. [Published partly in Lambeck]</note>
+               <note>cerca il catalogo dei libri in vendita a Costantinopoli e spera di potersi procurare alcuni libri tramite i cristiani in Egitto, Palestina e Mesopotamia.</note>
+               <note>
+In Christianity</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">170r–170r</biblScope>
+               <biblScope unit="page">170r–171v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -89,44 +139,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0039">Daniel Hoeschel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0035">Daniel Heinsius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0018">Jacques-Auguste De Thou</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0185">Fédéric Morel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0219">Johann Rhode</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0072">Joseph Justus Scaliger</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0235">Étienne Hubert</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0186">Guillaume Le Bé II</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0350">Polybius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0068">Konrad Rittershausen</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

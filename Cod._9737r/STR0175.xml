@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Konrad Rittershausen to ST. 1613-01-31</title>
+            <title type="main">Konrad Rittershausen to Sebastian Tengnagel. 1613-01-31</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,48 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0075">Nuremberg</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0075">
+                        <placeName>Nuremberg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0288">
+                        <persName>Georg Remus</persName>
+                     </person>
+                     <person ref="ST_Pers_0434">
+                        <persName>Johannes Nicolaus Freigius</persName>
+                     </person>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="ST_Pers_0243">
+                        <persName>Julius Konrad Otto</persName>
+                     </person>
+                     <person ref="ST_Pers_0435">
+                        <persName>Salvianus Massiliensis</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Raccomanda Joannes Nicolaus Freigius. Doveva trattarsi evidentemente del figlio di Thomas, e compare nell'album amicorum di Paludanus, con data 1611.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">230r–230r</biblScope>
+               <biblScope unit="page">230r–230v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -66,29 +97,17 @@
                <date when="1613-01-31">31 January 1613</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0288">Georgius Remus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0434">Joannes Nicolaus Freigius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0004">Hugo Blotius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0243">Julius Konrad Otto</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0435">Salvianus Massiliensis</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Red. a Conr. Rittershusio 28 feb. A° 1613, circa vesperam per freigium. Antequam hisce accepissem; scripsi ad eum hodie prima luce; de Salviano Maßil.; de Malcho Pythagor.; de itinerar. Zwecken; de Ottone Conrado Hebraeo neophyto Christian.; de Commentaris eius in novellas; It. gratulat; sum de recuperata valetudine; 28 feb. 1613</cell>
+      </body>
+   </text>
 </TEI>

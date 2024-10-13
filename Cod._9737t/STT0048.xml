@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Sibrandus Van Wyningen to ST. 1626-01-19</title>
+            <title type="main">Sibrandus van Wyningen to Sebastian Tengnagel. 1626-01-19</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,58 @@
             <idno>STT0048</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0224">
+                     <title>Catalogus librorum Orientalium, qui vel manuscripti, vel editi, in bibliotheca Erpeniana exstant</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0026">
+                        <placeName>England</placeName>
+                     </place>
+                     <place ref="ST_Place_0063">
+                        <placeName>Leiden</placeName>
+                     </place>
+                     <place ref="ST_Place_0203">
+                        <placeName>Holland</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0880">
+                        <persName>George Villiers</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0846">
+                        <persName>Jacobus Golius</persName>
+                     </person>
+                     <person ref="ST_Pers_0881">
+                        <persName>Aben Egalianus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Un suo amico, commissarrio regio, ha detto che Buckhingam ha preso tutti i libri arabi e se li è portati in Inghilterra ma che non sa che cosa sia stato di Aben Egalicanus(?). Chiederà a Golius. Il catalogo della biblioteca di Erpenio è in stampa. 
+Seguono riferimenti agli arminiani che purtroppo non capisco.</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">84r–84r</biblScope>
+               <biblScope unit="page">84r–84v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -52,22 +101,22 @@
          </textClass>
          <correspDesc ref="STT0048">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0867">Sibrandus Van Wyningen</persName>
+               <persName xml:id="ST_Pers_0830">Sibrandus van Wyningen</persName>
                <placeName xml:id="ST_Place_0037">Amsterdam</placeName>
                <date when="1626-01-19">19 January 1626</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Winingen 19 Ianuar 1626. Accept. 5 febr. Buckingamium Ducem comparasse libros Arabic. in Hollandia: D. Golium aegrotare lethaliter; Erpeni Catalogum Erpeni ... Arminiani ...</cell>
+      </body>
+   </text>
 </TEI>

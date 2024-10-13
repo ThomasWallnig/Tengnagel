@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Sebastian Tengnagel to Fronton du Duc. 1614-09-08</title>
+            <title type="main">Sebastian Tengnagel to Jacques-Auguste de Thou. 1614-09-08</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,73 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
-                  <bibl xml:id="ST_Works_0044">
-                     <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+                  <bibl xml:id="ST_Works_0125">
+                     <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0160">
+                     <title>Muṣṭafā Ǧannābī, Tā'rīḫü l-Cenābī</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0198">
+                     <title>Story of Timur / Tamerlan in Persian and in Turkish</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0019">
+                        <placeName>Paris</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0361">
+                        <persName>Luis del Mármol Carvajal</persName>
+                     </person>
+                     <person ref="ST_Pers_0285">
+                        <persName>Robert de Scheilder</persName>
+                     </person>
+                     <person ref="ST_Pers_0286">
+                        <persName>Baltasar de Zúñiga</persName>
+                     </person>
+                     <person ref="ST_Pers_0162">
+                        <persName>Nicephorus Callistus Xanthopulus</persName>
+                     </person>
+                     <person ref="ST_Pers_0022">
+                        <persName>Fronton du Duc</persName>
+                     </person>
+                     <person ref="ST_Pers_0369">
+                        <persName>Timur</persName>
+                     </person>
+                     <person ref="ST_Pers_0467">
+                        <persName> Guillelmus Tyrensis</persName>
+                     </person>
+                     <person ref="ST_Pers_0468">
+                        <persName>Patrick Seid</persName>
+                     </person>
+                     <person ref="ST_Pers_0464">
+                        <persName>Mustafā Ǧannābī</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Grandissimi elogi di De Thou. Nella prima parte parla di Niceforo e si dice felice dell'edizione in Francia, Poi chiede una copia dell'Histoire universelle di De Thouin 8°, in cui viene citato anche Luis del Mármol Carvajal, la cui opera, dice, ha cercato a lungo vanamente. Gliene aveva promessa una copia Schelderus, ma poi non l'ha mandata. Chiede quindi a De Thou di procurargliene una. Gli sarebbe infatti utile per l'opera in cui si stava cimentando, cioè una storia dei Saraceni e dei maomettani, dalla fondazione della "perfida setta". Aggiunge poi che vorrebbe tradurla in latino, insieme una cronaca in turco, che descrive tutti i re e una storia del califfato di Bagdad e di Egitto e infine la storia di Tamerlano in turco e in persiano. Conclude chiedendo di informarlo riguardo alla presenza a Parigi di opere in ebraico, siriaco, turco o persiano. 
+Da tradurre per bene integralmente per me e per Hulya. CONFERMA L'INTENZIONE DI PUBBLICARE TRE LIBRI, ANZI, INCLUSA LòA STORIA DI TAMERLANO, 4 
+CHRISTIANITY</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">281v–281v</biblScope>
+               <biblScope unit="page">281r–281v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -66,43 +122,19 @@
                <date when="1614-09-08">8 September 1614</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0022">Fronton du Duc</persName>
+               <persName xml:id="ST_Pers_0018">Jacques-Auguste de Thou</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin
 
-Greek</language>
+</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0071">Henry Savile</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0162">Nicephorus Callistus Xanthopulus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0113">John Chrysostom</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0116">Gregory of Nazianzus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0517">Guillelmus Tyrensis</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0162">Nicephorus Callistus Xanthopulus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0285">Robert de Scheilder</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0469">Richard Montague</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0185">Frédéric Morel</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

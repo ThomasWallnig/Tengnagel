@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Marcellus Franckheim to ST. 1620-12-03</title>
+            <title type="main">Marcellus Franckheim to Sebastian Tengnagel. 1620-12-03</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,30 +41,46 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0144">Mühlhausen</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0025">
+                        <placeName>Transylvania</placeName>
+                     </place>
+                     <place ref="ST_Place_0144">
+                        <placeName>Mühlhausen</placeName>
+                     </place>
+                     <place ref="St_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0484">
+                        <persName>Martin Becanus</persName>
+                     </person>
+                     <person ref="ST_Pers_0666">
+                        <persName>Johann Schweikhard von Kronberg</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>ho la trad altrove, copiare info, è interessante. Tono famigliare, abbastanza intimo. Allude a avventure amorose, che lo hanno reso più triste ma più saggio. È al corrente della situaizone pol e militare: si rallegra della tregua con la tyransilvania, ma dubita che "quel circonciso o schiavo del circonciso possano essere affidabili", alludendo alla tregua tra ferdinando e gabor di 8 mesi, firmata il 16 gennaio 1620. Poi dice che l'elettore di Magonza ha lasciato Muhlausen per incontrarsi con gli altri elettori per discutere le strategie contro le rivolte boeme. Forse, aggiunge, i luterani faranno un accordo con i cattolici. dice che ha appena pubblicato una oratio (Expeditio). Gli chiede di salutare Martin Becanus e dice che forse in autunno sarebbe venuto a Vienna, "quando i tempi sono un po' più tranquilli". 
+USARE in cristianesimo</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">193r–193r</biblScope>
+               <biblScope unit="page">193r–193v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -72,20 +95,17 @@
                <date when="1620-12-03">3 December 1620</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0484">Martin Becanus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0666">Johann Schweikhard von Kronberg</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">A D. Marcello franckhemio Redd. 9 April 1620</cell>
+      </body>
+   </text>
 </TEI>

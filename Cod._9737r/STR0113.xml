@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Christoph Crinesius to ST. 1610-11-19</title>
+            <title type="main">Christophorus Crinesius to Sebastian Tengnagel. 1610-11-19</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,32 +41,53 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0106">
                      <title>Crinesius, Disputatio de confusione linguarum</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0082">Sweden</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0083">Saxony</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0082">
+                        <placeName>Sweden</placeName>
+                     </place>
+                     <place ref="ST_Place_0083">
+                        <placeName>Saxony</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0310">
+                        <persName>Lorenz Fabricius</persName>
+                     </person>
+                     <person ref="ST_Pers_0331">
+                        <persName>Christian Beckmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0087">
+                        <persName>Friedrich Taubmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>igitur tibi Becmannum &amp; Fabricii partitiones; illum decem; huic sex grassis emptum librum. Fabritius sua exemplaria omnia in Timoniam, Svediam et Saxoniam inferiorem miserat, alias et tibi unum obtulisse</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">165r–165r</biblScope>
+               <biblScope unit="page">165r–165v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -69,12 +97,12 @@
          </textClass>
          <correspDesc ref="STR0113">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0237">Christoph Crinesius</persName>
+               <persName xml:id="ST_Pers_0237">Christophorus Crinesius</persName>
                <placeName xml:id="ST_Place_0058">Wittenberg</placeName>
                <date when="1610-11-19">19 November 1610</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -82,20 +110,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0310">Lorenz Fabricius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0231">Christian Beckman</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0087">Friedrich Taubmann</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Red. 15 Ian. A° 1611 a Grutero</cell>
+      </body>
+   </text>
 </TEI>

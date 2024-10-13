@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,23 +41,38 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0079">Poland</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0025">Transylvania</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0079">
+                        <placeName>Poland</placeName>
+                     </place>
+                     <place ref="ST_Place_0025">
+                        <placeName>Transylvania</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0090">
+                        <persName>Ursula Ungelter</persName>
+                     </person>
+                     <person ref="ST_Pers_0355">
+                        <persName>Abbas I</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>TW: Geisberg: (Georg von Gaisberg) prima lettera di ST; è il cognato di Ursula (uxoris meae, cognatis tuae), perciò probabilmente membro di questa famiglia: https://de.wikipedia.org/wiki/Gaisberg_(Adelsgeschlecht) (anche gli Ungelter provenivano dalla Swabia, se non sbaglio). Notizie sulla situazione politica: finalmente c'è la pace ma potrebbe essere in pericolo.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
@@ -75,14 +97,11 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0090">Ursula Ungelter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0355">Abbas I</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

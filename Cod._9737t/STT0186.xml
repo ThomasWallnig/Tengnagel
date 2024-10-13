@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Maximilian I. [1612]</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0186</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>ST si scusa per il disturbo recato all’Arciduca sicuramente impegnato in occupazioni più importanti ma si giustifica di avere preso la penna e di avere interrotto il suo consueto lavoro di scrittura per potersi dedicare interamente a una richiesta dettata dall’estrema necessità in cui si trova e che spera che l’arciducva possa accogliere con le virtù di benignità e generosità che tutti gli riconoscono e che sono virtù non solo regali ed eroiche ma particolarmente innate nella Casa d’Austria e specialmente eccellenti in lui. 
+Qui comincia la lettera vera e propria: da più di 10 anni o mio principe io presto la mia opera presso la biblioteca imperiale, con tutto il mio zelo, pur ricevendo uno stipendio abbastanza magro che per il primo sessennio è stato di 50 fiorini l’anno e per il successivo quadriennio di 200. Ma lo spendo tutto per le gravi necessità che mi impone il mio stato di malattia. Adesso mi sfinisco a compilare dei cataloghi di manoscritti greci e latini. Tra i mss un numero abbondante decifro e leggo con attenzione di mss ebraici arabi siriaci caldei e di altre lingue volgari (in tutto ne parlo 12). In questo lavoro io verso per così dire il sangue e per di più in un sito malsano, polveroso, umido, pieno di muffe, piattole e blatte e quindi come rimpensa di questo mio lavoro di giorno e di notte mi ammalo e la malattia cerco di sconfiggerla con continui medicamenti ma per di più sono afflitto da una grave congiuntivite ovviamente assai perniciosa ai miei studi, contro cui le ho provate tutte ma che ormai minaccia di strapparmi del tutto agli studi. Mi trovo dunque tra l’incudine e il martello, come si suol dire, dal momento che mi dibatto da una parte nelle povertà, che è nemica della serenità, e dall’altra dalla malattia che nonostante l’amore per gli studi mi tormenta atrocemente. Per questo motivo, piissimo principe, avendo ormai consumato in questa sterile funzione il fiore dei miei anni, in questa situazione di malattia e di pericolo di vita e poiché le mie risorse sono ormai esauste/consumate, e non possono più sostenere le spese quotidiane, mi prostro umilmente davanti alla sua santa benignità e liberalità e chiedo umilmente in lacrime e spinto dalla miseria e dalla necessità che il mio stipendio troppo esiguo e nemmeno sufficiente a coprire le spese della famiglia la VS si degni di aumentarlo di 100 fiorini all’anno. E poiché ho avuto prova della generosità e della grazia della VS e moltissimi esempi confermano questa sua generosità, vorrei che anche il mio nome fosse incluso nel numero di coloro ai quali la vostra benignità ha distribuito il suo beneficio. E per il mio fedele servizio di 10 e più anni nella biblioteca imperiale io chiedo che VS mi faccia grazia di questo beneficio e non si aggravi di aggiungere un donativo unico come supplemento al mio bisogno di 1000 fiorini.Sia questo l’esempio davvero regale della vostra Serenità, quello con cui riceve le mie letterine, sia l’istantaneo alleggerimento del debito da cui, a causa delle tasse, è afflitta la mia casa: il donativo stesso sarebbe un immediato sollievo per le miei miserie, una consolazione per la mia tremenda povertà, una cura per la sua salute ormai al collasso e un accrescimento per i miei studi e un generoso donativo per l’acquisto di libri rari di lingue e di storie nei quali di solito consumo le mie pur poche risorse al fine di adornare la biblioteca imperiale. E se riuscirò a ottenere tutte queste cose io tenterò per quanto possibile al mio mediocre ingegno che questo egregio beneficio sia consacrato nella mia memoria(?). E farò modo di eternare il ricordo anche scrito del beneficio sacrosanto dovuto alla pietà,devozione, prudenza e clemenza dell’arciduca. </note>
+               <note>
+</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">296r–297v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0186">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="[1612]">[1612]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0100">Maximilian I</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

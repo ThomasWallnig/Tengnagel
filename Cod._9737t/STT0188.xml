@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to s.n.. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0188</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>chiede all'imperatore di ottenere un posto come suo segretario. non c'è data ma è intorno al viaggio in Italia che non fece. metto trad. </note>
+               <note>L’ardente desiderio del mio animo, che finora ho tenuto nascosto nel silenzio della mia mente, finalmente lo metto fuori e lo dichiaro: e anche se il pudore si frappone e si adopera affinché io celi questo mio desiderio forse ancor più impudentemente, nondimeno la straordinaria benevolenza della tua Signoria con la quale ha stimolato i miei studi, li ha fatti avanzare e mi ha mi ha collocato in questa onorevole funzione della cura della biblioteca imperiale
+mi invita e mi sollecita a far sì che quelle cose che il pudore mi ha finora proibito di esporre pubblicamente, quelle adesso alla vostra signoria che io onoro e rispetto, a buon diritto, come un secondo padre, esporrò adesso in poche parole in questa lettera che non arrossisce.</note>
+               <note>E perciò questa stessa cosa, fiducioso nella solenne ***
+sommessamente propongo alle orecchie benevolissime della vostra eccellenza.
+il mio animo, desideroso di alleviare le fatiche gravissime della vostra eccellenza, aspira umilmente a quell’ufficio di segretario latino che presso la vostra signoria illustrissima dicono che si sia appena liberato; solo a questa condizione tuttavia: che la vostra eccellenza mi abbia stimato idoneo e capace di un tale incarico (******, di esaminare le tenuissime forze del mio ingegno lo affido alla bilancia di Critolao). 
+Infatti non voglio e non devo caricarmi un peso impari alle mie forze.
+Per questo motivo, illustrissimo VC, se lei crederà che io possa non dico adornare Sparta, ma almeno sostenerla, volentieri e con piacere io mi assumerò questo compito e proverbio
+purché io possa da questa umbratile vita e dalla polvere delle lettere uscire al sole e alla luce della funzione pubblica grazie allo splendore della vostra grazia e del vostro patrocinio illustre. </note>
+               <note>Sopporterò dunque e resisterò fino a quando quel nostro grande re e illustrissimo avrà preso una decisione sul mio conto.
+Riguardo alla mia partenza per l’Italia vi avviso di nuovo in tre parole (come si suol dire) che 
+per quanto pazientemente io chieda .. chiedo e supplico -se c’è qualche spazio per le preghiere-
+che si degni benevolemnte di concedermi la facoltà di andar via – cosa in cui risiede gran parte della mia stessa salute. e se io lo avrò ottenuto, quando poi sarò ritornato, riporrò tutto il mio zelo e la mia opera al servizio della vostra magnificenza illustrissima.
+E con ciò, io mando i miei rispetti e ossequi alla vostra signoria illustrissima che io riconosco con animo grato come fautore, promotore e propagatore dei miei studi, e me la auguro favorevole e benigna nei confronti delle mie preghiere. E infine, Ilustrissima signoria, le auguri di vivere e prosperare in eterno.</note>
+               <note>CITARE IN CHRISTIANITY RIGUARDO AL VIAGGIO A ROMA E CITARE ANCHE IL PASSAGGIO DALLA VITA UMBRATILE DELLO STUDIOSO ALLA LUCE DELLA VITA PUBBLICA</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">299r–299v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0188">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="">s.l.</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="">s.n.</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

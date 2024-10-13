@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Petrus Kirstenius to ST. 1624-12-21</title>
+            <title type="main">Petrus Kirstenius to Sebastian Tengnagel. 1624-12-21</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0217">
                      <title>Geographia Nubiensis</title>
@@ -43,23 +50,56 @@
                      <title>Qur'an</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0036">
+                        <placeName>Heidelberg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0815">
+                        <persName>Georgius Klosus</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0086">
+                        <persName>Friedrich Monau</persName>
+                     </person>
+                     <person ref="ST_Pers_0814">
+                        <persName>Servatius Reichel</persName>
+                     </person>
+                     <person ref="ST_Pers_0055">
+                        <persName>Elias Opala</persName>
+                     </person>
+                     <person ref="ST_Pers_0783">
+                        <persName>Andreas Dudith</persName>
+                     </person>
+                     <person ref="ST_Pers_0483">
+                        <persName>Jakob Monau</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Prima parte sui suoi problemi a Wrocław; solo alla fine rif a cose orientali, sui mss arabi a Heidelberg; alla fine dice che Monau si scusa del suo ritardo e quindi riponde tramite Kirstenio, sia sualla geografia nubiense, della biblioteca del padre e di quella di Dudith (finita in Moravia). 
+Poi dice che sono morti sia Opala sia Servatius Reichel
+Parole in uno strano alfabeto</note>
+               <note>da usare forse, in AGENTS</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">327r–327r</biblScope>
+               <biblScope unit="page">327r–328v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -74,37 +114,19 @@
                <date when="1624-12-21">21 December 1624</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>latin 
 
-Arabic(?) </language>
+Arabic(?)</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0815">Georgius Klosus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0052">Friedrich Monau</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0814">Servatius Reichel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0055">Elias Opala</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0783">Andreas Dudith</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0483">Jakob Monau</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

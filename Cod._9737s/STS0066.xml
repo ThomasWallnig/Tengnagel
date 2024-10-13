@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Thomas Erpenius to ST. 1617-05-02</title>
+            <title type="main">Thomas Erpenius to Sebastian Tengnagel. 1617-05-02</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0056">
                      <title>Qur'an</title>
@@ -55,23 +62,45 @@
                      <title>Thomas Erpenius, Historia Saracenica</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0136">
+                        <persName>Jan van Wyningen</persName>
+                     </person>
+                     <person ref="ST_Pers_0066">
+                        <persName>Franciscus Raphelengius</persName>
+                     </person>
+                     <person ref="ST_Pers_0110">
+                        <persName>Abū' l-Fidā'</persName>
+                     </person>
+                     <person ref="ST_Pers_0588">
+                        <persName>Henri Estienne</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>lettera portata da Winingen. Erpenius si lamenta aspramente perché pur avendo ricevuto un uomo di Tengnagel, non ha ricevuta una sua lettera; aggiunge che vista "la comunanza degli studi e l'amicizia contratta da circa due anni" non si ci può permettere di tralasciare queste occasioni per scriversi l'un l'altro. inoltre si lamenta che la frequenza delle sue lettere è molto superiore a quelle che ha ricevuto, avendo egli scritto quasi una voltsa ogni 9 giorni e avendo mandato insieme alle lettere anche dei libri, ad esempio un esemplare del dizionario di arabo raphalengiano e insieme a tante altre cose pubblicate da Raphalangio che ancora non . sa nemmeno se siano state ricevute. poi passa a parlare dei suoi studi. "Da quell'epoca ho continuato senza tregua nelle prove di una tipografia orientale, di cui credo che tu abbia già da tempo visto dei campioni. Da poco è stato pubblicato (da questa tipografia) un Nuovo Testamento che perlò per gravi faccende personali ho dovuto abbandonare. Anche se non sono state pubblicate, non voglio nascondere che tu sei stato il più grande fautore dei miei studi. Ora sono tutto dedito alla Geografia, sia quella di Abulfeda, sia quella che è stata pubblicata a Roma: entrambe spero che verranno pubblicate e tradotte insieme con mappe e illustrazioni, anche con il contesto arabo. E poi sono dedito alla storia dei saraceni abbreviata proveniente dalla Palatina che verrà pybblicata quest'estate in arabo e latino in folio, mentre soltanto in arabo in 8 e in 4. Seguirà un Corano accuratamente corredato di punti, tradotto, commentato e confutato. Poi un Tesauro della grammatica e della lingua araba, un commentario della lingua araba e un ricchissimo lessico arabo; ma in questo c'è ancora un bel po' da sudare per me. Sarà più facile farlo in futuro perché mi solleveranno dalle fatiche dell'arabo; infatti mi sono imbattuto in alcuni dizionari arabi molto dettagliati simili al tesauro della lingua greca dello Stefani e ai dizionari arabo-turchi tranne soltanto quello posseduto dalla nostra biblioteca, del quale pure mi servo. Parimenti una storia saracena soltanto in latino e anche dei dizionari e una grammatica delle lingue etiope, persiana e turca che ho già quasi pronte; una storia samaritana in arabo, in caratteri samaritani e arabi. A questi seguiranno poi, se mi basta la vita, molte altre opere nelle quali ancora niente o poco ho messo mano, tra i quali molti autori persiani e turchi tra i quali un'opera meravigliosa sulle pietre preziose in arabo e una storia persiana e mauaranica, poi cose in ebraico con il mio commentario. Poi la bibbia in arabo e altre cose . Poi dei piccoli libretti che xxx</note>
+               <note>DA USARE PER CHRISTIANITY E PER LA FACCENDA DELLE TIPOGRAFIE FORSE ARTICOLO CON HULYA SU ERPENIUS. DISCUTERE CON HULYA.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">100r–100r</biblScope>
+               <biblScope unit="page">100r–101v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -86,7 +115,7 @@
                <date when="1617-05-02">2 May 1617</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -94,22 +123,13 @@
 
 Unknow Alphabet (line n. 28)
 
-Hebrew </language>
+Hebrew</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0136">Ian van Wyningen</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0066">Franciscus Raphelengius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0110">Abū' l-Fidā' [Abilfeda]</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0588">Henri Estienne</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Thom. Erpenius linguarum Orientalium peritiissimus 23 April. 1617. Scripsi iterum Erpenio, 7 August. A° 1619 et Ioan a Wyningen curand. dedi.</cell>
+      </body>
+   </text>
 </TEI>

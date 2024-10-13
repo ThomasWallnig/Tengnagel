@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Georg Sturn to ST. 1610-12-01</title>
+            <title type="main">Georg Sturn to Sebastian Tengnagel. 1610-12-01</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0004">
                      <title>Arte para saver ligeramente la lengua Araviga</title>
@@ -43,22 +50,61 @@
                      <title>Cicero, Epistolae ad familiares</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0103">Passau</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0033">Würzburg</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0103">
+                        <placeName>Passau</placeName>
+                     </place>
+                     <place ref="ST_Place_0033">
+                        <placeName>Würzburg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_1015">
+                        <persName>Xerxes I</persName>
+                     </person>
+                     <person ref="ST_Pers_1016">
+                        <persName>Augustus</persName>
+                     </person>
+                     <person ref="ST_Pers_1017">
+                        <persName>Krenberger</persName>
+                     </person>
+                     <person ref="ST_Pers_1018">
+                        <persName>Apollonia</persName>
+                     </person>
+                     <person ref="ST_Pers_1019">
+                        <persName>Hippin</persName>
+                     </person>
+                     <person ref="ST_Pers_1020">
+                        <persName>Ring*in</persName>
+                     </person>
+                     <person ref="ST_Pers_1021">
+                        <persName>Treterin</persName>
+                     </person>
+                     <person ref="ST_Pers_1022">
+                        <persName>Radzin</persName>
+                     </person>
+                     <person ref="ST_Pers_1023">
+                        <persName>Stegerin</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Ursula Ungelter</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>notizie sulla richiesta di ottenere quel libro spagnolo (prob. si tratta di Alcalá anche se non viene esplicitato), dice che è complicato e ha chiesto in vari collegi della provicincia; anche sull'incarico di storico affidato a Tengnagel, almeno mi pare, riguardo al quale cita la lettera sulle "leggi della storia" di Cicerone a Licceo . ZAlla fine vari nomi che non leggo bene</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
@@ -77,7 +123,7 @@
                <date when="1610-12-01">1 December 1610</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -85,53 +131,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_1015">Xerxes I</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1016">Augustus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1017">NN Krenberger</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1018">Apollonia Spitlmeisterin</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1019">NN Hippin (f)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1020">NN Ring/in (m &amp; f)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1021">N Treterin (f)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1022">N Radzin (f)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_1023">N Stegerin (f)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0090">Ursula Ungelter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0351">Pfeiffer</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0171">Galen</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0233">Tobia</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0352">Krebs</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0353">Thomas</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Redd. a P. Sturno Dec. A° 1610</cell>
+      </body>
+   </text>
 </TEI>

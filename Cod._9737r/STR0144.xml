@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Jan Gruter to ST. 1611-04-05</title>
+            <title type="main">Jan Gruter to Sebastian Tengnagel. 1611-04-05</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0027">
                      <title>Jan Gruter, Florilegium ethico-politicum</title>
@@ -49,26 +56,47 @@
                      <title>Pauline epistles in arabic</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0036">Heidelberg</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0008">
+                        <placeName>Frankfurt</placeName>
+                     </place>
+                     <place ref="ST_Place_0036">
+                        <placeName>Heidelberg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0011">
+                        <persName>Jakob Christmann</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>dice che ha scritto a Kirstenius a proposito del Pentateuco e delle Epistole Paoline. Poi risponde a proposito del suo Florilegio e nomina Heinsius e un esemplare in arabo che hanno loro, ma non capisco. Dice che chiederà il catalogo delle opere arabe lasciate da Scaliger. Devo cercare di decifrare il primo periodo, quando dice quod attinet ad Arabem nostrum</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">190r–190r</biblScope>
+               <biblScope unit="page">190r–190v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -79,30 +107,21 @@
          <correspDesc ref="STR0144">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
-               <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
+               <placeName xml:id="ST_Place_0008">Frankfurt am Main</placeName>
                <date when="1611-04-05">5 April 1611</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0035">Daniel Heinsius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0072">Joseph Justus Scaliger</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0011">Jakob Christmann</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">A Iano Grutero v. Doctiss. 1611, 28 April</cell>
+      </body>
+   </text>
 </TEI>

@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Henry Savile to ST. 1610-08-01</title>
+            <title type="main">Henry Savile to Sebastian Tengnagel. 1610-08-01</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,29 +41,59 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_">
                      <title/>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0014">
+                        <placeName>Istanbul</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0113">
+                        <persName>Johannes Chrysostomus</persName>
+                     </person>
+                     <person ref="ST_Pers_0299">
+                        <persName>Palladius of Galata</persName>
+                     </person>
+                     <person ref="ST_Pers_0083">
+                        <persName>Samuel Slade</persName>
+                     </person>
+                     <person ref="ST_Pers_0319a">
+                        <persName>Johann Rhode</persName>
+                     </person>
+                     <person ref="ST_Pers_0312">
+                        <persName>Norton</persName>
+                     </person>
+                     <person ref="ST_Pers_0307">
+                        <persName>William Bedwell</persName>
+                     </person>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>pubblicata da Lambeck https://books.google.at/books?id=jStfAAAAcAAJ&amp;hl=it&amp;pg=PA383#v=onepage&amp;q&amp;f=false</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">151.0–151.0</biblScope>
+               <biblScope unit="page">151r–151v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -71,37 +108,19 @@
                <date when="1610-08-01">1 August 1610</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin
 
-Greek </language>
+Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0113">John Chrysostom</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0299">Palladius of Galata</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0083">Samuel Slade</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0219">Joanne Rhodius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0312">Norton</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0307">William Bedwell</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0009">Isaac Casaubon</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Scripsi et 12 Decemb. A. 1612 et peti dono unum exemplar S. Chrysostomi Graece. It de Schladi obitu non procul venetis, it quosnam tib. in linguis oriental. ex oriente advexent. It. de Bedwel bibliotheca oriental. linguarum, it. salutem Casaubono.</cell>
+      </body>
+   </text>
 </TEI>

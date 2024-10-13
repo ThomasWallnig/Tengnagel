@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Jan Gruter. &lt; 1608</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0206</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0168">
+                        <placeName>Buda</placeName>
+                     </place>
+                     <place ref="ST_Place_0264">
+                        <placeName>Belgrade</placeName>
+                     </place>
+                     <place ref="ST_Place_0097">
+                        <placeName>Bratislava</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0223">
+                        <persName>Georg Weigenmaier</persName>
+                     </person>
+                     <person ref="ST_Pers_214">
+                        <persName>Abulcasis</persName>
+                     </person>
+                     <person ref="ST_Pers_0222">
+                        <persName>Georg Michael Lingelsheim</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Henry Savile ST_0071</persName>
+                     </person>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                     <person ref="ST_Pers_0083">
+                        <persName>Samuel Slade</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>grandi elogi di Gruter. Non c'è data ma la lettera si può forse datare: Blotius era ancora vivo e c'erano ostilità tra turchi e impero. Parole contro la guerra, come sempre in ST, con citazione da virgilio: Bella horrida bella 
+Chiede di salutare da parte sua e di Blotius Lingelsheim (dunque uno straprotestante!)</note>
+               <note>HULYA: here there is a mention of "Abul Chassumi history. I Know that Jones says something about it. Is it useful for you? </note>
+               <note>metto qui la traduzione per non perderla: 
+Ecco che di nuovo vengo a disturbare con le sciocchezze dei miei inutili scritti gli impegni seri dei tuoi studi , o uomo illustrissimo. E lo faccio contro la mia volontà ma a seguito della tua esortazione e anche per i vincoli eterni e adamantini del tuo amore con i quali mi tieni stretto e legato e dai quali io non voglio né desidero essere sciolto fino a quando la mia anima sarà avvolta da questa corteccia del corpo. E perché io non sembri omettere quell’impegno solenne con cui sono solito obbligare/(disturbare?) gli amici in queste nundine ho voluto buttare giù sulla carta queste poche cosine per te -che tra gli amici a buon diritto detieni il primo posto per i tuoi benefici ai tuoi meriti- dato che non avevo niente di più importante da scrivere. 
+Mi sto ancora servendo della storia di Abul Chassumi, e né io riesco a saziare questa mia sete con la stessa facilità con cui un cane beve dal Nilo e nemmeno tu, uomo illustrissimo che per primo me ne hai dato la possibilità e mi hai indicato la fonte, me lo negherai (= di continuare a servirmene, ... Inoltre il nostro Wche , o illustrissimo, in queste nundine non viene e perciò anche se io volessi con tutte le mie forze non mi viene in mente nessuno a cui potrei affidare il libro da restituire. Per questo motivo o illustrissimo spero che tu mi concederai non a malincuore di non assolvere con prontezza la mia promessa (= restituire il libro/adempiere ai patti); d’altra parte mi darò da fare in tutti i modi affinché alle prossime Nundine io non posso essere accusato di incolpare ingiustamente il Nummarius (?). Ora rinnovo la memoria del beneficio da te spontaneamente generosamente offerto -o illustrissimo- e tiro le orecchie del dottissimo Wegenmayer a proposito del lessico. E prego e supplico, o illustrissimo, che tu non ti sdegni di far valere anche la tua autorità e la tua grazia in questo mio desiderio ed io, semmai un giorno produrrò qualcosa nelle lettere non farò l'errore di omettere turpemente il tuo nome col silenzio di un animo ingrato.
+Fa dunque ho splendido fra gli uomini di aggiungere beneficio beneficio e se a tua volta desideri qualcosa dalla nostra biblioteca ordina e io e seguirò i tuoi ordini. 
+Nel frattempo noi ce ne stiamo qui in una gran paura della guerra recrudescente e aneliamo con tutto l'animo all’Aurea Pace che però sembra svanire e allontanarsi nell'aria sottile: il turco è in pieno vigore e reclama l'impero e se l’ambasciatore on arriverà in fretta a buda insieme ai suoi alleati rovina e distruzione *** . Nondimeno si dice che abbia un esercito arruolato di 3000 unità dai posti di presidio limitrofi in procinto di partire per Belgrado; e anche qui di nascosto si raccolgono truppe con quell intento che si spera che possano essere a disposizione del nostro principe per Bratislava(?). Questa provincia ormai consumata ed esausta dalla ribellione degli ungari desidera soltanto la pace e quanto gli altri che invece preferiscono gli orribili guerre io posso fare andare tutto in meglio. io e Blozio mandiamo Al magnifico e nobile signore Lingelshem il nostro amore le nostre grazie e tantissimi saluti e le stesse cose desideriamo col nostro animo più sincero e grato per te, o illustrissimo; Sladius, l’aiutante di Savile, sta con me per sei settimane e anche di più: ti saluta molto. Possa il Signore onnipotente conservarti in eterno alla Repubblica delle lettere , o uomo illustrissimo, e fiorente nella gloria dell'ingegno e dell'erudizione.</note>
+               <note>USARE IN CHRISTIANITY QUANDO PARLO DI GRUTER O PER GUERRA</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">325r–325r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0206">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="">s.l.</placeName>
+               <date when="&lt; 1608">&lt; 1608</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Christoph Crinesius to ST. 1609.0</title>
+            <title type="main">Christophorus Crinesius to Sebastian Tengnagel. [1609-10-09]</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0021">
                      <title>Petrus Kirstenius, Grammatices Arabicae</title>
@@ -43,18 +50,46 @@
                      <title>Petrus Kirstenius, Vitae Evangelistarum</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0310">
+                        <persName>Lorenz Fabricius</persName>
+                     </person>
+                     <person ref="ST_Pers_0087">
+                        <persName>Friedrich Taubmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0132">
+                        <persName>Elias Hutter</persName>
+                     </person>
+                     <person ref="ST_Pers_0311">
+                        <persName>Wolzogius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Parla della Grammatica di Kirsten: la possedeva fabricius, professore di ebreo, e lui, sfogliandola, ha notato il nome di ST (et tua studia haec exotica, ut rara ut cara). Gli chiede se può prestargli una copia della grammatica e dei vangeli editi da Kirstenius </note>
+               <note>
+alla fine "Salutem tibi Hebraeus &amp; poeta noster": chi sarà?? </note>
+               <note>Menzionare in Agents</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">140r–140r</biblScope>
+               <biblScope unit="page">140r–141v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -64,34 +99,22 @@
          </textClass>
          <correspDesc ref="STR0096">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0237">Christoph Crinesius</persName>
+               <persName xml:id="ST_Pers_0237">Christophorus Crinesius</persName>
                <placeName xml:id="ST_Place_0058">Wittenberg</placeName>
-               <date when="1609.0">1609.0</date>
+               <date when="[1609-10-09]">[1609-10-09]</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0041">Peter Kirstenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0310">Laurenz Fabricius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0087">Friedrich Taubman</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0132">Elias Hutter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0311">Wolzogius</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

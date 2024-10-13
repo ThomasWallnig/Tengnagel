@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Leo Lucerna to Samuel Archevolti. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0193</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>da GIACOMO CORAZZOL: 
+Lettera di raccomandazione per ST scritta a Vienna (vd. attergato) da Yehudah Leva Me’or Qatan [i.e. Lucerna = Lutzerner] ha-rofe [i.e. medico] figlio del q. Mošeh le-veyt Ma’or Qatan [יהודה ליווא צאור קטן הרופא בלא״א אביר הרועים והרופאים המונח מוהר״ם משה זצ״ל לבית מאור קטן] e indirizzata a Padova al Rabbi Aluf e capo della Golah Šemu’el, membro della comunità di Padova. Yehudah descrive ST come “persona stimata alla corte del re, bibliotecario del nostro signore l’imperatore e del re, amanta di Israele, buon conoscitore della lingua santa, uomo dotto e dotato di grandi doti intellettuali” [והוא איש נכבד בחצר המלך יר״ה שומר מלומד ובעל מדות טובות]. Yehudah scrive che ST sta per partire per Padova e che “desidera ricevere il grado di dottore [גראדה הדוקטוראטו, grada ha-doqtorato]. Ove ST si rivolga a lui, Yehudah chiede a Šemu’el “senza spesa o incomodo per voi, di aiutarlo e di mostrargli l’ingresso e l’uscita della città [i.e. di fargli da guida] e di spiegargli le leggi locali in quanto è straniero. E io conosco l’animo dello straniero perché sono stato straniero anch’io” [מבלי הוצאה והיזק רק להיות לו לעזר ולסעד ולהראות לו מבוא העיר ומוצאה ולהגיד לו משפט הארץ בהיותו גר ואנכי ידעתי את נפש הגר כי גר הייתי]. Yehudah rivolge a Šemu’el un’altra richiesta (che non comprendo bene): “Vossignoria parli inoltre con i cari fratelli ‘Azri’el e Šemu’el della casata dei Chazanim(?) [= Cantori/Casani(?) Dopo il nome segue un segno che non so come interpretare ma forse non è rilevante] affinché facciano per questo fratello della casa d’Israele(?) degli incantesimi(!?) [lehatim] e di essere generosi con lui senza chiedere di essere pagati […] perché egli è una persona con cui vale la pene essere gentili a causa delle sue alte doti intellettuali. Spero che l’esperienza mostri la correttezza(?) delle mie parole…” [ומכ״ת ידבר גם כן עם היקרים האחים כמ״ר עזריאל ושמואל לבית החזנים זולת׳ שיעשו בשביל אחיהם בית ישראל להטים ולגמול עמו חסד של אמת מבלי תשלום גמולבמה שאין בי חסרון מהם(?) כי ראוי הוא האיש הזה להטיב עמו בשביל מעלת מדותיו. ואקוה שהנסיון יַראה שדברי אלה...] </note>
+               <note>
+AGENTS</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">306r, 303r–306v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0193">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0051">Leo Lucerna</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0002">Samuel Archevolti</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Hebrew</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

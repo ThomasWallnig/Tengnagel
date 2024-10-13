@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,45 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0022">Rome</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0195">
+                        <persName>Cesare Baronio</persName>
+                     </person>
+                     <person ref="ST_Pers_0176">
+                        <persName>Tertullian</persName>
+                     </person>
+                     <person ref="ST_Pers_0030">
+                        <persName>Jacob Gretser</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>è sostanzialmente la lettera dedicatoria Vetera monumenta. Alcune cose sono interessanti: una traduzione molto parziale è questa:
+per quanto combattano con mezzi aperti e coperti per minare l'autorità della chiesa di Roma è indubbio che la loro infaticabile volontà con cui vanno a investigare con naso da cane e scoprono e tirano fuori alla luce le assurdità degli scismatici già da lungo tempo condannate all'oscurità, e se qualcosa contro il capo venerando della sacra gerarchia, capo  che persino gli indi etiopi, gli arabi, i persi, i tatari, che pure non sono correligionari nostri, per tacere degli europei, riconoscono come capo  supremo, se qualcosa, dico, un qualche petulante ingegno oscurato dall'amore, dal lucro e dall'odio cercherà di sporcare con carte malsane, questa cosa qui, questi xx xx come mandato dal cielo lo afferrano, lo stampano e lo ristampano e lo ritengono degno dell'umanità ma [... mettono insieme centoni mal cuciti, lezioni recondite assurde della stessa risma, come piaghe e cancri della vera verità] anche quegli stessi autori che loro amano, divulgano e prostituiscono ...  in realtà si fanno male e si rompono le corna. 
+Ho recuperato degli opuscoli membranacei, li ho strappati alla polvere e alle tarme e alle blatte e li ho affidati a Gretser perché li stampasse insieme con altri testi.  ... non mi metto a fare come lo straccivendolo/rigattiere impudente di Lucilio che loda scarpe rotte e un panno stracciato – To sell his trash the huckster lauds – . Al posto delle mie parole stia quello che dice Baronio che le avrebbe incluse nei suoi tomi 11 e 12 [riferimenti alle polemiche contro Gregorio XII, Adriano IV e Alessandro III]. Dunque sia questa operetta come una spiga dopo la grande messe lasciata da Baronio. Per quanto nel nome del tuo illustrissimo 
+[seguono grandi elogi di Khesl che riesce a distruggere con colpi di atleta e a distruggerli con la sua incredibile eloquenza riesce far rinnegare i protestanti che diventano pronti a passare alla nostra fede ortodossa e a rispettare i sacramenti etc ]. E mentre tu strenuamente ti affatichi nel confermare gli animi di costoro, questo tua azione di propaganda della fede ....e guadagni neofiti a tal punto che la religione cattolica che sembrava vacillare ed essere debole in quel momento, adesso splende e fiorisce. A te solo incomparabile propugnatore che come un vallo, un muro di sbarramento in difesa di dio si è opposto alle armi dei nemici ... sia confessato che si è debitori con animo gratissimo  ... mettere su una picca le teste degli avversari .... tuttavia la speranza è che questa nuova stirpe di ignobili di Titani [cioè coloro che uccisero gli dei, simbolo di chi si oppone all'autorità] che si oppone in modo nefasto al cielo venga abbattuta. E perciò attacchino pure battaglia e si scatenino a mo degli Andabati [tipo di gladiatori: Andabata a gladiator who fought blindfold. Hence "more andabatarum", blicndly, indiscriminately] e facciano guerra, facciano una battaglia terribile. Felice quella chiesa – come scrive Tertulliano – per la quale hanno versato tanta dottrina apostolica insieme al loro sangue e dove PIetro si è adeguato alla passione di Cristo e dove Paolo è stato incoronato dalla morte di Giovanni [ cioè decapitato ] e dove l'apostolo Giovanni è stato immerso nell'olio bollente ... perché prevarranno come una colonna e fondamenta della verità contro... Con questo desiderio aggiungo qui questo minuscolo dono cartaceo delle mie opere. come ricordo tu ricevilo da mecenate e lo abbracci con autorità e grazia e promuova sempre più la pubblicazione ... </note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">195r–195r</biblScope>
+               <biblScope unit="page">195r–196v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -74,17 +102,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0195">Cesare Baronio</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0176">Tertullian</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0030">Jacob Gretser</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

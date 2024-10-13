@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Wilhelm Schickard to ST. 1631-07-25</title>
+            <title type="main">Wilhelm Schickard to Sebastian Tengnagel. 1631-07-25</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,73 @@
             <idno>STT0146</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0005a">
+                     <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0025">
+                        <placeName>Transylvania</placeName>
+                     </place>
+                     <place ref="ST_Place_0011">
+                        <placeName>Hungary</placeName>
+                     </place>
+                     <place ref="ST_Place_0200">
+                        <placeName>Ulm</placeName>
+                     </place>
+                     <place ref="ST_Place_0244">
+                        <placeName>Württemberg</placeName>
+                     </place>
+                     <place ref="ST_Place_0052">
+                        <placeName>France</placeName>
+                     </place>
+                     <place ref="ST_Place_0101">
+                        <placeName>Belgium</placeName>
+                     </place>
+                     <place ref="ST_Place_0045">
+                        <placeName>Italy</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0110">
+                        <persName>Abū' l-Fidā'</persName>
+                     </person>
+                     <person ref="ST_Pers_0820">
+                        <persName>Veit von Marchtaler</persName>
+                     </person>
+                     <person ref="ST_Pers_0997">
+                        <persName>Bidembach</persName>
+                     </person>
+                     <person ref="ST_Pers_0998">
+                        <persName>Müller</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Publ. by Seck, pp. 628-629. https://ucloud.univie.ac.at/index.php/apps/gallery/preview/222966573?width=2000&amp;height=2000&amp;c=b2fabee9edcb2356146a4bb0dc50d6e2&amp;requesttoken=OWYeGUMmIAIrBwY3fhsPJD4%2FDzU%2FHCkYTzgaLh8xVy8%3D%3AuWnt5jcFqw0P%2BobeKmZEelLb8omXQkchkSp%2B9M4ga3c%3D </note>
+               <note>Schickard had already twice confirmed receipt of Tengnagel's Abulfeda manuscript and had copied and translated a third of it. Lo tiene religiosamente e avrebbe lavorato anche di più "nisi bellum hoc civile impedisset"
+During the siege of Tubingen, they had buried his own manuscripts and his astronomical observations: "Postquam enim malesana quorundam consilia, Wurtembergam hanc ad arma concitarunt, ut eorum stultitiam publicam, privatus ego (quamvis innocens et facinoris minime particeps) cum oppugnata Tubinga luere mutuerim; abscondidi librum, una cum aliquot aliis manuscriptis, auto contra caris, atque caeteris schediasmatibus meis, maxime Mathematicis observationibus, tot insomnibus noctibus anxie partis, in cryptam sub cella vinaria effossam"
+He hopes to be ready for winter, and then wants to consult with Tengnagel about printing, as well as the continuation of Tarich, which no one wants to publish in these times. - The book on the distances of the most important cities in the Turkish Empire from Tengnagel's library would be useful to Schichard. - Bidembach and Müller are alive. - Request for information on polar heights and eclipse observations from Hungary and Transylvania. Geography is in need of such help. - A modern Greek book ("Portulan") has been very helpful to Schickard,</note>
+               <note>CHRISTIANITY O AGENTS PER LA GUERRA</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">238r–238r</biblScope>
+               <biblScope unit="page">238r–239v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -57,7 +121,7 @@
                <date when="1631-07-25">25 July 1631</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -65,11 +129,11 @@
 
 Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">D. Schickardi epistola de Cosmographo meo Arabico MS Abulfada accepto, dat. 25 Iul. a° 1631. Accept. 1 Septemb.</cell>
+      </body>
+   </text>
 </TEI>

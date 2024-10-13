@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Henry Savile to ST. 1611-12-18</title>
+            <title type="main">Henry Savile to Sebastian Tengnagel. 1611-12-18</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,38 +41,73 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0177">
                      <title>Severian of Gabala, Orationes in mundi creationem</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0091">Scotland</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0026">England</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0027">Orient</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0090">Zacynthos</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0091">
+                        <placeName>Scotland</placeName>
+                     </place>
+                     <place ref="ST_Place_0026">
+                        <placeName>England</placeName>
+                     </place>
+                     <place ref="ST_Place_0027">
+                        <placeName>Orient</placeName>
+                     </place>
+                     <place ref="ST_Place_0090">
+                        <placeName>Zacynthos</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0083">
+                        <persName>Samuel Slade</persName>
+                     </person>
+                     <person ref="ST_Pers_0164">
+                        <persName>Gregory of Nyssa</persName>
+                     </person>
+                     <person ref="ST_Pers_1087">
+                        <persName>Elias Cretensis</persName>
+                     </person>
+                     <person ref="ST_Pers_0300">
+                        <persName>Johannes Leunclavius</persName>
+                     </person>
+                     <person ref="ST_Pers_0117">
+                        <persName>Severian of Gabala</persName>
+                     </person>
+                     <person ref="ST_Pers_0233">
+                        <persName>Jacobus Darimplius</persName>
+                     </person>
+                     <person ref="">
+                        <persName> ST_Pers_0423</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Pubblicato da Lambeck, Petri Lambecii Hamburgensis sacre cesareae: Liber tertius, p. 384. </note>
+               <note>Sulle lettere tra Savile e ST bisognerebbe procurarsi questo (ma non è stato pubblicato, mi sembra): The contribution of Vind.Theol.Gr. 105 and 278 to the Editio Princeps of Severian of Gabala’s Homiliae in Hexaemeron. Four letters of Savile to Tengnagel reconsidered by Sarah Van Pee . Dice che gli ha restituito l'autografo di Severian of Gabala, ma alla ONB ci sono tanti mss di Gabala, non capisco di quale si tratti, forse Cod. Theol. Gr. 105 e/o 278).
+Sulla morte di Slade: Sladius olim meus meo maximo cum dolore, ante annum &amp; paulo amplius in reditu ex Oriente mors est Zacynthi, et Jacobus Darimplius jampridem, me deserto, in Scotiam rediit. Quid facias homini ab omni librariorum subsidio jam destituito? Aggiunge poi che ha trovato qualche scheda nella bisaccia di Slade, ma non crede che gli possano essere molto utili: tuttavia, se vuole, gliele manderà. 
+Non ha grandi speranze di potergli mandare notizie dei libri orientali in inghilterra (che evidentemente ST gli aveva chiesto): De Arabicis. Hebraicis, Syriacis Manuscriptis spe nullam do, ne de quoquam apud nos harum linguarum apprime perito. </note>
+               <note>Savile chiede anche, sempre a proposito di Gabala, Codice N° 29, Orationem εις τας θυςιας 
+PER ALLIEVO DI PAOLA</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">209r–209r</biblScope>
+               <biblScope unit="page">209r–209v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -80,37 +122,19 @@
                <date when="1611-12-18">18 December 1611</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin
 
-Greek </language>
+Greek</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0083">Samuel Slade</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0164">Gregory of Nissa</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0300">Johannes Leonclavius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0117">Severian of Gabala</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0233">Jacobus Darimplius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0423">Elia Del Medigo</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Red. 5 Dec. 1613. Henric Savilus Eques Anglus Editor Chrysost.</cell>
+      </body>
+   </text>
 </TEI>

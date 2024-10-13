@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Jan Gruter to Blotius - Tengnagel. 1605-01-24</title>
+            <title type="main">Jan Gruter to Hugo Blotius, Sebastian Tengnagel. 1605-01-24</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,27 +41,48 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0052">France</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0002">Augsburg</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0052">
+                        <placeName>France</placeName>
+                     </place>
+                     <place ref="ST_Place_0002">
+                        <placeName>Augsburg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0071">
+                        <persName>Henry Savile</persName>
+                     </person>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="ST_Pers_0113">
+                        <persName>Johannes Chrysostomus</persName>
+                     </person>
+                     <person ref="ST_Pers_0205">
+                        <persName>James Dalrymple</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Menziona Henry Savile e la sua edizione dei Padri della Chiesa.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">21r–21r</biblScope>
+               <biblScope unit="page">21r–21v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -69,26 +97,17 @@
                <date when="1605-01-24">24 January 1605</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0004 ST_Pers_0070">Blotius - Tengnagel</persName>
+               <persName xml:id="ST_Pers_0004 ST_Pers_0070">Hugo Blotius, Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0071">Henry Savile</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0004">Blotius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0113">John Chrysostom</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0205">James Dalrymple</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

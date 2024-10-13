@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Ottavio de Tassis to s.n. 1618-09-12</title>
+            <title type="main">Octavio de Tassis to s.n.. 1618-09-12</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,38 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_"/>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0021">
+                        <placeName>Prague</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0625">
+                        <persName>Carolo Magno</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>La lettera presante per il s.r Thennagh. a Vienna, che VS me mandò li 8 di luglio passato fu espedita de qui li 12 dell'istesso, ma perché le lettere alhora ancora andavano per la via di Praga, la onde dalli Ribelli son state aperte et trattenute, così dubito io grandemente che non sia andata a male, come molte altre, tanto più che il Sign. Carolo Magno, maestro della posta in Corte Cesarea, non me accusa la sopradetta ia di 13 di luglio, ne meno quella di 6 et 20 dell'istesso. D'Augusta alli 12 di settembre 1618 Ottavio de Tassis </note>
+               <note>maestro della posta in Corte cesarea</note>
+               <note>DA USARE IN CHRISTIANITY</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">156r–156r</biblScope>
+               <biblScope unit="page">156r–156v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -61,7 +82,7 @@
          </textClass>
          <correspDesc ref="STS0105">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0086">Ottavio de Tassis</persName>
+               <persName xml:id="ST_Pers_0156">Octavio de Tassis</persName>
                <placeName xml:id="ST_Place_0002">Augsburg</placeName>
                <date when="1618-09-12">12 September 1618</date>
             </correspAction>
@@ -72,11 +93,11 @@
          <langUsage>
             <language>Italian</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0625">Carolo Magno maestro della posta in Corta Cesarea</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

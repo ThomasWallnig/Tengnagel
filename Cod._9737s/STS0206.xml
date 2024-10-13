@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Michel D'Asquier to ST. 1624-06-09</title>
+            <title type="main">Michel D'Asquier to Sebastian Tengnagel. 1624-06-09</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,32 +41,54 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0218">
                      <title>Ahmed Bican Yazıcıoğlu, ʿAǧāʾib el-Maḫlūqāt (Wonders of creatures)</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0183">Eger</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0184">Bosnia</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0183">
+                        <placeName>Eger</placeName>
+                     </place>
+                     <place ref="ST_Place_0184">
+                        <placeName>Bosnia</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0001">
+                        <persName>Josephus Abudacnus</persName>
+                     </person>
+                     <person ref="ST_Pers_0810">
+                        <persName>Garzoni</persName>
+                     </person>
+                     <person ref="ST_Pers_0809">
+                        <persName>Ahmed Bican Yazıcıoğlu</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>è stato malato, si trova a Buda, da qualche informazione sulle trattative. ST doveva avergli chiesto di fare una ricognizione nella bilbioteca della città, e lui così risponde: 
+"Circa gli libri di questa Biblioteca, la mia continua malatia mi ha impedito di far quanto haverei forsi potuto in miglior stato. Ho ben havuto corrispondenza con uno, et tenuto un trattato; ma sin hora non me successo d'haverne potuto ricuperare più d'uno, benché stia tuttavia aspettandone degli altri". Manda anche informazioni su Barbatus: M.r Giuseppe Barbato (del quale VS desidera sapere) è rimasto a Costantinopoli appresso il S. Residente, non ha potuto ricuperare gran cosa, ritruovandosi con pochi denari. Gli ho lasciato il Catalogo che VS mi diede". 
+Dice che il Turco gli sembra che voglia "metter in essecutione l'impresa d'Enrico IV: quaero pacem armis" 
+Chiude di nuovo sui libri con una nota interessante che sembrerebbe far pensare che Dasquier facesse anche copie per ST? "Lei ha un libro Turchesco il quale hebbe da me da me per l'opera del Garzoni, mi par che vi sia qualche cosa degna d'esser copiata, la prego di mandarmelo insieme عجايب المخلوقات acciò gli possi far trascriver qui, che mi obligarà molto"; </note>
+               <note>Da usare in AGENTS</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">313r–313r</biblScope>
+               <biblScope unit="page">313r–314v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -74,23 +103,17 @@
                <date when="1624-06-09">9 June 1624</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Italian</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0001">Josephus Abudacnus (Barbatus)</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0810">Garzoni</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Daschquier interpres Turcicus</cell>
+      </body>
+   </text>
 </TEI>

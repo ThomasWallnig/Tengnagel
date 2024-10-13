@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Matthias. 1611-12-27</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0025</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0042">
+                        <placeName>Univeristiy Library in Vienna</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0154">
+                        <persName>Matthias Corvinus</persName>
+                     </person>
+                     <person ref="ST_Pers_0051">
+                        <persName>Leo Lucerna</persName>
+                     </person>
+                     <person ref="ST_Pers_0144">
+                        <persName>Euclid</persName>
+                     </person>
+                     <person ref="ST_Pers_0155">
+                        <persName>Al-Ghazali</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lettera importante. Dice che si è procurato alcuni ms ebraici di Leo Lucerna e chiede all'imperatore i soldi per un copista ebreo. Chiede inoltre di recuperare alcuni volumi ebraici che giacevano abbandonati, preda delle tarme, nella biblioteca universitaria: in manus meas Hebraici quidam manuscripti libri rarae notae extantes hic apud doctor medicum Rabbinum Hebraeum leonem nomine videlicet: Euclidis elementorum Geometricor. lib. XV rarissimi inventum apud Iudeaos, lexicon Hebraicum ante annos 500 scriptum, et unicum, ut putant, in toto orbe exemplae. It Ebu Ahmedis philosophica quaedam, aliaque Hebraice MS quibus cum Bibliotheca vestra Regia mirifice exornari illustrarique possit etiam atque etiam oro, ut Reg. Maiet. vestra hosce auctores per Iudeum quemdam exscribi mandet, prettium scriptionis erit XXII plus minus florenorum. Extant etiam in universitatis bibliotheca hic XII vel XIII magna volumina Hebraice manuscripta, quae cum ibidem a blattis tineisque exedantur. AGENTI per Lucerna e scriba. PAOLA: c'è modo di capire se poi quei libri sono stati comprati? e se ha pagato per lo scriba?</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">40r–40v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0025">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1611-12-27">27 December 1611</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0101">Matthias</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

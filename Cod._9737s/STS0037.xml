@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Valentinus Leuchtius to ST. 20-04-1616</title>
+            <title type="main">Valentinus Leuchtius to Sebastian Tengnagel. 1616-04-16</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,64 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_">
                      <title/>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0267">
+                        <persName>Roberto Bellarmino</persName>
+                     </person>
+                     <person ref="ST_Pers_0195">
+                        <persName>Cesare Baronio</persName>
+                     </person>
+                     <person ref="ST_Pers_0531">
+                        <persName>Hieronymus Oertel</persName>
+                     </person>
+                     <person ref="ST_Pers_0547">
+                        <persName>Terence</persName>
+                     </person>
+                     <person ref="ST_Pers_0544">
+                        <persName>Rudolph Goclenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0545">
+                        <persName>Antonio Guevara Noroña</persName>
+                     </person>
+                     <person ref="ST_Pers_0546">
+                        <persName>Matthias Berlichius</persName>
+                     </person>
+                     <person ref="ST_Pers_0548">
+                        <persName>Matthias Colerus</persName>
+                     </person>
+                     <person ref="ST_Pers_0069">
+                        <persName>Heribert Rosweyde</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Tomás Sánchez</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>La lettera parla come sempre di privilegi. Ma quello che è interessante it's List of books bought in autumn 1615, ST's hand, ff 53r-v.</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">52r–52r</biblScope>
+               <biblScope unit="page">52r–53v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -62,72 +109,26 @@
          <correspDesc ref="STS0037">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0045">Valentinus Leuchtius</persName>
-               <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
-               <date when="20-04-1616">20-04-1616</date>
+               <placeName xml:id="ST_Place_0008">Frankfurt am Main</placeName>
+               <date when="1616-04-16">16 April 1616</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0267">Roberto Bellarmino</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0195">Cesare Baronio</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0531">Hieronymus Oertel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0547">Terence</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0544">Rudulphus Goclenius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0545">Antonio Guevara Noroña</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0546">Matthias Berlichius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0548">Matthias Colerus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0069">Heribert Rosweyde</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0549">Tomás Sánchez</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0043">Cornelius a Lapide</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0550">Elias Mertel</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0551">Anton Bötzer</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0552">Lawrence Beyerlinck</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0111">Hubert van Giffen</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0553">Petrus Steuartius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0554">Elisabetha Angermaria</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0555">Anton Neudorffer</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">f. 53r: 
+
+Libri accepti ex nundinis auctumnalibus A° 1615: Hieronimi Orteli historiae ungaricae partes quatuor, Germanice, 4°, Rodolphi Cocleni Lexicon Philosophicum, francof. impens. Petri Musculi 1613, 4°, Rod. Cocleni Lexicon Philosophicum Graecum, ibid., 1615, 4°, Viti fabri Teutsche Concordantz, Ingolstadt, ap. Elisabeth Angermas 1615, Prosperi Farinaci operum criminalium pars VII, Eiusd. fragmentorum criminalium pars 2° francof. ap. Palthenium, 1614, fol., Antoni de Guevara horologium Principum, Lipsiae, Henn. Gross, 1615, fol. / Matthiae Berlichi conclusionum practibalium parti prima et secunda Lips. Henn. Gross. 1614 et 1615, 4° / Matthiae Coleri decisionum Germaniae partes duae, Lips. Henn. Gross. 1615 / Ioan. Georgi Ducis Saxoniae, Polic. xxx Lips. ap. Ioan Rosam, 1612, 4° / Pharmacopaea Augustana, fol. 1613 / Vitae Patrum per Heribert. Rosweydum e Soc. Ies. emendatae et illustratae, fol. ap. Moret. Antverp. 1614 
+// f. 53v: la scritta in alto non si legge per la piega del foglio, non capisco se questa lista è dei libri acquistati da Leuchtio o di quelli che ha chiesto a Leuchtio di comprare alle nundine invernali. in ogni caso l'elenco (non controllato) è questo: 
+
+Thomae Sanches opus morale, fol Anta ap. Nuti haered. et Meurs. fol. 1614 / Corneli a Lapide comment. in epist. S. Paulis ibid. apud eosd. 1614 / Caspar Sancti comment. in Isaiam, Mogunt ap. Theobald. Schonwetter fol. 1616 / xxx / Prosperi farmaci consilior. criminalium lib. 2, eius decisiones criminales rotae Romanae, fol, ap. haered. Palthenian. 1616 / Ioan Schardi lexicon iuridicum colon. ap. Gym. fol 1616 / Philippi Meisters Speculum Notaiorum fol. Mogunt, ap. Balth Lippium 1616 German. / Eliae Merteli hortus musicalis typis Anton Bectrami, sumptib. auctor 1615 fol / Hub. Gyphan commentar. in difficilior leges codic. colon Plancian. per Ludovic. Regem 1615 4° / Arbah Bzoui Annalium ecclesiasticor. tomus 13 Colon. ap. Anton Boetzer fol. 1616 / Tom. singularis veterum auctor. a Pet. Steuartio collector. Ingolst. ap. Elisabeth. Angermar. 4° 1616 / Matthiae Berlichi conclusionum practicabilium pars tertia Lips. Henn. Gross, 1615 / xxx / Thesauri rerum Indicar. tomi 3 Colon ap. Pet. Henning. 1616 et 1615 / Ioan Beyerlinck promptuar. morale, Col. Hierat 1616 / Alberti M. Sermon in dominicas et fest. it. de Eucharist. ... 1615 / Terentius, Lips, Henn. Gross, 8°, 1616 / Virgili oper. Lips. Henn. Gross. 1616, 8° / Anton Neudorffer, Arithmetica, German. 1616, 8° // Redd. 11 Iun. 1616. Resp. 31 August. 1616</cell>
+      </body>
+   </text>
 </TEI>

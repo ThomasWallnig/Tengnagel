@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Pongrác Sennyey to Zsigmond Sarmasághy. 1612-06-22</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0009</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0025">
+                        <placeName>Transylvania</placeName>
+                     </place>
+                     <place ref="ST_Place_0017">
+                        <placeName>Moldova</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0003">
+                        <persName>Gabriel Bathory</persName>
+                     </person>
+                     <person ref="ST_Pers_0101">
+                        <persName>Matthias</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Copia di mano di ST. Notizie sulla Transilvania e sulle minacce degli ottomani lì. Sennieius: https://www.arcanum.hu/hu/online-kiadvanyok/Nagyivan-nagy-ivan-magyarorszag-csaladai-1/tizedik-kotet-9475/sennyey-csalad-kis-zsennyei-baro-es-grof-998F/. cattolici ungheresi, fecero parte della delegazione mandata a Vienna da Gabor Bethlen Between October 1613 and February 1614. Zsigmond Kornis, Zsigmond Sarmasághy and Sándor Sennyey (taking over for his father, Pongrác Sennyey, who had since died) conducted truly enormous propaganda work on Bethlen’s behalf</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">20r–20v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0009">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0078">Pongrác Sennyey</persName>
+               <placeName xml:id="ST_Place_0024">Szakmár</placeName>
+               <date when="1612-06-22">22 June 1612</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0089">Zsigmond Sarmasághy</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>

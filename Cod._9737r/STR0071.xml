@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Jacob Gretser to ST. 1608-11-17</title>
+            <title type="main">Jacob Gretser to Sebastian Tengnagel. 1608-11-17</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,33 +41,72 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0019">Paris</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0067">Swabia</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0007">Danube</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0023">Spain</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0019">
+                        <placeName>Paris</placeName>
+                     </place>
+                     <place ref="ST_Place_0067">
+                        <placeName>Swabia</placeName>
+                     </place>
+                     <place ref="ST_Place_0007">
+                        <placeName>Danube</placeName>
+                     </place>
+                     <place ref="ST_Place_0023">
+                        <placeName>Spain</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0283">
+                        <persName>Paul of Bernried</persName>
+                     </person>
+                     <person ref="ST_Pers_0022">
+                        <persName>Fronton du Duc</persName>
+                     </person>
+                     <person ref="ST_Pers_0267">
+                        <persName>Roberto Bellarmino</persName>
+                     </person>
+                     <person ref="ST_Pers_0231">
+                        <persName>Caspar Schoppe</persName>
+                     </person>
+                     <person ref="ST_Pers_0281">
+                        <persName>Marcantonio Capello</persName>
+                     </person>
+                     <person ref="ST_Pers_0282">
+                        <persName>Jacobus Pontanus</persName>
+                     </person>
+                     <person ref="ST_Pers_0074">
+                        <persName>Andreas Schott</persName>
+                     </person>
+                     <person ref="ST_Pers_0069">
+                        <persName>Heribert Rosweyde</persName>
+                     </person>
+                     <person ref="ST_Pers_0084">
+                        <persName>Georg Sturn</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Gregory VII</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Leggo male e ho letto in fretta ma si parla di altri ms greci richiesti a Vienna e delle opere controversistiche di Gretser, per esempio Controversiarum Roberti Bellarmini... amplissima defensio. Dice che ha saputo da Velser della morte di Scaliger: spera che si sia convertito prima di morire (heretica pravitate). Dice che tramite Velser gli farà avere notizie della De Bibliotheca Huteri. Dice poi che Schoppe sta in Svevia (nomina l'antiscaligeriana). Chiude con il desiderio di arrivare sul Danubio e visitare di persona la biblioteca. Interessante attergato</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">104r–104r</biblScope>
+               <biblScope unit="page">104r–105v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -75,53 +121,27 @@
                <date when="1608-11-17">17 November 1608</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0283">Paul of Bernried</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0022">Fronton du Duc</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0267">Robert Bellarmine</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0231">Caspar Schoppe</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0281">Marcantonio Capello</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0282">Jacobus Pontanus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0074">Andreas Schottus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0069">Heribert Rosweyde</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0084">Georg Sturn</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0134">Gregory VII</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0091">Matthaeus Welser</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0072">Joseph Justus Scaliger</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0132">Elias Hutter</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Respondi 17 Decemb. A. 1608. 
+Scripsi de MS Paulo Bernrietensi
+De Epistola Udalrici ad Nicol. P. 
+e Chronographo MS a Gregor. VII 
+in Concilio Romano damnata
+De obita P. Martini Delrii
+De Patribus Andrea Schotto et
+Roswedo, ad quos de lib. Arabicis
+indagandis in Hispania scribere statui.
+
+</cell>
+      </body>
+   </text>
 </TEI>

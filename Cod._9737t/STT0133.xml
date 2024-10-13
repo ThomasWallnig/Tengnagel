@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Ferdinand II to ST. 1629-07-04</title>
+            <title type="main">Ferdinand II to Sebastian Tengnagel. 1629-07-04</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,63 @@
             <idno>STT0133</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_Works_0229">
+                     <title>Talmud</title>
+                  </bibl>
+                  <bibl xml:id="ST_Works_0247">
+                     <title>Lipman Heller Ma'adanei Melekh</title>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0021">
+                        <placeName>Prague</placeName>
+                     </place>
+                     <place ref="ST_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0981">
+                        <persName>Yom-Tov Lipmann Heller</persName>
+                     </person>
+                     <person ref="ST_Pers_0982">
+                        <persName>Paul Joseph bar Zadok</persName>
+                     </person>
+                     <person ref="ST_Pers_0336">
+                        <persName>Marx Trippetta</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>After a decree for confiscation and deletion of Jewish books, now it's also prohibited for Jews to write or print books. However, the Prague rabbi published a treatise on the "damned Talmud". The text is going to be presented through Matthias Maximilian Norbertin to the converted Jew Joseph living in the Hofspital, and ST will examin, and report, about the rabbi's infriction of law.</note>
+               <note>
+In 1626, Heller translated the medieval ethical work Orḥot ḥayim into Yiddish, and published it with a sermon on the topic of the 1625 plague in Vienna. In the sermon, he introduced an innovation, the daily recital of sections of Orḥot ḥayim, into the liturgy of the Jews of Vienna.</note>
+               <note>
+In 1629, Heller, then rabbi of Prague, was denounced to the Habsburg authorities and charged with having blasphemed Christianity, for arguing that Talmudic laws regarding idolatry applied to Christianity. Strife within the Prague Jewish community over issues of communal governance and taxation had escalated, and Heller was associated with the party of Ya‘akov Bassevi and was apparently denounced by the latter’s opponents. Heller’s arrest also coincided with Habsburg efforts to enforce Counter-Reformation restrictions on Jewish life, and with political turns of events that would lead to Bassevi’s own downfall two years later. Heller was imprisoned in Vienna for 40 days. After recanting his view, he was released, but was required to pay a heavy fine and was removed from his position as rabbi of Prague.</note>
+               <note>LO USO IN CHRISTIANITY, ma citandolo velocemente: se lo vuole citare anche Thomas nella vita lo devo togliere perché non ha senso ripeterlo. In ogni cosa ancora tantissime cose da chiarire insieme a Joanna Weinberg </note>
+               <note>Cf: Z. Schwarz, Zum prozess des Lipman Heller (1923) [ho il PDF] 
+Cfr. Yom-Tov Lipmann Heller: Portrait of a Seventeenth-Century Rabbi (Joseph Davis)</note>
+               <note>
+l'ebreo convertito, che era cieco, stava all'Hofspital di Vienna. Come mai?</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">217r–217r</biblScope>
+               <biblScope unit="page">217r–217v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -57,17 +111,17 @@
                <date when="1629-07-04">4 July 1629</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>German</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Decretum de Iudeorum lib. datum 4 Iul. et exhibitum eodem die, 1629</cell>
+      </body>
+   </text>
 </TEI>

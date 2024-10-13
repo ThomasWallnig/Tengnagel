@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Georg Sturnus to ST. 1611-08-27</title>
+            <title type="main">Georg Sturn to Sebastian Tengnagel. 1611-08-27</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,24 +41,52 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0013">Ingolstadt</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0013">
+                        <placeName>Ingolstadt</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0040">
+                        <persName>Melchior Khlesl</persName>
+                     </person>
+                     <person ref="ST_Pers_0351">
+                        <persName>Andreas Pfeiffer</persName>
+                     </person>
+                     <person ref="ST_Pers_0414">
+                        <persName>Nicolaus Stupanus</persName>
+                     </person>
+                     <person ref="ST_Pers_0415">
+                        <persName>Ring</persName>
+                     </person>
+                     <person ref="ST_Pers_0070">
+                        <persName>Jacob Gretser</persName>
+                     </person>
+                     <person ref="ST_Pers_0093">
+                        <persName>Marcus Welser</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Comincia palrando della dedica a Klesl di Tengnagel. Menziona Walser come tramite, e Gretser. Alla fine chiede di salutare Pfeiffer Nicolas Stupan (ma Stupan sta a Basilea!) </note>
+               <note>Sul rtetro, sotto all'indirizzo di ST, un "Commendante Stanislao"</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">198r–198r</biblScope>
+               <biblScope unit="page">198r–198v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -61,37 +96,22 @@
          </textClass>
          <correspDesc ref="STR0150">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0084">Georg Sturnus</persName>
+               <persName xml:id="ST_Pers_0084">Georg Sturn</persName>
                <placeName xml:id="ST_Place_0021">Prague</placeName>
                <date when="1611-08-27">27 August 1611</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0040">Melchior Khesl</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0351">Pfeiffer</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0414">Nicolas Stupan</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0415">Ring</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0070">Jacob Gretser</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0093">Marcus Welser</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Accepi a Sturno Aug. A° 1611</cell>
+      </body>
+   </text>
 </TEI>

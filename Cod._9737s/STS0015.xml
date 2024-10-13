@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Caspar D. Dornau to ST. 1615-06-27</title>
+            <title type="main">Caspar Dornau to Sebastian Tengnagel. 1615-06-27</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,29 +41,61 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0039">
                      <title>Thomas Ebendorfer, Chronicon Austriae</title>
                   </bibl>
                </listBibl>
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0021">Prague</placeName>
-                  </place>
-               </listPlace>
-            </note>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0021">
+                        <placeName>Prague</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0490">
+                        <persName>Johann Salmuth</persName>
+                     </person>
+                     <person ref="ST_Pers_0161">
+                        <persName>Thomas Ebendorfer</persName>
+                     </person>
+                     <person ref="ST_Pers_0499">
+                        <persName>Pierre Galissard</persName>
+                     </person>
+                     <person ref="ST_Pers_0492">
+                        <persName>Synesius of Cyrene</persName>
+                     </person>
+                     <person ref="ST_Pers_0519">
+                        <persName>Helius Eobanus Hessus</persName>
+                     </person>
+                     <person ref="ST_Pers_0520">
+                        <persName>Thomas Vlas</persName>
+                     </person>
+                     <person ref="ST_Pers_0521">
+                        <persName>Urban Prebusinus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Torna a parlare dei libri di cui aveva già chiesto notizia. Si tratta di testi che hanno a che fare con "elogi di cose vili o pericolose", vuole farci una raccolta (congero Encomiorum vilium ac perniciosarum rerum). Gusto lucianesco o erasmiano? Ho taggato tutti i libri. 
+All'inizio si dichiara in attesa della Cronaca di Halsebach: "tsi enim summopere exetebam Haselbachi Chronicon; idque spe quodammodo praesumseram: gratissima tamen est opera tua, quam mihi ipsa voluntate missiculandi declarasti."
+Alla fine, nel PS, non capisco bene: si fa riferimento a Ioannis Salmuth, e mette l'indirizzo in tedesco</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">20r–20r</biblScope>
+               <biblScope unit="page">20r–21v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -66,12 +105,12 @@
          </textClass>
          <correspDesc ref="STS0015">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_0021">Caspar D. Dornau</persName>
+               <persName xml:id="ST_Pers_0021">Caspar Dornau</persName>
                <placeName xml:id="ST_Place_0104">Görlitz</placeName>
                <date when="1615-06-27">27 June 1615</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
@@ -79,29 +118,11 @@
 
 German</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0490">Johann Salmuth</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0161">Thomas Ebendorfer</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0499">Pierre Galissard</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0492">Synesius of Cyrene</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0519">Helius Eobanus Hessus</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0520">Thomas Vlas</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0521">Urban Prebusinus</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Red. 4 Iul. 1615</cell>
+      </body>
+   </text>
 </TEI>

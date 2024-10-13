@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,7 +25,7 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
@@ -33,16 +40,37 @@
             <idno>STT0119</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0229">
+                        <placeName>Bad Hersfeld</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0968">
+                        <persName>Leopold Wilhelm</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>tono più servile del solito: Iam inquam Imperiali Gratia me Praepositum Sti Petri in monte Hirseldi constituere potest ex gratiosissima nominatione S.mi Rmi Principis Archiducis Leopoldi Wilhelmi &amp; nunc Principis Hirsfeldensis - see following letter; Hagen states his merits and wants his prapeositura confirmed "imperialiter"</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">194r–194r</biblScope>
+               <biblScope unit="page">194r–195v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -53,7 +81,7 @@
          <correspDesc ref="STT0119">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0033">Johann Ludwig von Hagen</persName>
-               <placeName xml:id="ST_Place_0008">Frankfurt</placeName>
+               <placeName xml:id="ST_Place_0008">Frankfurt am Main</placeName>
                <date when="1628-08-14">14 August 1628</date>
             </correspAction>
             <correspAction type="received">
@@ -63,11 +91,11 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
 </TEI>

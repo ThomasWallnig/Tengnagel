@@ -11,6 +11,13 @@
                </persName>
                <resp>Data acquisition</resp>
             </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>The Tengnagel Correspondence Data</edition>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,7 +41,7 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
+            <noteGrp type="mentions">
                <listBibl type="mentioned">
                   <bibl xml:id="ST_Works_0109">
                      <title>Gretser, Lutherus academicus</title>
@@ -43,14 +50,40 @@
                      <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
                   </bibl>
                </listBibl>
-            </note>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0267">
+                        <persName>Roberto Bellarmino</persName>
+                     </person>
+                     <person ref="ST_Pers_0332a">
+                        <persName>Martin Luther</persName>
+                     </person>
+                     <person ref="ST_Pers_0084">
+                        <persName>Georg Sturn</persName>
+                     </person>
+                     <person ref="ST_Pers_0132">
+                        <persName>Elias Hutter</persName>
+                     </person>
+                     <person ref="ST_Pers_0162">
+                        <persName>Nicephorus Callistus Xanthopulus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Menziona il Lutherus Academicus di Gretser (
+http://data.onb.ac.at/rec/AC09914514), le opere di Gretser a difesa di Bellarmino e l'historia ecclesiastica di Niceforo. Devo trascrivere interamente. Gli chiede di verificare l'esistenza e di mandargli eventualmente informazioni, sui libri ebraici e arabi conservati nelle biblioteche bavaresi- [partially published by Lambeck; Kollar points to Lambeck on a mss in Commentarii 7, Nr. 111]</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737r</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
@@ -75,23 +108,11 @@
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0267">Robert Bellarmine</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0233">Martin Luther</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0084">Georg Sturn</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0132">Elias Hutter</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0162">Nicephorus Callistus Xanthopulus</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ad R. et Erud. P. D. Iacob. Gretserum</cell>
+      </body>
+   </text>
 </TEI>

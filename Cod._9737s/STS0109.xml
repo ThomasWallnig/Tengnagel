@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Johann Georg Herwart von Hohenburg to ST. 1618-12-12</title>
+            <title type="main">Johann Georg Herwart von Hohenburg to Sebastian Tengnagel. 1618-12-12</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -34,30 +41,46 @@
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
          <notesStmt>
-            <note type="editorial">
-               <listPlace type="mentioned">
-                  <place>
-                     <placeName xml:id="ST_Place_0011">Hungary</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0135">Pannonia</placeName>
-                  </place>
-                  <place>
-                     <placeName xml:id="ST_Place_0013">Ingolstadt</placeName>
-                  </place>
-               </listPlace>
-            </note>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0011">
+                        <placeName>Hungary</placeName>
+                     </place>
+                     <place ref="ST_Place_0135">
+                        <placeName>Pannonia</placeName>
+                     </place>
+                     <place ref="ST_Place_0013">
+                        <placeName>Ingolstadt</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0638">
+                        <persName>Hydatius</persName>
+                     </person>
+                     <person ref="ST_Pers_0046">
+                        <persName>Johann Lieb</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Hans Georg Herwart von Hohenburg (1588-1622), correspondant of Kepler, philologist, astronomer and egyptologist. He was a Catholic. 
+Parla dell'origine degli ungheresi, cita diversi gruppi etnici: Gli Avars, Avari (Caucaso), Unni e chiede a ST se in biblioteca ci sono manoscritti utili a questo proposito</note>
+            </noteGrp>
          </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">160r–160r</biblScope>
+               <biblScope unit="page">160r–161v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -67,25 +90,22 @@
          </textClass>
          <correspDesc ref="STS0109">
             <correspAction type="sent">
-               <persName xml:id="ST_Pers_003">Johann Georg Herwart von Hohenburg</persName>
+               <persName xml:id="ST_Pers_0037">Johann Georg Herwart von Hohenburg</persName>
                <placeName xml:id="ST_Place_0018">Munich</placeName>
                <date when="1618-12-12">12 December 1618</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0638">Idathius</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0046">Johann Lieb</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ian Herwarti ab Hohenburg Cancellar Bavar. de Hungarorum origine indaganda.</cell>
+      </body>
+   </text>
 </TEI>

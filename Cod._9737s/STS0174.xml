@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Nicolae Patrascu to ST. 1622-02-15</title>
+            <title type="main">Nicolae Patrascu to Sebastian Tengnagel. 1622-02-15</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,40 @@
             <idno>STS0174</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0284">
+                        <persName>Martin Anton Delrio</persName>
+                     </person>
+                     <person ref="ST_Pers_0750">
+                        <persName>Olaus Magnus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>è convalescente, si annoia, non sa come occupare il tempo, allora vuole imparare un po' di storia. E poiché sa che ST di storia ne sa tanta, gli chiede una copia di Delrium de Disquisitionibus magicis
+vel Olai Magni Episcopi Historiam Gotthicam (cioè Olao Magno, storia dei popoli settentrionali etc e Delrio sulla magia: http://data.onb.ac.at/rec/AC09806002 senza note di possesso) </note>
+               <note>da usare IN AGENTS, da accostare a Liechtenstein ed Enenkel che chiedono libri a ST. Questo conferma che Tengnagel agisce con due teste: imperial librarian e un collezionista che passa libri agli aristocratici </note>
+               <note>si tratta di Nicolae Patrascu, principe di Valacchia . guardare pagina su Wikipedia, fatta benissimo. si menziona anche la corrispo
+Da usare in CHRISTIANITY</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737s</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">261r–261r</biblScope>
+               <biblScope unit="page">261r–261v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -57,20 +88,18 @@
                <date when="1622-02-15">15 February 1622</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_Pers_0284">Martin Anton Delrio</persName>
-            </person>
-            <person>
-               <persName xml:id="ST_Pers_0750">Olaus Magno</persName>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">
+D. Petrasco Waiuodae utendum dedi historiam Septentrionalem Olai Magni Gothi, fol. 15 febr. 1622. Redditus Olaus</cell>
+      </body>
+   </text>
 </TEI>

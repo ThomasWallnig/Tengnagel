@@ -3,13 +3,20 @@
    <teiHeader xml:lang="en">
       <fileDesc xml:id="STqrst">
          <titleStmt>
-            <title type="main">Johann Ludwig von Hagen to ST. 1628-04-11</title>
+            <title type="main">Johann Ludwig von Hagen to Sebastian Tengnagel. 1628-04-11</title>
             <respStmt>
                <persName>
                   <surname>Petrolini</surname>
                   <forename>Chiara</forename>
                </persName>
                <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -18,14 +25,14 @@
                <forename>Thomas</forename>
                <surname>Wallnig</surname>
             </principal>
-            <funder ref="https://www.fwf.ac.at/">FWF P 30511</funder>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
          </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName>Phaidra</orgName>
                <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
             </publisher>
-            <date type="first" when="2023">2023</date>
+            <date type="first" when="2024">2024</date>
             <pubPlace>Vienna</pubPlace>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
@@ -33,16 +40,39 @@
             <idno>STT0109</idno>
             <idno type="URI">http://XYZ</idno>
          </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0225">
+                        <placeName>Trier</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0029">
+                        <persName>Melchior Goldast</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Si parla della conversione di Goldast al cattolicesimo. Goldast adesso è cattolico ma prima ha professato tutte le religioni possibili, anche pubblicamente. Mi ha detto che doveva andare in missione per l'imperatore; poi appena ha subodorato le fatiche si è tirato indietro e se n'è andato a Treviri e ha dichiarato che lì faceva di mestiere il cancelliere ma io non ho ancora visto la sua bolla di nomina. In città non c'è nessuno che abbia affetto per lui, e questo anche prima di diventare cattolico. ma è un bravo uomo, io sono suo amico da tanto tempo: magai Cesare potesse aiutarlo! </note>
+               <note>Sarebbe ora di cambiare il catalogo universale, ponendo al primo posto i libri cattolici, al secondo i protestanti e al terzo i calvinisti. Anzi, sarebbe meglio eliminare tutti i libri di Calvino. </note>
+               <note>CHRISTIANITY</note>
+            </noteGrp>
+         </notesStmt>
          <sourceDesc>
             <msDesc type="composite">
                <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
                   <institution>Austrian National Library</institution>
                   <repository>Department of Manuscripts and Rare Books</repository>
-                  <idno/>
+                  <idno type="shelfmark">Cod. 9737t</idno>
                </msIdentifier>
             </msDesc>
             <bibl>
-               <biblScope unit="page">178r–178r</biblScope>
+               <biblScope unit="page">178r–179v</biblScope>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -53,21 +83,22 @@
          <correspDesc ref="STT0109">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0033">Johann Ludwig von Hagen</persName>
-               <placeName xml:id="">Frankfurt</placeName>
+               <placeName xml:id="ST_Place_0008">Frankfurt am Main</placeName>
                <date when="1628-04-11">11 April 1628</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070">ST</persName>
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
             <language>Latin</language>
          </langUsage>
-         <particDesc>
-            <person>
-               <persName xml:id="ST_"/>
-            </person>
-         </particDesc>
       </profileDesc>
    </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Dat. 11 April. Accept. 26 eiusd. 
+1628 De Goldasto</cell>
+      </body>
+   </text>
 </TEI>

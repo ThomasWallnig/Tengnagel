@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to s.n.. 1635-04-09</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0149</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0053">
+                        <placeName>Milan</placeName>
+                     </place>
+                     <place ref="ST_Place_0019">
+                        <placeName>Paris</placeName>
+                     </place>
+                     <place ref="ST_Place_0045">
+                        <placeName>Italy</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_1003">
+                        <persName>Nicolas-Claude Fabri de Peiresc</persName>
+                     </person>
+                     <person ref="ST_Pers_0846">
+                        <persName>Jacobus Golius</persName>
+                     </person>
+                     <person ref="ST_Pers_1085">
+                        <persName>Gilles de Losche</persName>
+                     </person>
+                     <person ref="ST_Pers_0979">
+                        <persName>Lucas Holstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0020">
+                        <persName>Pietro Della Valle</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial">
+               <note>Lettera importante! Ma a chi scrive?? </note>
+               <note>Con mia somma tristezza non ho ancora visto il tuo modello dei caratteri arabi, così come anche le tue lettere e il foglio dei libri parigi; e desidero tantissimo vedere un piccolo assaggio della biblioteca regale. Riguardo a Ramusio non so che cosa ti abbia scritto, forse ti ho detto qualcosa riguardo a dei frustuli suoi provenienti dal nostro Abilfeda (nel secondo volume, quello nel quale copre gli itinerario di Paolo Veneto e Haytonio armeno, e di altri autori tradotti in italiano, e fa un grande elogio della nostra geografia arabica) e se non mi inganna la memoria, alcune volte tu lo menzioni nei tuoi scritti come proveniente(?) dala biblioteca di Besold </note>
+               <note>Desidero sapere, e farò in modo che si cerchi a MIlano, se quel tesauro milanese dell’arabismo o un qualche libro con qwuesto titolo sia stato annotato/scritto. D’altra parte, un lessico armeno è in vendita lì a Milano. 
+E l’avrei già comprato da tempo ma a causa di tutte queste furie e scompigli di guerra ormai ho quasi la nausea nei confronti di tutti gli studi, proprio come te. 
+Il libro in arabo xxx, tradotto dal persiano in francese, mi fa venire una terribile acquolina e lo comprerei a qualsiasi prezzo se ci fosse nella tua bibliotecario o in una delle vostre officine di stampa. </note>
+               <note>Ti donerò anche, se lo vuoi, un esemplare di quel medesimo manoscritto in persiano, ma mutilo dell’inizio e della fine. 
+Se potessi ottenere il catalogo dei libri orientali di P. Capuccino Egidio de Losches o Loches, e l’ovunque celebrato negli elogi dei letterati barone di Peiresc, faresti veramente felici noi germani. Proverò anche a Roma, semmai potessi ottenere qualcosa.
+Inoltre, se hai qualcosa di Golius, vorrei che gentilmente me ne mandassi una copia e vorrei anche che ti informassi se sarà stampato il suo lessico arabico. 
+Potrai sempre parlare per lettere o anche di persona con il mio amanuense, Ioh. Michael Metzlero che, percorsa l’Italia, da poco è stato anche con Pietro Della Valle ed è stato anche da Lucas Holstenius matematico di Amburgo e dottissimo in greco e latino, e adesso si trova al servizio di sua eccellenza Conte a Sultz Wittemberg, e potrai esporgli le tue necessità perché io gli ho scritto già da tempo e lui potrà, come spero, esserti d’aiuto, forse, in queste tue fatiche. 
+mi piacerebbe avere i Poemi di Tograi e i Detti di Alii che da te una volta mi erano stati spediti ma che non ho mai ricevuto, se per caso si trovassero in vendita da voi, e se vi fosse inoltre un qualcosa edito da Golius a Leida in arabo.</note>
+               <note>USARE IN CHRISTIANITY E IN AGENTS PER LA NAUSEA PROVOCATA DALLA GUERRA e anche per il copista METZER che aveva incontrato in italia Della Valle e Holstenio</note>
+            </noteGrp>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">245r–246v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0149">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1635-04-09">9 April 1635</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="">s.n.</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell/>
+      </body>
+   </text>
+</TEI>
