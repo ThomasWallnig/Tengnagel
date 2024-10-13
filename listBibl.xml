@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Personen-Index</title>
+         </titleStmt>
+      </fileDesc>
+   </teiHeader>
+   <standOff>
+      <listBibl>
+         <bibl xml:id="ID">
+            <title type="cite">Author, Title</title>
+            <title>Title</title>
+            <author>Author</author>
+            <idno type="url">phaidra_voc</idno>Printed<idno type="url">ONB</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0001">
+            <title type="cite">Adelboldus Traiectensis, Vita imperatoris Henrici II</title>
+            <title>Vita imperatoris Henrici II</title>
+            <author>Adelboldus Traiectensis</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13999381</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0002">
+            <title type="cite">Regino of Prüm, De synodalibus causis et disciplinis ecclesiasticis</title>
+            <title>De synodalibus causis et disciplinis ecclesiasticis</title>
+            <author>Regino of Prüm</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13975157</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0003">
+            <title type="cite">Epistula S. Pauli</title>
+            <title>Epistula S. Pauli</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0004">
+            <title type="cite">Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+            <title>Arte para saver ligeramente la lengua Araviga</title>
+            <author>Pedro de Alcalá</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0004a">
+            <title type="cite">Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+            <title>Arte para saver ligeramente la lengua Araviga</title>
+            <author>Pedro de Alcalá</author>
+            <pubPlace>Granada</pubPlace>
+            <date>1505</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09650166</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0004b">
+            <title type="cite">Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+            <title>Arte para saver ligeramente la lengua Araviga</title>
+            <author>Pedro de Alcalá</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0005">
+            <title type="cite">Abū' l-Fidā', Taqwīm al-Buldān</title>
+            <title>Taqwīm al-Buldān</title>
+            <author>Abū' l-Fidā'</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0005a">
+            <title type="cite">Abū' l-Fidā', Taqwīm al-Buldān</title>
+            <title>Taqwīm al-Buldān</title>
+            <author>Abū' l-Fidā'</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0005b">
+            <title type="cite">Abū' l-Fidā', Taqwīm al-Buldān</title>
+            <title>Taqwīm al-Buldān</title>
+            <author>Abū' l-Fidā'</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0006">
+            <title type="cite">Vita SS Patrum incipienda a Testamento veteri</title>
+            <title>Vita SS Patrum incipienda a Testamento veteri</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0007">
+            <title type="cite">Muḥammad al-Buchārī, Libri aliqui Buchari auctore Mahomede</title>
+            <title>Libri aliqui Buchari auctore Mahomede</title>
+            <author>Muḥammad al-Buchārī</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0008">
+            <title type="cite">IV Evangelia ex interpretatione diversa a Vulgata</title>
+            <title>IV Evangelia ex interpretatione diversa a Vulgata</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0009">
+            <title type="cite">Pentateuchus Moisis</title>
+            <title>Pentateuchus Moisis</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0010">
+            <title type="cite">Dictionarium Latino-Syriacum cum interpretatione Arabica</title>
+            <title>Dictionarium Latino-Syriacum cum interpretatione Arabica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0011">
+            <title type="cite">Institutionum Muhammedis expositio Hebraice </title>
+            <title>Institutionum Muhammedis expositio Hebraice</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0012">
+            <title type="cite">Henricus Canisius, Antiquae lectiones</title>
+            <title>Antiquae lectiones</title>
+            <author>Henricus Canisius</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1601</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC11170130</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0013">
+            <title type="cite">Chronica Reichersbergensis</title>
+            <title>Chronica Reichersbergensis</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0014">
+            <title type="cite">Pentateuchus Arabice Hebraice Chaldaice et Persice</title>
+            <title>Pentateuchus Arabice Hebraice Chaldaice et Persice</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0015">
+            <title type="cite">Fabula de Johanna Papissa</title>
+            <title>Fabula de Johanna Papissa</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0016">
+            <title type="cite">Dictionarium Hispano-Arabicum</title>
+            <title>Dictionarium Hispano-Arabicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0017">
+            <title type="cite">Missa in usum neophytorum Maurorum</title>
+            <title>Missa in usum neophytorum Maurorum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0018">
+            <title type="cite">Sebastian Tengnagel, Jacob Gretser, Gemina adversus Melchiorum Guldinastum Calvinianum replicatorem defensio</title>
+            <title>Gemina adversus Melchiorum Guldinastum Calvinianum replicatorem defensio</title>
+            <author>Sebastian Tengnagel, Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1612</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0019">
+            <title type="cite">Vita Othonis Bambergensis</title>
+            <title>Vita Othonis Bambergensis</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0020">
+            <title type="cite">Petrus Kirstenius, Vitae Evangelistarum quatuor: nunc primum ex codice manuscripto Arabico caesareo erutae</title>
+            <title>Vitae Evangelistarum quatuor: nunc primum ex codice manuscripto Arabico caesareo erutae</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1608</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10015009</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0021">
+            <title type="cite">Petrus Kirstenius, Grammatices Arabicae</title>
+            <title>Grammatices Arabicae</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1608</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10015006</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0022">
+            <title type="cite">Petrus Kirstenius, Kitāb aṯ
+                  -
+                  ṯ
+                  ānī min qānūn al-qānūn li-Ibn-Sīnā [Avicenna]
+               </title>
+            <title>Kitāb aṯ-ṯānī min qānūn al-qānūn li-Ibn-Sīnā [Avicenna]</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1609</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09975686</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0023">
+            <title type="cite">João de Barros, L'Asia</title>
+            <title>L'Asia</title>
+            <author>João de Barros</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1562</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10893048</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0024">
+            <title type="cite">Euclid, Kitāb taḥ
+                  rīr usūl li-Uqlīdis min ta
+                  ʾ
+                  līf 
+                  ̮
+                  Hwaǧa Nasīr-ad-dīn a
+                  ṭ
+                  -
+                  Ṭ
+                  ūsī. Euclidis Elementorum geometricorum libri tredecim
+               </title>
+            <title>Kitāb taḥrīr usūl li-Uqlīdis min taʾlīf ̮Hwaǧa Nasīr-ad-dīn aṭ-Ṭūsī. Euclidis Elementorum geometricorum libri tredecim</title>
+            <author>Euclid</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1594</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC07683861</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0025">
+            <title type="cite">Jacob ben Joseph Tavus et al., The Polyglot Pentateuch</title>
+            <title>The Polyglot Pentateuch</title>
+            <author>Jacob ben Joseph Tavus et al.</author>
+            <pubPlace>Constantinopolis</pubPlace>
+            <date>1546</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0026">
+            <title type="cite">Hebraicarum Arabicarum Syriacarum Chaldaicarum et Graecarum thesaurus</title>
+            <title>Hebraicarum Arabicarum Syriacarum Chaldaicarum et Graecarum thesaurus</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0027">
+            <title type="cite">Jan Gruter, Florilegium ethico-politicum</title>
+            <title>Florilegium ethico-politicum</title>
+            <author>Jan Gruter</author>
+            <pubPlace>Frankfurt</pubPlace>
+            <date>1610-1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09919901</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0028">
+            <title type="cite">Catalogum librorum Arabicorum Scaligeri</title>
+            <title>Catalogum librorum Arabicorum Scaligeri</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0030">
+            <title type="cite">Hebraice MS</title>
+            <title>Hebraice MS</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0031">
+            <title type="cite">Lexicon Hebraicum ante annos 500 scriptum, et unicum, ut putant, in toto orbe exemplar</title>
+            <title>Lexicon Hebraicum ante annos 500 scriptum, et unicum, ut putant, in toto orbe exemplar</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0032">
+            <title type="cite">Alexandri M. Historica, auctore Abrahamo Aben Pharaeque Elsuli</title>
+            <title>Alexandri M. Historica, auctore Abrahamo Aben Pharaeque Elsuli</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0033">
+            <title type="cite">MS Scaligeriana</title>
+            <title>MS Scaligeriana</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0034">
+            <title type="cite">Raphelengii Glossarium latino Arabicum</title>
+            <title>Raphelengii Glossarium latino Arabicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0035">
+            <title type="cite">De thesauro linguae Arabicae, Alcamusi nomine</title>
+            <title>De thesauro linguae Arabicae, Alcamusi nomine</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0036">
+            <title type="cite">SS. Patrum monumenta</title>
+            <title>SS. Patrum monumenta</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0037">
+            <title type="cite">Joan Baptista Raymundi bibliothecae index</title>
+            <title>Joan Baptista Raymundi bibliothecae index</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0038">
+            <title type="cite">Opus Veteris Testamenti Arabicum, praecipue Prophaetae</title>
+            <title>Opus Veteris Testamenti Arabicum, praecipue Prophaetae</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0039">
+            <title type="cite">Thomas Ebendorfer, Chronicon Austriae</title>
+            <title>Chronicon Austriae</title>
+            <author>Thomas Ebendorfer</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0040">
+            <title type="cite">Christoph Gewold, De Sacri Romani Imperii septemviratu commentarius</title>
+            <title>De Sacri Romani Imperii septemviratu commentarius</title>
+            <author>Christoph Gewold</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC09897663</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0041">
+            <title type="cite">Nicephorus Callistus Xanthopulus, De miraculis Beatae Mariae Virginis ad fontem</title>
+            <title>De miraculis Beatae Mariae Virginis ad fontem</title>
+            <author>Nicephorus Callistus Xanthopulus</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13999402</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0042">
+            <title type="cite">Conradus Pelicanus, Commentaria</title>
+            <title>Commentaria</title>
+            <author>Conradus Pelicanus</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0043">
+            <title type="cite">Gregory of Nyssa, Homilia</title>
+            <title>Homilia</title>
+            <author>Gregory of Nyssa</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0044">
+            <title type="cite">Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+            <title>Historia Ecclesiastica</title>
+            <author>Nicephorus Callistus Xanthopulus</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13908657</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0045">
+            <title type="cite">Syra et Arabica parphrasis bibliorum</title>
+            <title>Syra et Arabica parphrasis bibliorum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0046">
+            <title type="cite">Nicephorus Callistus Xanthopulus, Opuscula</title>
+            <title>Opuscula</title>
+            <author>Nicephorus Callistus Xanthopulus</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0047">
+            <title type="cite">Horapollon, Hieroglyphica</title>
+            <title>Hieroglyphica</title>
+            <author>Horapollon</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0048">
+            <title type="cite">Virgil, Eclogues</title>
+            <title>Eclogues</title>
+            <author>Virgil</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0049">
+            <title type="cite">Eusebius of Caesarea, Chronicon</title>
+            <title>Chronicon</title>
+            <author>Eusebius of Caesarea</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0050">
+            <title type="cite">Andreas of Regensburg, Chronicon de principibus terrae Bavarorum</title>
+            <title>Chronicon de principibus terrae Bavarorum</title>
+            <author>Andreas of Regensburg</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13977039</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0051">
+            <title type="cite">Chronica a mundi initia</title>
+            <title>Chronica a mundi initia</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0052">
+            <title type="cite">Historia Apollonii regis Tyri</title>
+            <title>Historia Apollonii regis Tyri</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0053">
+            <title type="cite">Dictionarium Arabico-Latinum quinque vocabolorum millibus</title>
+            <title>Dictionarium Arabico-Latinum quinque vocabolorum millibus</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0054">
+            <title type="cite">Grammatica Arabica</title>
+            <title>Grammatica Arabica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0055">
+            <title type="cite">Jacques-Marie d'Amboise, De rebus creatis et eorum creatore liber tripertitus</title>
+            <title>De rebus creatis et eorum creatore liber tripertitus</title>
+            <author>Jacques-Marie d'Amboise</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1586</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09654195</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0056">
+            <title type="cite">Qur'an</title>
+            <title>Qur'an</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0057">
+            <title type="cite">Boniface, Epistolae</title>
+            <title>Epistolae</title>
+            <author>Boniface</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC01578900</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0059">
+            <title type="cite">Moses bar Kepha, De paradiso commentarius</title>
+            <title>De paradiso commentarius</title>
+            <author>Moses bar Kepha</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1579</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10139465 (ST's ex libris)</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0060">
+            <title type="cite">Professio fidei Arabice</title>
+            <title>Professio fidei Arabice</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0061">
+            <title type="cite">Georg Weigenmaier, Lexicon Arabicum</title>
+            <title>Lexicon Arabicum</title>
+            <author>Georg Weigenmaier</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0062">
+            <title type="cite">Disputatio Mahumetani cum Christiano de religione</title>
+            <title>Disputatio Mahumetani cum Christiano de religione</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0063">
+            <title type="cite">Praecationes Arabicae</title>
+            <title>Praecationes Arabicae</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0064">
+            <title type="cite">Johannes Damascenus, De fide Orthodoxa</title>
+            <title>De fide Orthodoxa</title>
+            <author>Johannes Damascenus</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0065">
+            <title type="cite">al-Makīn Ibn al-ʿ
+                  Amīd, Tārī
+                  ḫ
+               </title>
+            <title>Tārīḫ</title>
+            <author>al-Makīn Ibn al-ʿAmīd</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0065a">
+            <title type="cite">al-Makīn Ibn al-ʿ
+                  Amīd, Tārī
+                  ḫ
+               </title>
+            <title>Tārīḫ</title>
+            <author>al-Makīn Ibn al-ʿAmīd</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0066">
+            <title type="cite">Franciscus Raphelengius / Joseph Justus Scaliger / Thomas Erpenius / Isaac Casaubon, Kitābu ʾ
+                  l-am
+                  ṯ
+                  āli Seu Proverbiorum Arabicorum
+               </title>
+            <title>Kitābu ʾl-amṯāli Seu Proverbiorum Arabicorum</title>
+            <author>Franciscus Raphelengius / Joseph Justus Scaliger / Thomas Erpenius / Isaac Casaubon</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1614</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09843213</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0066a">
+            <title type="cite">Adagia Arabica</title>
+            <title>Adagia Arabica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0067">
+            <title type="cite">Johannes Chrysostomus, Orationes</title>
+            <title>Orationes</title>
+            <author>Johannes Chrysostomus</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0068">
+            <title type="cite">Catalogi duo librorum Arabicorum ac Syriacorum bibliothecae tum Bavaricae, tum Vaticanae</title>
+            <title>Catalogi duo librorum Arabicorum ac Syriacorum bibliothecae tum Bavaricae, tum Vaticanae</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0069">
+            <title type="cite">Petrus Kirstenius, Notae in evangelium S. Matthaei ex collatione textuum Arabicorum, Aegyptiacorum, Hebraeorum</title>
+            <title>Notae in evangelium S. Matthaei ex collatione textuum Arabicorum, Aegyptiacorum, Hebraeorum</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1611</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10015007</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0070">
+            <title type="cite">Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+            <title>al-Qānūn fī ṭ-ṭibb</title>
+            <author>Avicenna</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC15071397</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0071">
+            <title type="cite">Johann Albrecht Widmannstetter / Moses of Mardin, Liber sacrosancti Evangelii de Jesu Christo characteribus et lingua Syra expressa</title>
+            <title>Liber sacrosancti Evangelii de Jesu Christo characteribus et lingua Syra expressa</title>
+            <author>Johann Albrecht Widmannstetter / Moses of Mardin</author>
+            <pubPlace>Wien</pubPlace>
+            <date>1562</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09711153</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0072">
+            <title type="cite">al-Arbaʿ
+                  a al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]
+               </title>
+            <title>al-Arbaʿa al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC15146164</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0073">
+            <title type="cite">Julius Otto Konrad, Gali Razia occultorum detectio</title>
+            <title>Gali Razia occultorum detectio</title>
+            <author>Julius Otto Konrad</author>
+            <idno type="url">https://www.deutsche-digitale-bibliothek.de/item/HSGZGRE5I2A4GIKEUZ4R4IBA4XKMUXNO</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0074">
+            <title type="cite">Jacob Gretser, De Cruce Christi</title>
+            <title>De Cruce Christi</title>
+            <author>Jacob Gretser</author>
+            <pubPlace>Ingolstad</pubPlace>
+            <date>1605 / 1608 / 1610</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC11352145</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0075">
+            <title type="cite">Catalogus librorum Arabicorum Bibliothecae Bavaricae MSS</title>
+            <title>Catalogus librorum Arabicorum Bibliothecae Bavaricae MSS</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0076">
+            <title type="cite">Konrad Rittershausen, Vota viatica</title>
+            <title>Vota viatica</title>
+            <author>Konrad Rittershausen</author>
+            <pubPlace>Nürnberg</pubPlace>
+            <date>1606</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0077">
+            <title type="cite">Scipione Gentili, In L. Apuleii Apologiam, qua se ipse defendit publico de magia judicio, commentarius</title>
+            <title>In L. Apuleii Apologiam, qua se ipse defendit publico de magia judicio, commentarius</title>
+            <author>Scipione Gentili</author>
+            <pubPlace>Hanau</pubPlace>
+            <date>1607</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0078">
+            <title type="cite">Isidorus Pelosiota, Epistolae</title>
+            <title>Epistolae</title>
+            <author>Isidorus Pelosiota</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0079">
+            <title type="cite">Victor Scialac, Gregorius Sanctus Episcopus Nyssenus, Cyrillus Archiepiscopus Alexandrinus. Liturgiae ex Arabico conversae a Victorio Scialach</title>
+            <title>Gregorius Sanctus Episcopus Nyssenus, Cyrillus Archiepiscopus Alexandrinus. Liturgiae ex Arabico conversae a Victorio Scialach</title>
+            <author>Victor Scialac</author>
+            <pubPlace>Augsburg</pubPlace>
+            <date>1604</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09684672</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0080">
+            <title type="cite">Caspar Schoppe, Scaliger Hypobolimaeus hoc est elenchus epistolarum Josephi Burdonis pseudo Scaligeri</title>
+            <title>Scaliger Hypobolimaeus hoc est elenchus epistolarum Josephi Burdonis pseudo Scaligeri</title>
+            <author>Caspar Schoppe</author>
+            <pubPlace>Mainz</pubPlace>
+            <date>1607</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10308487</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0081">
+            <title type="cite">Joseph Justus Scaliger, Elenchus trihaeresii</title>
+            <title>Elenchus trihaeresii</title>
+            <author>Joseph Justus Scaliger</author>
+            <date>1605</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0082">
+            <title type="cite">Muḥammad al-Idrisi, Kitāb nuzhat al-muštāq</title>
+            <title>Kitāb nuzhat al-muštāq</title>
+            <author>Muḥammad al-Idrisi</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1592</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10145007</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0083">
+            <title type="cite">Bašārat Yasūʿ
+                   / Evengelium Jesu Christi
+               </title>
+            <title>Bašārat Yasūʿ / Evengelium Jesu Christi</title>
+            <pubPlace>Roma</pubPlace>
+            <date>1591</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09709138</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0084">
+            <title type="cite">Leon Modena, Ḥ
+                  ele
+                  ḳ
+                   rishon mi-sefer midbar Yehudah
+               </title>
+            <title>Ḥeleḳ rishon mi-sefer midbar Yehudah</title>
+            <author>Leon Modena</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1601-1602
+(in Hebrew)</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10454324</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0085">
+            <title type="cite">Giovanni Tommaso Minadoi, Historia della guerra fra Turchi et Persiani</title>
+            <title>Historia della guerra fra Turchi et Persiani</title>
+            <author>Giovanni Tommaso Minadoi</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1587</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10125537</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0086">
+            <title type="cite">Francesco Sansovino, Delle cose notabili che sono in Venetia</title>
+            <title>Delle cose notabili che sono in Venetia</title>
+            <author>Francesco Sansovino</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1565</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10275532</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0087">
+            <title type="cite">Ibn al-Hâjib, Kāfīya li-Ibn al-Ḥ
+                  āǧib : Grammatica Arabica dicta Caphiah, auctore filio Alhagiabi
+               </title>
+            <title>Kāfīya li-Ibn al-Ḥāǧib : Grammatica Arabica dicta Caphiah, auctore filio Alhagiabi</title>
+            <author>Ibn al-Hâjib</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1592</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10419378</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0088">
+            <title type="cite">Mohammed ibn Adjurrum, Kitāb al-Āǧurrūmīya / Grammatica Arabica in compendium redacta, quae vocatur Giarrumia</title>
+            <title>Kitāb al-Āǧurrūmīya / Grammatica Arabica in compendium redacta, quae vocatur Giarrumia</title>
+            <author>Mohammed ibn Adjurrum</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1592</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10145044 73.F.55* ALT PRUNK</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0089">
+            <title type="cite">Avicenna, Kutub al-qānūn fi 'ṭ
+                  -
+                  ṭ
+                  ibb li Abū 
+                  ʿ
+                  Alī ar-ra
+                  ʾ
+                  īs Ibn Sīnā / Libri quinque Canonis Medicinae Abu Ali principis filii Sinae alias corrupte Avicennae
+               </title>
+            <title>Kutub al-qānūn fi 'ṭ-ṭibb li Abū ʿAlī ar-raʾīs Ibn Sīnā / Libri quinque Canonis Medicinae Abu Ali principis filii Sinae alias corrupte Avicennae</title>
+            <author>Avicenna</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1593</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC07818002</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0090">
+            <title type="cite">Ermoldus Nigellus, In honorem Ludovici Pii</title>
+            <title>In honorem Ludovici Pii</title>
+            <author>Ermoldus Nigellus</author>
+            <idno type="url">ONB, Cod. 614 http://data.onb.ac.at/rec/AC13951540</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0091">
+            <title type="cite">Johann Albrecht Widmannstetter, Ketābā d-Ewangeliyōn qaddīšā de-Māran w-Alāhan Yēšūʾ
+                   Mešī
+                  ḥ
+                  ā / Liber sacrosancti Evangelii De Jesu Christo Domino et Deo nostro
+               </title>
+            <title>Ketābā d-Ewangeliyōn qaddīšā de-Māran w-Alāhan Yēšūʾ Mešīḥā / Liber sacrosancti Evangelii De Jesu Christo Domino et Deo nostro</title>
+            <author>Johann Albrecht Widmannstetter</author>
+            <pubPlace>Wien</pubPlace>
+            <date>1555</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09711152</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0092">
+            <title type="cite">Hieronymus Megiser, Institutiones Linguae Turcicae</title>
+            <title>Institutiones Linguae Turcicae</title>
+            <author>Hieronymus Megiser</author>
+            <pubPlace>Leipzig</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10111502</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0093">
+            <title type="cite">Libellum sive Turcicum sive Arabicum</title>
+            <title>Libellum sive Turcicum sive Arabicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0094">
+            <title type="cite">Pentateuch in Hebrew</title>
+            <title>Pentateuch in Hebrew</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0095">
+            <title type="cite">Vita Tamerlani</title>
+            <title>Vita Tamerlani</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0096">
+            <title type="cite">Book of Wisdom</title>
+            <title>Book of Wisdom</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0097">
+            <title type="cite">Book of Proverbs</title>
+            <title>Book of Proverbs</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0098">
+            <title type="cite">Song of Songs</title>
+            <title>Song of Songs</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0099">
+            <title type="cite">Jean Cinqarbres / Pierre Vignal, Linguae Hebraicae institutiones absolutissimae</title>
+            <title>Linguae Hebraicae institutiones absolutissimae</title>
+            <author>Jean Cinqarbres / Pierre Vignal</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1609 , Le Bé</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0100">
+            <title type="cite">Petrus Kirstenius, Liber de vero usu et abusu medicinae</title>
+            <title>Liber de vero usu et abusu medicinae</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1610</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0101">
+            <title type="cite">Petrus Kirstenius, Trewe Warnung von rechtem Gebrauch und Mißbrauch der Artzney</title>
+            <title>Trewe Warnung von rechtem Gebrauch und Mißbrauch der Artzney</title>
+            <author>Petrus Kirstenius</author>
+            <pubPlace>Breslau</pubPlace>
+            <date>1610</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0102">
+            <title type="cite">Historia Augusta</title>
+            <title>Historia Augusta</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0103">
+            <title type="cite">Athanasius of Alexandria, Vita S. Antonii eremitae a D. Athanasio Graece scripta, cum Davidis Hoeschelii interpretatione ac notis</title>
+            <title>Vita S. Antonii eremitae a D. Athanasio Graece scripta, cum Davidis Hoeschelii interpretatione ac notis</title>
+            <author>Athanasius of Alexandria</author>
+            <pubPlace>Augsburg</pubPlace>
+            <date>1611</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0104">
+            <title type="cite">Anna Comnena, Alexiados Libri VIII.  ab Anna Comnena de rebvs a patre gestis scripti, nunc primum a Dauide Hoeschelio editi</title>
+            <title>Alexiados Libri VIII. ab Anna Comnena de rebvs a patre gestis scripti, nunc primum a Dauide Hoeschelio editi</title>
+            <author>Anna Comnena</author>
+            <pubPlace>Augsburg</pubPlace>
+            <date>1611</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0105">
+            <title type="cite">Sirach</title>
+            <title>Sirach</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0106">
+            <title type="cite">Christophorus Crinesius, Disputatio de confusione linguarum</title>
+            <title>Disputatio de confusione linguarum</title>
+            <author>Christophorus Crinesius</author>
+            <pubPlace>Wittenberg</pubPlace>
+            <date>1610</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0106">
+            <title type="cite">Konrad Rittershausen, Liber commentarius in epistolas Plinii et Trajani</title>
+            <title>Liber commentarius in epistolas Plinii et Trajani</title>
+            <author>Konrad Rittershausen</author>
+            <pubPlace>Amberg</pubPlace>
+            <date>1609</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0107">
+            <title type="cite">Porphyry / Konrad Rittershausen, De vita Pythagorae, nunc primum ex manuscriptis in lucem editus a Cunrado Rittershusio</title>
+            <title>De vita Pythagorae, nunc primum ex manuscriptis in lucem editus a Cunrado Rittershusio</title>
+            <author>Porphyry / Konrad Rittershausen</author>
+            <pubPlace>Altdorf</pubPlace>
+            <date>1610</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0108">
+            <title type="cite">Catalogus Francofurti</title>
+            <title>Catalogus Francofurti</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0109">
+            <title type="cite">Jacob Gretser, Lutherus academicus</title>
+            <title>Lutherus academicus</title>
+            <author>Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1610</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0110">
+            <title type="cite">Ägidius Tschudi, Schweizerische Chronica</title>
+            <title>Schweizerische Chronica</title>
+            <author>Ägidius Tschudi</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0111">
+            <title type="cite">Confessio germanica</title>
+            <title>Confessio germanica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0112">
+            <title type="cite">Petrus Kirstenius, Lexicon Arabicum</title>
+            <title>Lexicon Arabicum</title>
+            <author>Petrus Kirstenius</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0113">
+            <title type="cite">Pentateuchus Palatinus</title>
+            <title>Pentateuchus Palatinus</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0114">
+            <title type="cite">Joseph Justus Scaliger, Opuscula varia antehac non edita</title>
+            <title>Opuscula varia antehac non edita</title>
+            <author>Joseph Justus Scaliger</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1610</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10279612</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0115">
+            <title type="cite">Johannes Leunclavius, Neuwe Chronica Türckischer nation</title>
+            <title>Neuwe Chronica Türckischer nation</title>
+            <author>Johannes Leunclavius</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0116">
+            <title type="cite">João de Barros / Alfonso de Ulloa, L'Asia del S. Giovanni, consigliero del christianissimo re di Portogallo</title>
+            <title>L'Asia del S. Giovanni, consigliero del christianissimo re di Portogallo</title>
+            <author>João de Barros / Alfonso de Ulloa</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1562</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10893048 (ex libris ST)</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0117">
+            <title type="cite">Giovanni da Pian del Carpine, Opera dilettevole da intendere, nella qual si contiene doi itinerarij in Tartaria</title>
+            <title>Opera dilettevole da intendere, nella qual si contiene doi itinerarij in Tartaria</title>
+            <author>Giovanni da Pian del Carpine</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1537</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0118">
+            <title type="cite">Viaggi fatti da Vinetia, alla Tana, in Persia, in India, et In Costantinopoli</title>
+            <title>Viaggi fatti da Vinetia, alla Tana, in Persia, in India, et In Costantinopoli</title>
+            <pubPlace>Venezia</pubPlace>
+            <date>1543</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC07587959</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0119">
+            <title type="cite">Lexicon Arabico Turcicum (or. Scaliger)</title>
+            <title>Lexicon Arabico Turcicum (or. Scaliger)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0120">
+            <title type="cite">Lexicon Persico Turcicum (or. Scaliger)</title>
+            <title>Lexicon Persico Turcicum (or. Scaliger)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0120a">
+            <title type="cite">Lexicon Persico Turcicum (Leiden)</title>
+            <title>Lexicon Persico Turcicum (Leiden)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0120b">
+            <title type="cite">Lexicon Persico Turcicum (Vienna)</title>
+            <title>Lexicon Persico Turcicum (Vienna)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0122">
+            <title type="cite">Cathologum libroum Constantinopoli venalium manuscriptorum in linguis Graeca, Syra, Hebraica, Arabica, Persica, Turcica vel Chaldaica</title>
+            <title>Cathologum libroum Constantinopoli venalium manuscriptorum in linguis Graeca, Syra, Hebraica, Arabica, Persica, Turcica vel Chaldaica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0123">
+            <title type="cite">Cicero, Epistolae ad familiars</title>
+            <title>Epistolae ad familiares</title>
+            <author>Cicero</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0124">
+            <title type="cite">Pedro Teixeira, Relaciones De Pedro Teixeira D'el origen descendencia y succession de los reyes de Persia, y de Harmuz</title>
+            <title>Relaciones De Pedro Teixeira D'el origen descendencia y succession de los reyes de Persia, y de Harmuz</title>
+            <author>Pedro Teixeira</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1610</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10369641</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0125">
+            <title type="cite">Luis del Mármol Carvajal, Descripción general de África</title>
+            <title>Descripción general de África</title>
+            <author>Luis del Mármol Carvajal</author>
+            <pubPlace>Granada</pubPlace>
+            <date>1573</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0126">
+            <title type="cite">Luis de Guzmám, Historia de las missiones que han hecho los religiosos de la Compania de Jesus, para predicar el sancto Evangelio en la India Oriental y en los reynos de la China y Iapon</title>
+            <title>Historia de las missiones que han hecho los religiosos de la Compania de Jesus, para predicar el sancto Evangelio en la India Oriental y en los reynos de la China y Iapon</title>
+            <author>Luis de Guzmám</author>
+            <pubPlace>Alcala</pubPlace>
+            <date>1601</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC12617555</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0127">
+            <title type="cite">Antonio de Herrera y Tordesillas, La Historia General del Mundo</title>
+            <title>La Historia General del Mundo</title>
+            <author>Antonio de Herrera y Tordesillas</author>
+            <pubPlace>Madrid</pubPlace>
+            <date>1601</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09636851</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0128">
+            <title type="cite">Antonio de San Roman, Historia general de la India Oriental</title>
+            <title>Historia general de la India Oriental</title>
+            <author>Antonio de San Roman</author>
+            <pubPlace>Valladolid</pubPlace>
+            <date>1603</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10275451</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0129">
+            <title type="cite">Chronica de rebus gestis Persarum, Tatarorum, familiae Osmanidarum vel Calipharum qui ante Osmanidas imperium</title>
+            <title>Chronica de rebus gestis Persarum, Tatarorum, familiae Osmanidarum vel Calipharum qui ante Osmanidas imperium</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0130">
+            <title type="cite">Vetus Testamentum vel pars testamenti in lingua Arabica</title>
+            <title>Vetus Testamentum vel pars testamenti in lingua Arabica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0131">
+            <title type="cite">Dictionaria lugat Arabi, lugat Pfarsi</title>
+            <title>Dictionaria lugat Arabi, lugat Pfarsi</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0132">
+            <title type="cite">Cyril of Alexandria, Contra Iulianum</title>
+            <title>Contra Iulianum</title>
+            <author>Cyril of Alexandria</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0133">
+            <title type="cite">Friedrich Sylberg, Saracenica sive Maomethica</title>
+            <title>Saracenica sive Maomethica</title>
+            <author>Friedrich Sylberg</author>
+            <pubPlace>Heidelberg</pubPlace>
+            <date>1595</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10474193</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0134">
+            <title type="cite">Jerónimo Osóno, De religione</title>
+            <title>De religione</title>
+            <author>Jerónimo Osóno</author>
+            <pubPlace>Dillingen</pubPlace>
+            <date>1569</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10173945</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0135">
+            <title type="cite">Johannes Jacob Wecker, De secretis libri XVII</title>
+            <title>De secretis libri XVII</title>
+            <author>Johannes Jacob Wecker</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1582</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10428902</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0136">
+            <title type="cite">John VI Kantakouzenos, Ioannis Cantacvzeni Constantinopolitani regis contra Mahometicam fidem Christiana</title>
+            <title>Ioannis Cantacvzeni Constantinopolitani regis contra Mahometicam fidem Christiana</title>
+            <author>John VI Kantakouzenos</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1543</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10005059</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0137">
+            <title type="cite">Nicholas Remy, Daemonolatreiae libri tres</title>
+            <title>Daemonolatreiae libri tres</title>
+            <author>Nicholas Remy</author>
+            <pubPlace>Lyon</pubPlace>
+            <date>1595</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10241811</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0138">
+            <title type="cite">Jean Bodin, De la demonomanie des sorciers</title>
+            <title>De la demonomanie des sorciers</title>
+            <author>Jean Bodin</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0139">
+            <title type="cite">Hadrianus Junius, Adagiorum centuriae VIII. cum dimidia</title>
+            <title>Adagiorum centuriae VIII. cum dimidia</title>
+            <author>Hadrianus Junius</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1558</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09999398</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0140">
+            <title type="cite">Johann Isaak Levita, Grammatica Hebraea absolutissima in II libros</title>
+            <title>Grammatica Hebraea absolutissima in II libros</title>
+            <author>Johann Isaak Levita</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1564</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09996386</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0141">
+            <title type="cite">Pentateuch in Arabic</title>
+            <title>Pentateuch in Arabic</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0142">
+            <title type="cite">Raphael Holinshead, Chronicles, comprising The description and historie of England</title>
+            <title>Chronicles, comprising The description and historie of England</title>
+            <author>Raphael Holinshead</author>
+            <pubPlace>London</pubPlace>
+            <date>1587</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09965351</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0143">
+            <title type="cite">John Florio, Queen Anna's new world of words, or dictionarie of the Italien and English tongues</title>
+            <title>Queen Anna's new world of words, or dictionarie of the Italien and English tongues</title>
+            <author>John Florio</author>
+            <pubPlace>London</pubPlace>
+            <date>1611</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09864988</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0144">
+            <title type="cite">Richard Knolles, The generall historie of the Turkes</title>
+            <title>The generall historie of the Turkes</title>
+            <author>Richard Knolles</author>
+            <pubPlace>Oxford</pubPlace>
+            <date>1610</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10021350</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0145">
+            <title type="cite">Catalogum librorum Graecorum (Vienna)</title>
+            <title>Catalogum librorum Graecorum (Vienna)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0146">
+            <title type="cite">Lexicon Arabice</title>
+            <title>Lexicon Arabice</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0147">
+            <title type="cite">Old Testament in Arabic</title>
+            <title>Old Testament in Arabic</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0148">
+            <title type="cite">Pauline Epistles in Arabic</title>
+            <title>Pauline Epistles in Arabic</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0149">
+            <title type="cite">Qur'an with interlinear in Turkish</title>
+            <title>Qur'an with interlinear in Turkish</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC15173131</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0150">
+            <title type="cite">İsa Necati, Dīvān-i Necātī</title>
+            <title>Dīvān-i Necātī</title>
+            <author>İsa Necati</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC14383447</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0151">
+            <title type="cite">Uri ben Simeon of Biala / Jacob Christmann, Calendarium Palaestinorum et universorum Iudaeorum ad annos quadraginta supputatum</title>
+            <title>Calendarium Palaestinorum et universorum Iudaeorum ad annos quadraginta supputatum</title>
+            <author>Uri ben Simeon of Biala / Jacob Christmann</author>
+            <pubPlace>Frankfurt</pubPlace>
+            <date>1594</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10418161</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0152">
+            <title type="cite">Life of saint George in Arabic</title>
+            <title>Life of saint George in Arabic</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0153">
+            <title type="cite">Preces recitandi modus (in Arabic)</title>
+            <title>Preces recitandi modus (in Arabic)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0154">
+            <title type="cite">Vita Muhammad. Ebn becser (in Turkish)</title>
+            <title>Vita Muhammad. Ebn becser (in Turkish)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0155">
+            <title type="cite">Omar &amp; Ossman &amp; Aly carmina</title>
+            <title>Omar &amp; Ossman &amp; Aly carmina</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0156">
+            <title type="cite">Alexandri M. Histor. fabulosa (in Arabic)</title>
+            <title>Alexandri M. Histor. fabulosam (in Arabic)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0157">
+            <title type="cite">Johannes Leunclavius, Husem B. Aly Otthomannica historia quam edidit Leonclavius</title>
+            <title>Husem B. Aly Otthomannica historia quam edidit Leonclavius</title>
+            <author>Johannes Leunclavius</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0158">
+            <title type="cite">Johannes Leunclavius, Annales Sultanorum Othmanidarum, a Turcis sua lingua scripti</title>
+            <title>Annales Sultanorum Othmanidarum, a Turcis sua lingua scripti</title>
+            <author>Johannes Leunclavius</author>
+            <pubPlace>Frankfurt</pubPlace>
+            <date>1588</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0159">
+            <title type="cite">François Goedthals, Les Proverbes anciens flamengs et françois, correspondants de sentence les uns aux autres</title>
+            <title>Les Proverbes anciens flamengs et françois, correspondants de sentence les uns aux autres</title>
+            <author>François Goedthals</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1568</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09904317</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0160">
+            <title type="cite">Muṣṭ
+                  afā Ǧannābī, Tā'rī
+                  ḫ
+                  ü l-Cenābī / The History of Cenābī
+               </title>
+            <title>Tā'rīḫü l-Cenābī / The History of Cenābī</title>
+            <author>Muṣṭafā Ǧannābī</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC14386274</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0161">
+            <title type="cite">Vita s. Altmanni episcopi Pataviensis</title>
+            <title>Vita s. Altmanni episcopi Pataviensis</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC13977006</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0162">
+            <title type="cite">Vita s. Eberhardi archiepiscopi Salisburgensis</title>
+            <title>Vita s. Eberhardi archiepiscopi Salisburgensis</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC13979312 http://data.onb.ac.at/rec/AC13977008 http://data.onb.ac.at/rec/AC15364837</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0163">
+            <title type="cite">Bernold of Konstanz / Jacob Gretser, Apologia pro Gregorio VII pontifice maximo</title>
+            <title>Apologia pro Gregorio VII pontifice maximo</title>
+            <author>Bernold of Konstanz / Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1607</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0164">
+            <title type="cite">Sebastian Tengnagel , Vetera Monumenta contra schismaticos</title>
+            <title>Vetera Monumenta contra schismaticos</title>
+            <author>Sebastian Tengnagel </author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10135756</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0166">
+            <title type="cite">Jacob Gretser, Divi Bambergenses, S. Henricus imperator, S. Kunegundis imperatrix, S. Otho episcopus</title>
+            <title>Divi Bambergenses, S. Henricus imperator, S. Kunegundis imperatrix, S. Otho episcopus</title>
+            <author>Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1611</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09914490</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0167">
+            <title type="cite">David Hoeschel, Sapientia Sirachi sive Ecclesiasticus</title>
+            <title>Sapientia Sirachi sive Ecclesiasticus</title>
+            <author>David Hoeschel</author>
+            <pubPlace>Augsburg</pubPlace>
+            <date>1604</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09709875</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0169">
+            <title type="cite">Jacob Gretser, Summula casuum conscientiae de sacramentis pro sectariis praedicantibus tam urbanis et oppidanis</title>
+            <title>Summula casuum conscientiae de sacramentis pro sectariis praedicantibus tam urbanis et oppidanis</title>
+            <author>Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1611</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09914535</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0170">
+            <title type="cite">Codex Arabicus bibliothecae Palatinae continens Epistolas S. Pauli Catholicas et Acta Apostolorum</title>
+            <title>Codex Arabicus bibliothecae Palatinae continens Epistolas S. Pauli Catholicas et Acta Apostolorum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0171">
+            <title type="cite">Epistolae pontificium ad Pipinum et Carolum Magnum</title>
+            <title>Epistolae pontificium ad Pipinum et Carolum Magnum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0172">
+            <title type="cite">Franciscus Raphelengius, Lexicon Arabicum (cum Erpenii observationibus)</title>
+            <title>Lexicon Arabicum (cum Erpenii observationibus)</title>
+            <author>Franciscus Raphelengius</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10229900</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0173">
+            <title type="cite">Valentin Schindler, Lexicon Pentaglotton, Hebraicum, Chaldaicum, Syriacum, Talmudico-Rabbinicum, &amp; Arabicum</title>
+            <title>Lexicon Pentaglotton, Hebraicum, Chaldaicum, Syriacum, Talmudico-Rabbinicum, &amp; Arabicum</title>
+            <author>Valentin Schindler</author>
+            <pubPlace>Hanau</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10288036</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0174">
+            <title type="cite">Murad Beg, Kitāb-i Tesvīyetü l- Teveccüh ilā l-Ḥ
+                  a
+                  ḳḳ
+               </title>
+            <title>Kitāb-i Tesvīyetü l- Teveccüh ilā l-Ḥaḳḳ</title>
+            <author>Murad Beg</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0175">
+            <title type="cite">Juan de Mal-Lara, La philosophia vulgar</title>
+            <title>La philosophia vulgar</title>
+            <author>Juan de Mal-Lara</author>
+            <pubPlace>Sevilla</pubPlace>
+            <date>1568</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0176">
+            <title type="cite">Fabula de Joanna papa</title>
+            <title>Fabula de Joanna papa</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0177">
+            <title type="cite">Marcus Valerius Martialis, Fragmenta</title>
+            <title>Fragmenta</title>
+            <author>Marcus Valerius Martialis</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0177">
+            <title type="cite">Severian of Gabala, Orationes in mundi creationem</title>
+            <title>Orationes in mundi creationem</title>
+            <author>Severian of Gabala</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC14452161 http://data.onb.ac.at/rec/AC14452029</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0178">
+            <title type="cite">Vita S. Mechtildis</title>
+            <title>Vita S. Mechtildis</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0179">
+            <title type="cite">Numisma Arabicum cum expositione Itali cuiusdam</title>
+            <title>Numisma Arabicum cum expositione Itali cuiusdam</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0180">
+            <title type="cite">Johannes Damascenus, Ioannes Damascenus (in Arabic)</title>
+            <title>Ioannes Damascenus (in Arabic)</title>
+            <author>Johannes Damascenus</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0181">
+            <title type="cite">Missale Romanum</title>
+            <title>Missale Romanum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0182">
+            <title type="cite">Rabbi Judah Löw Maharal, Netzach Yisrael</title>
+            <title>Netzach Yisrael</title>
+            <author>Rabbi Judah Löw Maharal</author>
+            <pubPlace>Prag</pubPlace>
+            <date>1599</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10454339</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0183">
+            <title type="cite">Targum</title>
+            <title>Targum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0184">
+            <title type="cite">Lucas Tudensis, De Altera Vita fideique controversiis adversus Albigenses</title>
+            <title>De Altera Vita fideique controversiis adversus Albigenses</title>
+            <author>Lucas Tudensis</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10082582</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0185">
+            <title type="cite">Raniero Sacconi, Opusculum contra Waldenses: Capitula aliqua, primo de causis haeresis</title>
+            <title>Opusculum contra Waldenses: Capitula aliqua, primo de causis haeresis</title>
+            <author>Raniero Sacconi</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC13985171</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0186">
+            <title type="cite">Errores Picardorum, Waldensium, Pauperum de Lugduno, Dolcini Novariensis, Eylardi Bremensis, Patarenorum etc.</title>
+            <title>Errores Picardorum, Waldensium, Pauperum de Lugduno, Dolcini Novariensis, Eylardi Bremensis, Patarenorum etc.</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC13967974</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0187">
+            <title type="cite">Chronicon Teimur Langhi, et Tatarorum</title>
+            <title>Chronicon Teimur Langhi, et Tatarorum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0188">
+            <title type="cite">Mirchond, Rawżat aṣ-ṣafāʾ
+               </title>
+            <title>Rawżat aṣ-ṣafāʾ</title>
+            <author>Mirchond</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0188a">
+            <title type="cite">Mirchond, Rawżat aṣ-ṣafāʾ
+               </title>
+            <title>Rawżat aṣ-ṣafāʾ</title>
+            <author>Mirchond</author>
+            <idno type="url">http://data.onb.ac.at/rec/AC14412603</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0189">
+            <title type="cite">Kitāb Aṣ-Ṣallat</title>
+            <title>Kitāb Aṣ-Ṣallat</title>
+            <idno type="url">http://data.onb.ac.at/rec/AC15209534</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0190">
+            <title type="cite">Salomon Schweigger, Ein newe Reyßbeschreibung auß Teutschland nach Constantinopel und Jerusalem</title>
+            <title>Ein newe Reyßbeschreibung auß Teutschland nach Constantinopel und Jerusalem</title>
+            <author>Salomon Schweigger</author>
+            <pubPlace>Nürnberg</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10307408</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0191">
+            <title type="cite">Neue Reysbeschreibung eines gefangenen Christen</title>
+            <title>Neue Reysbeschreibung eines gefangenen Christen</title>
+            <pubPlace>Nürnberg</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC07795683</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0192">
+            <title type="cite">Girolamo De Franchi Conestaggio, Delle guerre della Germania inferiore istoria</title>
+            <title>Delle guerre della Germania inferiore istoria</title>
+            <author>Girolamo De Franchi Conestaggio</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1614</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09785543</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0193">
+            <title type="cite">Girolamo De Franchi Conestaggio, Dell'unione del regno di Portogallo alla corona di Castiglia</title>
+            <title>Dell'unione del regno di Portogallo alla corona di Castiglia</title>
+            <author>Girolamo De Franchi Conestaggio</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1592</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09785540</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0194">
+            <title type="cite">Thomas Erpenius, Grammatica Arabica</title>
+            <title>Grammatica Arabica</title>
+            <author>Thomas Erpenius</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09843210</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0195">
+            <title type="cite">William Bedwell, Johannis apostoli et evangelistae Epistolae Catholicae omnes, Arabicae ante aliquot secula factae</title>
+            <title>Johannis apostoli et evangelistae Epistolae Catholicae omnes, Arabicae ante aliquot secula factae</title>
+            <author>William Bedwell</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09709140</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0196">
+            <title type="cite">Johannes Antonides, D. Pauli Apostoli Epistola ad Titum, Arabice; cum Ioannis Antonidae Alcmariani interlineari versione Latina</title>
+            <title>D. Pauli Apostoli Epistola ad Titum, Arabice; cum Ioannis Antonidae Alcmariani interlineari versione Latina</title>
+            <author>Johannes Antonides</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1612</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09709141</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0197">
+            <title type="cite">Theophrastus / Daniel Heinsius, Theophrastou tou Eresiou Hapanta</title>
+            <title>Theophrastou tou Eresiou Hapanta</title>
+            <author>Theophrastus / Daniel Heinsius</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10374445</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0198">
+            <title type="cite">Story of Timur / Tamerlan in Persian and in Turkish</title>
+            <title>Story of Timur / Tamerlan in Persian and in Turkish</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0199">
+            <title type="cite">Persius / Isaak Casaubon, Satirarum liber</title>
+            <title>Satirarum liber</title>
+            <author>Persius / Isaak Casaubon</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1605</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10190137</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0200">
+            <title type="cite">Biblia regia</title>
+            <title>Biblia regia</title>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1568-1573</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0201">
+            <title type="cite">Severinus Binius, Concilia generalia</title>
+            <title>Concilia generalia</title>
+            <author>Severinus Binius</author>
+            <pubPlace>Köln</pubPlace>
+            <date>1618 (I: 1606)</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09785157</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0202">
+            <title type="cite">De advocatia armata</title>
+            <title>De advocatia armata</title>
+            <pubPlace>Frankfurt</pubPlace>
+            <date>1625</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10091831</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0203">
+            <title type="cite">Jacob Gretser, Admonitio ad exteros de Bibliis Tigurinis</title>
+            <title>Admonitio ad exteros de Bibliis Tigurinis</title>
+            <author>Jacob Gretser</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1615</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09914458</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0204">
+            <title type="cite">Nicolò Orlandini, Historiae Societatis Jesu</title>
+            <title>Historiae Societatis Jesu</title>
+            <author>Nicolò Orlandini</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1614</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09632803</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0203">
+            <title type="cite">Roberto Bellarmino, Doctrina Christiana nunc primum ex Italico idiomate in Arabicum translata per Victorium Scialat et Gabrielem Sionitam</title>
+            <title>Doctrina Christiana nunc primum ex Italico idiomate in Arabicum translata per Victorium Scialat et Gabrielem Sionitam</title>
+            <author>Roberto Bellarmino</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1613</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09694419</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0204">
+            <title type="cite">Jean Filesac, Excerpta</title>
+            <title>Excerpta</title>
+            <author>Jean Filesac</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1608</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09860001</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0205">
+            <title type="cite">Giarrumia</title>
+            <title>Giarrumia</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0206">
+            <title type="cite">Thomas Erpenius, Historia Josephi patriarchae ex Alcorano</title>
+            <title>Historia Josephi patriarchae ex Alcorano</title>
+            <author>Thomas Erpenius</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1617</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10144721</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0207">
+            <title type="cite">Biblia Arabica</title>
+            <title>Biblia Arabica</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0208">
+            <title type="cite">Henri Estienne, Thesaurus Graecae linguae</title>
+            <title>Thesaurus Graecae linguae</title>
+            <author>Henri Estienne</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0209">
+            <title type="cite">Thomas Erpenius / Ibn al-ʿ
+                  Amīd al-Makīn, Historia Saracenica
+               </title>
+            <title>Historia Saracenica</title>
+            <author>Thomas Erpenius / Ibn al-ʿAmīd al-Makīn</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1625</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0210">
+            <title type="cite">Antonio Bonfini, Rerum Hungaricarum Decades</title>
+            <title>Rerum Hungaricarum Decades</title>
+            <author>Antonio Bonfini</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0211">
+            <title type="cite">Christoph Gewold, Annales rerum ab anno 1295</title>
+            <title>Annales rerum ab anno 1295</title>
+            <author>Christoph Gewold</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1618</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09948163</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0213">
+            <title type="cite">Miklós Istvanffy, Historia Hungarica</title>
+            <title>Historia Hungarica</title>
+            <author>Miklós Istvanffy</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0214">
+            <title type="cite">Don Juan de Persia, Relaciones divididas en 3 libros, donde se tratan las cosas notables de Persia</title>
+            <title>Relaciones divididas en 3 libros, donde se tratan las cosas notables de Persia</title>
+            <author>Don Juan de Persia</author>
+            <pubPlace>Valladolid</pubPlace>
+            <date>1604</date>
+            <idno type="url">65.S.63 ZALT PRUNK</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0215">
+            <title type="cite">Rutger Spey, Risālat Būlus ar-rasūl ilā ʾ
+                  ahl Ġalā
+                  ṭ
+                  iya. Epistola Pauli ad Galatas, item sex primaria capita Christianae religionis Arabice
+               </title>
+            <title>Risālat Būlus ar-rasūl ilā ʾahl Ġalāṭiya. Epistola Pauli ad Galatas, item sex primaria capita Christianae religionis arabice</title>
+            <author>Rutger Spey</author>
+            <pubPlace>Heidelberg</pubPlace>
+            <date>1583</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10332955</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0216">
+            <title type="cite">Evangelium Aethiopicum</title>
+            <title>Evangelium Aethiopicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0217">
+            <title type="cite">Muhammad al-Idrisi / Gabriel Sionita, Geographia Nubiensis</title>
+            <title>Geographia Nubiensis</title>
+            <author>Muhammad al-Idrisi / Gabriel Sionita</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1619</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10145011</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0218">
+            <title type="cite">Ahmed Bican Yazıcıoğlu, ʿAǧāʾib el-Maḫlūqāt</title>
+            <title>ʿAǧāʾib el-Maḫlūqāt</title>
+            <author>Ahmed Bican Yazıcıoğlu</author>
+            <idno type="url">A.F. 480</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0219">
+            <title type="cite">Quattuor tractatus insignis Nebulonis qui se Prophetam dicit</title>
+            <title>Quattuor tractatus insignis Nebulonis qui se Prophetam dicit</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0220">
+            <title type="cite">Catalogue of the Vatican Library</title>
+            <title>Catalogue of the Vatican Library</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0221">
+            <title type="cite">Adam Reusner, Jerusalem</title>
+            <title>Jerusalem</title>
+            <author>Adam Reusner</author>
+            <pubPlace>Frankfurt</pubPlace>
+            <date>1563</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10240318</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0222">
+            <title type="cite">Jacob Ziegler / Wolfang Weyssenburger, Terrae Sactae descriptio</title>
+            <title>Terrae Sactae descriptio</title>
+            <author>Jacob Ziegler / Wolfang Weyssenburger</author>
+            <pubPlace>Strasbourg</pubPlace>
+            <date>1536</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10462994</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0223">
+            <title type="cite">Guillaume Postel, Syriae descriptio</title>
+            <title>Syriae descriptio</title>
+            <author>Guillaume Postel</author>
+            <pubPlace>Paris</pubPlace>
+            <date>1530</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10211524</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0224">
+            <title type="cite">Gerhard Johannes Vossius, Oratio in obitum Thomae Erpenii</title>
+            <title>Oratio in obitum Thomae Erpenii</title>
+            <author>Gerhard Johannes Vossius</author>
+            <pubPlace>Leiden</pubPlace>
+            <date>1625</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10417066</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0225">
+            <title type="cite">Refutations of the Qur'an</title>
+            <title>Refutations of the Qur'an</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0226">
+            <title type="cite">Giovanni Battista Ferrari, Nomenclator Syriacus</title>
+            <title>Nomenclator Syriacus</title>
+            <author>Giovanni Battista Ferrari</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1622</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09856089</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0227">
+            <title type="cite">Johannes Buxtorf, Rabbi Mosis Majemonidis Liber moreh nbukhim</title>
+            <title>Rabbi Mosis Majemonidis Liber moreh nbukhim</title>
+            <author>Johannes Buxtorf</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1622</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10472064</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0227a">
+            <title type="cite">Moses Majmonides, Moreh ha-nevukhim (in Arabic)</title>
+            <title>Moreh ha-nevukhim (in Arabic)</title>
+            <author>Moses Majmonides</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0228">
+            <title type="cite">Johannes Buxtorf, Lexicon Chaldaicum et Syriacum</title>
+            <title>Lexicon Chaldaicum et Syriacum</title>
+            <author>Johannes Buxtorf</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1622</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC09751819</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0229">
+            <title type="cite">Talmud</title>
+            <title>Talmud</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0230">
+            <title type="cite">Librum unum lingua Rutenica conscriptum</title>
+            <title>Librum unum lingua Rutenica conscriptum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0231">
+            <title type="cite">Lexicon Arabico-Turcicum</title>
+            <title>Lexicon Arabico-Turcicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0232">
+            <title type="cite">Tabulae Rudolphinae</title>
+            <title>Tabulae Rudolphinae</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0233">
+            <title type="cite">Lead Books of Sacromonte</title>
+            <title>Lead Books of Sacromonte</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0234">
+            <title type="cite">Acta publica (Österreichische Lorbeercrantz)</title>
+            <title>Acta publica (Österreichische Lorbeercrantz)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0235">
+            <title type="cite">Sefer Nizzahon Yashan</title>
+            <title>Sefer Nizzahon Yashan</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0236">
+            <title type="cite">Wilhelm Schickard, Tarich h.e. Series Regum Persiae</title>
+            <title>Tarich h.e. Series Regum Persiae</title>
+            <author>Wilhelm Schickard</author>
+            <pubPlace>Tübingen</pubPlace>
+            <date>1628</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10285764</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0237">
+            <title type="cite">Wilhelm Schickard, Bechinath Happeruschim Hoc est Examinis Commentationum Rabbinicarum in Mosen Prodromus</title>
+            <title>Bechinath Happeruschim Hoc est Examinis Commentationum Rabbinicarum in Mosen Prodromus</title>
+            <author>Wilhelm Schickard</author>
+            <pubPlace>Tübingen</pubPlace>
+            <date>1624</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10285757</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0238">
+            <title type="cite">Fīrūzābādī, al-Qāmus al-Muḥ
+                  ī
+                  ṭ
+               </title>
+            <title>al-Qāmus al-Muḥīṭ</title>
+            <author>Fīrūzābādī</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0239">
+            <title type="cite">al-Jawhari, al-Ṣiḥ
+                  ā
+                  ḥ
+               </title>
+            <title>al-Ṣiḥāḥ</title>
+            <author>al-Jawhari</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0240">
+            <title type="cite">Dottrina Christiana di P. Giesuiti in Lahor (Dittionario Persiano et Italiano)</title>
+            <title>Dottrina Christiana di P. Giesuiti in Lahor (Dittionario Persiano et Italiano)</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0241">
+            <title type="cite">Muḥammad Qāsim ibn Ḥājjī Muḥammad Surūrī, Farhang-i Surūrī</title>
+            <title>Farhang-i Surūrī</title>
+            <author>Muḥammad Qāsim ibn Ḥājjī Muḥammad Surūrī</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0243">
+            <title type="cite">Qur'an in Persian</title>
+            <title>Qur'an in Persian</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0244">
+            <title type="cite">Pietro Della Valle, Professio Fidei Mahammedanorum duplex apud me est altera nimirum Sonnitarum, qui sunt Turcae, altera Sciaitarum qui Persae, utraque compendiosa</title>
+            <title>Professio Fidei Mahammedanorum duplex apud me est altera nimirum Sonnitarum, qui sunt Turcae, altera Sciaitarum qui Persae, utraque compendiosa</title>
+            <author>Pietro Della Valle</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0245">
+            <title type="cite">Al-Istahri, Kitāb al-Masālik wa-l-mamālik</title>
+            <title>Kitāb al-Masālik wa-l-mamālik</title>
+            <author>Al-Istahri</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0246">
+            <title type="cite">Lexicon Turco-Arabicum</title>
+            <title>Lexicon Turco-Arabicum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0247">
+            <title type="cite">Yom-Tov Lipman Heller, Ma'adanei Melekh</title>
+            <title>Ma'adanei Melekh</title>
+            <author>Yom-Tov Lipman Heller</author>
+            <pubPlace>Prag</pubPlace>
+            <date>1619</date>
+            <idno type="url">ÖNB 20.O.6</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0248">
+            <title type="cite">Pietro Della Valle, Delle conditioni di Abbas Re di Persia</title>
+            <title>Delle conditioni di Abbas Re di Persia</title>
+            <author>Pietro Della Valle</author>
+            <pubPlace>Venezia</pubPlace>
+            <date>1628</date>
+            <idno type="url">http://data.onb.ac.at/rec/AC10392177</idno>
+         </bibl>
+         <bibl xml:id="ST_Works_0249">
+            <title type="cite">Lettere Annue di Ethiopia, del anno 1624, 1625 et 1626 et lettere di Tibet, del a° 1626 o della Cina 1624</title>
+            <title>Lettere Annue di Ethiopia, del anno 1624, 1625 et 1626 et lettere di Tibet, del a° 1626 o della Cina 1624</title>
+            <pubPlace>Roma</pubPlace>
+            <date>1628</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0250">
+            <title type="cite">Biblia polyglotta</title>
+            <title>Biblia polyglotta</title>
+            <pubPlace>Paris</pubPlace>
+            <date>1628–45</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0251">
+            <title type="cite">Gulistān</title>
+            <title>Gulistān</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0252">
+            <title type="cite">Colloquium inter Turcam et Christianum</title>
+            <title>Colloquium inter Turcam et Christianum</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0253">
+            <title type="cite">Cesare Baronio, Annales ecclesiastici</title>
+            <title>Annales ecclesiastici</title>
+            <author>Cesare Baronio</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0254">
+            <title type="cite">Wiguleus Hund, Metropolis Salisburgensis</title>
+            <title>Metropolis Salisburgensis</title>
+            <author>Wiguleus Hund</author>
+            <pubPlace>Ingolstadt</pubPlace>
+            <date>1582</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0255">
+            <title type="cite">Garcilasso de la Vega, Historia General del Peru</title>
+            <title>Historia General del Peru</title>
+            <author>Garcilasso de la Vega</author>
+            <pubPlace>Cordoba</pubPlace>
+            <date>1617</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0256">
+            <title type="cite">Garcilasso de la Vega, La florida del Ynca</title>
+            <title>La florida del Ynca</title>
+            <author>Garcilasso de la Vega</author>
+            <pubPlace>Lissabon</pubPlace>
+            <date>1605</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0257">
+            <title type="cite">Luis del Mármol Carvajal, Historia del rebelion y castigo de los Moriscos del reyno de Granada</title>
+            <title>Historia del rebelion y castigo de los Moriscos del reyno de Granada</title>
+            <author>Luis del Mármol Carvajal</author>
+            <pubPlace>Malaga</pubPlace>
+            <date>1600</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0258">
+            <title type="cite">Antonio de Herrera y Tordesillas, Istoria general de las Indias</title>
+            <title>Istoria general de las Indias</title>
+            <author>Antonio de Herrera y Tordesillas</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0259">
+            <title type="cite">Gaspar Barreiros, Chronographia</title>
+            <title>Chronographia</title>
+            <author>Gaspar Barreiros</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0260">
+            <title type="cite">Wolfgang Lazius, De gentium aliquot migrationibus</title>
+            <title>De gentium aliquot migrationibus</title>
+            <author>Wolfgang Lazius</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1557</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0261">
+            <title type="cite">Corpus iuris civilis glossatum cum notis Accursii</title>
+            <title>Corpus iuris civilis glossatum cum notis Accursii</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0262">
+            <title type="cite">Jean de Chokier, Thesaurus politicorum aphorismorum</title>
+            <title>Thesaurus politicorum aphorismorum</title>
+            <author>Jean de Chokier</author>
+            <pubPlace>Roma</pubPlace>
+            <date>1611</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0263">
+            <title type="cite">Dietenberger Bible</title>
+            <title>Dietenberger Bible</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0264">
+            <title type="cite">Nikolaus Gerbel, In descriptionem Graeciae Sophiani praefatio</title>
+            <title>In descriptionem Graeciae Sophiani praefatio</title>
+            <author>Nikolaus Gerbel</author>
+            <pubPlace>Basel</pubPlace>
+            <date>1545</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0265">
+            <title type="cite">Pontus Heuterus, De veterum ac sui seculi Belgio libri duo</title>
+            <title>De veterum ac sui seculi Belgio libri duo</title>
+            <author>Pontus Heuterus</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1600</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0266">
+            <title type="cite">Hubert Goltzius, Thesaurus rei antiquariae huberrimus</title>
+            <title>Thesaurus rei antiquariae huberrimus</title>
+            <author>Hubert Goltzius</author>
+            <pubPlace>Antwerpen</pubPlace>
+            <date>1579</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0267">
+            <title type="cite">Christoph Gewold, Delineatio Norici veteris</title>
+            <title>Delineatio Norici veteris</title>
+            <author>Christoph Gewold</author>
+            <pubPlace>s.l.</pubPlace>
+            <date>1619</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0268">
+            <title type="cite">Eugippius, Vita sancti Severini</title>
+            <title>Vita sancti Severini</title>
+            <author>Eugippius</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0269">
+            <title type="cite">Einhard, Vita Caroli Magni</title>
+            <title>Vita Caroli Magni</title>
+            <author>Einhard</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0270">
+            <title type="cite">Ovid, Fasti</title>
+            <title>Fasti</title>
+            <author>Ovid</author>
+         </bibl>
+         <bibl xml:id="ST_Works_0271">
+            <title type="cite">Johann Rasch, Calendarium Romanum</title>
+            <title>Calendarium Romanum</title>
+            <author>Johann Rasch</author>
+            <pubPlace>Wien</pubPlace>
+            <date>1574</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0272">
+            <title type="cite">Johann Seyfried, Arbor Anicianna</title>
+            <title>Arbor Anicianna</title>
+            <author>Johann Seyfried</author>
+            <pubPlace>Wien</pubPlace>
+            <date>1613</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0273">
+            <title type="cite">Jan Gruter, Duodecim Panegyrici veteres emendati, aucti</title>
+            <title>Duodecim Panegyrici veteres emendati, aucti</title>
+            <author>Jan Gruter</author>
+            <pubPlace>s.l.</pubPlace>
+            <date>1607</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0274">
+            <title type="cite">Pentateuch in Samaritan</title>
+            <title>Pentateuch in Samaritan</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0275">
+            <title type="cite">Pentateuch of Rabbi Se’adyah</title>
+            <title>Pentateuch of Rabbi Se’adyah</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0276">
+            <title type="cite">Iudicium orientalis ecclesiae super Augustana confessione</title>
+            <title>Iudicium orientalis ecclesiae super Augustana confessione</title>
+         </bibl>
+         <bibl xml:id="ST_Works_0277">
+            <title type="cite">Heinrich Bünting, Itinerarium Sacrae Scripturae</title>
+            <title>Itinerarium Sacrae Scripturae</title>
+            <author>Heinrich Bünting</author>
+            <pubPlace>Helmstedt</pubPlace>
+            <date>1582</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0278">
+            <title type="cite">Christoph Clavius, Epitome arithmeticae practicae</title>
+            <title>Epitome arithmeticae practicae</title>
+            <author>Christoph Clavius</author>
+            <pubPlace>Freiburg</pubPlace>
+            <date>1545</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0279">
+            <title type="cite">Christiaan Adrichom, Theatrum Terrae Sanctae</title>
+            <title>Theatrum Terrae Sanctae</title>
+            <author>Christiaan Adrichom</author>
+            <pubPlace>Köln</pubPlace>
+            <date>1593</date>
+         </bibl>
+         <bibl xml:id="ST_Works_0280">
+            <title type="cite">Brocardus Monachus , Descriptio Terrae Sanctae</title>
+            <title>Descriptio Terrae Sanctae</title>
+            <author>Brocardus Monachus </author>
+         </bibl>
+      </listBibl>
+   </standOff>
+   <text>
+      <body>
+         <ab>Index only</ab>
+      </body>
+   </text>
+</TEI>

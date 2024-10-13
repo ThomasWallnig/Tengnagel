@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Personen-Index</title>
+         </titleStmt>
+      </fileDesc>
+   </teiHeader>
+   <standOff>
+      <listPlace>
+         <place xml:id="ST_Place_0001">
+            <placeName>Vienna</placeName>
+            <idno type="phaidra">https://pid.phaidra.org/vocabulary/en/concepts/K325-QCBE.html</idno>
+         </place>
+         <place xml:id="ST_Place_0002">
+            <placeName>Augsburg</placeName>
+            <idno type="phaidra">https://pid.phaidra.org/vocabulary/9GQB-QV5T</idno>
+         </place>
+         <place xml:id="ST_Place_0003">
+            <placeName>Bavaria</placeName>
+         </place>
+         <place xml:id="ST_Place_0004">
+            <placeName>Britannia</placeName>
+         </place>
+         <place xml:id="ST_Place_0005">
+            <placeName>Ethiopia</placeName>
+         </place>
+         <place xml:id="ST_Place_0007">
+            <placeName>Danube</placeName>
+         </place>
+         <place xml:id="ST_Place_0008">
+            <placeName>Frankfurt am Main</placeName>
+         </place>
+         <place xml:id="ST_Place_0009">
+            <placeName>Granada</placeName>
+         </place>
+         <place xml:id="ST_Place_0010">
+            <placeName>Greifswald</placeName>
+         </place>
+         <place xml:id="ST_Place_0011">
+            <placeName>Hungary</placeName>
+         </place>
+         <place xml:id="ST_Place_0012">
+            <placeName>India</placeName>
+         </place>
+         <place xml:id="ST_Place_0013">
+            <placeName>Ingolstadt</placeName>
+            <idno type="phaidra">https://pid.phaidra.org/vocabulary/QSZQ-FBB9</idno>
+         </place>
+         <place xml:id="ST_Place_0014">
+            <placeName>Istanbul</placeName>
+         </place>
+         <place xml:id="ST_Place_0015">
+            <placeName>London</placeName>
+         </place>
+         <place xml:id="ST_Place_0016">
+            <placeName>Madrid</placeName>
+         </place>
+         <place xml:id="ST_Place_0017">
+            <placeName>Moldova</placeName>
+         </place>
+         <place xml:id="ST_Place_0018">
+            <placeName>Munich</placeName>
+         </place>
+         <place xml:id="ST_Place_0019">
+            <placeName>Paris</placeName>
+         </place>
+         <place xml:id="ST_Place_0020">
+            <placeName>Persia</placeName>
+         </place>
+         <place xml:id="ST_Place_0021">
+            <placeName>Prague</placeName>
+         </place>
+         <place xml:id="ST_Place_0022">
+            <placeName>Rome</placeName>
+         </place>
+         <place xml:id="ST_Place_0023">
+            <placeName>Spain</placeName>
+         </place>
+         <place xml:id="ST_Place_0024">
+            <placeName>Szakmár</placeName>
+         </place>
+         <place xml:id="ST_Place_0025">
+            <placeName>Transylvania</placeName>
+         </place>
+         <place xml:id="ST_Place_0026">
+            <placeName>England</placeName>
+         </place>
+         <place xml:id="ST_Place_0027">
+            <placeName>Orient</placeName>
+         </place>
+         <place xml:id="ST_Place_0028">
+            <placeName>Geldern</placeName>
+         </place>
+         <place xml:id="ST_Place_0029">
+            <placeName>Germany</placeName>
+         </place>
+         <place xml:id="ST_Place_0030">
+            <placeName>Venice</placeName>
+         </place>
+         <place xml:id="ST_Place_0031">
+            <placeName>Cologne</placeName>
+         </place>
+         <place xml:id="ST_Place_0032">
+            <placeName>Wrocław</placeName>
+         </place>
+         <place xml:id="ST_Place_0033">
+            <placeName>Würzburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0034">
+            <placeName>Freiburg im Breisgau</placeName>
+         </place>
+         <place xml:id="ST_Place_0035">
+            <placeName>Unidentified place</placeName>
+         </place>
+         <place xml:id="ST_Place_0036">
+            <placeName>Heidelberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0037">
+            <placeName>Amsterdam</placeName>
+         </place>
+         <place xml:id="ST_Place_0038">
+            <placeName>Bologna</placeName>
+         </place>
+         <place xml:id="ST_Place_0039">
+            <placeName>Szczecin</placeName>
+         </place>
+         <place xml:id="ST_Place_0040">
+            <placeName>Syria</placeName>
+         </place>
+         <place xml:id="ST_Place_0041">
+            <placeName>Egypt</placeName>
+         </place>
+         <place xml:id="ST_Place_0042">
+            <placeName>University Library in Vienna</placeName>
+         </place>
+         <place xml:id="ST_Place_0043">
+            <placeName>Bibliotheca Vaticana</placeName>
+         </place>
+         <place xml:id="ST_Place_0044">
+            <placeName>Rostock</placeName>
+         </place>
+         <place xml:id="ST_Place_0045">
+            <placeName>Italy</placeName>
+         </place>
+         <place xml:id="ST_Place_0046">
+            <placeName>Denmark</placeName>
+         </place>
+         <place xml:id="ST_Place_0047">
+            <placeName>Segeberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0050">
+            <placeName>"Lucianicum Zelenii"</placeName>
+         </place>
+         <place xml:id="ST_Place_0051">
+            <placeName>Lyon</placeName>
+         </place>
+         <place xml:id="ST_Place_0052">
+            <placeName>France</placeName>
+         </place>
+         <place xml:id="ST_Place_0053">
+            <placeName>Milan</placeName>
+         </place>
+         <place xml:id="ST_Place_0054">
+            <placeName>Mainz</placeName>
+         </place>
+         <place xml:id="ST_Place_0055">
+            <placeName>Szerdahely</placeName>
+         </place>
+         <place xml:id="ST_Place_0056">
+            <placeName>Florence</placeName>
+         </place>
+         <place xml:id="ST_Place_0057">
+            <placeName>Tübingen</placeName>
+         </place>
+         <place xml:id="ST_Place_0058">
+            <placeName>Wittenberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0059">
+            <placeName>Altdorf</placeName>
+         </place>
+         <place xml:id="ST_Place_0060">
+            <placeName>Aleppo</placeName>
+         </place>
+         <place xml:id="ST_Place_0061">
+            <placeName>Holy Land</placeName>
+         </place>
+         <place xml:id="ST_Place_0062">
+            <placeName>Europe</placeName>
+         </place>
+         <place xml:id="ST_Place_0063">
+            <placeName>Leiden</placeName>
+         </place>
+         <place xml:id="ST_Place_0064">
+            <placeName>Regensburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0065">
+            <placeName>Padua</placeName>
+         </place>
+         <place xml:id="ST_Place_0066">
+            <placeName>Prussia</placeName>
+         </place>
+         <place xml:id="ST_Place_0067">
+            <placeName>Swabia</placeName>
+         </place>
+         <place xml:id="ST_Place_0068">
+            <placeName>Library of Vienna</placeName>
+         </place>
+         <place xml:id="ST_Place_0069">
+            <placeName>Augustana Bibliotheca</placeName>
+         </place>
+         <place xml:id="ST_Place_0070">
+            <placeName>Antwerp</placeName>
+         </place>
+         <place xml:id="ST_Place_0071">
+            <placeName>Academia Norica</placeName>
+         </place>
+         <place xml:id="ST_Place_0072">
+            <placeName>Tournai</placeName>
+         </place>
+         <place xml:id="ST_Place_0073">
+            <placeName>Linz</placeName>
+         </place>
+         <place xml:id="ST_Place_0074">
+            <placeName>Lednice</placeName>
+         </place>
+         <place xml:id="ST_Place_0075">
+            <placeName>Nuremberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0076">
+            <placeName>Graz</placeName>
+         </place>
+         <place xml:id="ST_Place_0077">
+            <placeName>Marseille</placeName>
+         </place>
+         <place xml:id="ST_Place_0078">
+            <placeName>Bibliotheca Palatina</placeName>
+         </place>
+         <place xml:id="ST_Place_0079">
+            <placeName>Poland</placeName>
+         </place>
+         <place xml:id="ST_Place_0080">
+            <placeName>Switzerland</placeName>
+         </place>
+         <place xml:id="ST_Place_0081">
+            <placeName>Brandenburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0082">
+            <placeName>Sweden</placeName>
+         </place>
+         <place xml:id="ST_Place_0083">
+            <placeName>Saxony</placeName>
+         </place>
+         <place xml:id="ST_Place_0084">
+            <placeName>Moscovia</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q13411328</idno>
+         </place>
+         <place xml:id="ST_Place_0085">
+            <placeName>Stein in Lower Austria</placeName>
+         </place>
+         <place xml:id="ST_Place_0086">
+            <placeName>Palestine</placeName>
+         </place>
+         <place xml:id="ST_Place_0087">
+            <placeName>Mesopotamia</placeName>
+         </place>
+         <place xml:id="ST_Place_0088">
+            <placeName>Abano Terme</placeName>
+         </place>
+         <place xml:id="ST_Place_0089">
+            <placeName>Salzburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0090">
+            <placeName>Zacynthos</placeName>
+         </place>
+         <place xml:id="ST_Place_0091">
+            <placeName>Scotland</placeName>
+         </place>
+         <place xml:id="ST_Place_0092">
+            <placeName>Giessen</placeName>
+         </place>
+         <place xml:id="ST_Place_0093">
+            <placeName>Hamburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0094">
+            <placeName>Damascus</placeName>
+         </place>
+         <place xml:id="ST_Place_0095">
+            <placeName>Tripolis</placeName>
+         </place>
+         <place xml:id="ST_Place_0096">
+            <placeName>The Hague</placeName>
+         </place>
+         <place xml:id="ST_Place_0097">
+            <placeName>Bratislava</placeName>
+         </place>
+         <place xml:id="ST_Place_0099">
+            <placeName>Plannstorff</placeName>
+         </place>
+         <place xml:id="ST_Place_0100">
+            <placeName>Görlitz</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q4077</idno>
+         </place>
+         <place xml:id="ST_Place_0101">
+            <placeName>Belgium</placeName>
+         </place>
+         <place xml:id="ST_Place_0102">
+            <placeName>Wels</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q178582?uselang=de</idno>
+         </place>
+         <place xml:id="ST_Place_0103">
+            <placeName>Passau</placeName>
+         </place>
+         <place xml:id="ST_Place_0105">
+            <placeName>Brussels</placeName>
+         </place>
+         <place xml:id="ST_Place_0106">
+            <placeName>Cambrai</placeName>
+         </place>
+         <place xml:id="ST_Place_0106">
+            <placeName>Zwettl</placeName>
+         </place>
+         <place xml:id="ST_Place_0108">
+            <placeName>Villebon</placeName>
+         </place>
+         <place xml:id="ST_Place_0109">
+            <placeName>Austria</placeName>
+         </place>
+         <place xml:id="ST_Place_0110">
+            <placeName>Portugal</placeName>
+         </place>
+         <place xml:id="ST_Place_0111">
+            <placeName>Silesia</placeName>
+         </place>
+         <place xml:id="ST_Place_0112">
+            <placeName>Naples</placeName>
+         </place>
+         <place xml:id="ST_Place_0113">
+            <placeName>Elbe</placeName>
+         </place>
+         <place xml:id="ST_Place_0114">
+            <placeName>Bytom</placeName>
+         </place>
+         <place xml:id="ST_Place_0115">
+            <placeName>Lotharingia</placeName>
+         </place>
+         <place xml:id="ST_Place_0116">
+            <placeName>Mauerbach</placeName>
+         </place>
+         <place xml:id="ST_Place_0117">
+            <placeName>Gaming</placeName>
+         </place>
+         <place xml:id="ST_Place_0118">
+            <placeName>Kartause Seitz</placeName>
+         </place>
+         <place xml:id="ST_Place_0019">
+            <placeName>Scheibbs</placeName>
+         </place>
+         <place xml:id="ST_Place_0120">
+            <placeName>Comburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0121">
+            <placeName>Wiener Neustadt</placeName>
+         </place>
+         <place xml:id="ST_Place_0122">
+            <placeName>Neuhof</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q107345499</idno>
+         </place>
+         <place xml:id="ST_Place_0123">
+            <placeName>Upper Austria</placeName>
+         </place>
+         <place xml:id="ST_Place_0024">
+            <placeName>Mikulov</placeName>
+         </place>
+         <place xml:id="ST_Place_0125">
+            <placeName>Český Krumlov</placeName>
+         </place>
+         <place xml:id="ST_Place_0126">
+            <placeName>Strait of Magellan</placeName>
+         </place>
+         <place xml:id="ST_Place_0127">
+            <placeName>East Indies</placeName>
+         </place>
+         <place xml:id="ST_Place_0128">
+            <placeName>Sicily</placeName>
+         </place>
+         <place xml:id="ST_Place_0129">
+            <placeName>Leuven</placeName>
+         </place>
+         <place xml:id="ST_Place_0130">
+            <placeName>Vlasatice</placeName>
+         </place>
+         <place xml:id="ST_Place_0131">
+            <placeName>Brno</placeName>
+         </place>
+         <place xml:id="ST_Place_0132">
+            <placeName>Černá Hora</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q339213 </idno>
+         </place>
+         <place xml:id="ST_Place_0133">
+            <placeName>Tyrnau</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q687532</idno>
+         </place>
+         <place xml:id="ST_Place_0134">
+            <placeName>Trnava</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q26175</idno>
+         </place>
+         <place xml:id="ST_Place_0135">
+            <placeName>Pannonia</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1564752</idno>
+         </place>
+         <place xml:id="ST_Place_0136">
+            <placeName>Sri Lanka</placeName>
+         </place>
+         <place xml:id="ST_Place_0137">
+            <placeName>Vietnam</placeName>
+         </place>
+         <place xml:id="ST_Place_0138">
+            <placeName>China</placeName>
+         </place>
+         <place xml:id="ST_Place_0139">
+            <placeName>Goa</placeName>
+         </place>
+         <place xml:id="ST_Place_0140">
+            <placeName>Bohemia</placeName>
+         </place>
+         <place xml:id="ST_Place_0141">
+            <placeName>Nile</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q3392</idno>
+         </place>
+         <place xml:id="ST_Place_0142">
+            <placeName>Besançon</placeName>
+         </place>
+         <place xml:id="ST_Place_0143">
+            <placeName>Caramanzel</placeName>
+         </place>
+         <place xml:id="ST_Place_0144">
+            <placeName>Mühlhausen</placeName>
+         </place>
+         <place xml:id="ST_Place_0145">
+            <placeName>Land van Kleef</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1915215</idno>
+         </place>
+         <place xml:id="ST_Place_0146">
+            <placeName>Flanders</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q234</idno>
+         </place>
+         <place xml:id="ST_Place_0147">
+            <placeName>Rhine</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q584</idno>
+         </place>
+         <place xml:id="ST_Place_0148">
+            <placeName>Bacharach</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q523273</idno>
+         </place>
+         <place xml:id="ST_Place_0149">
+            <placeName>Bonn</placeName>
+         </place>
+         <place xml:id="ST_Place_0150">
+            <placeName>Arras</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q131329</idno>
+         </place>
+         <place xml:id="ST_Place_0151">
+            <placeName>Lisbon</placeName>
+         </place>
+         <place xml:id="ST_Place_0152">
+            <placeName>Delft</placeName>
+         </place>
+         <place xml:id="ST_Place_0153">
+            <placeName>Novigrad</placeName>
+         </place>
+         <place xml:id="ST_Place_0154">
+            <placeName>Leeuwarden</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q2311189</idno>
+         </place>
+         <place xml:id="ST_Place_0155">
+            <placeName>Bretten</placeName>
+         </place>
+         <place xml:id="ST_Place_0156">
+            <placeName>Brabant</placeName>
+         </place>
+         <place xml:id="ST_Place_0157">
+            <placeName>Düsseldorf</placeName>
+         </place>
+         <place xml:id="ST_Place_0158">
+            <placeName>Bordeaux</placeName>
+         </place>
+         <place xml:id="ST_Place_0159">
+            <placeName>Utrecht</placeName>
+         </place>
+         <place xml:id="ST_Place_0160">
+            <placeName>Calais</placeName>
+         </place>
+         <place xml:id="ST_Place_0161">
+            <placeName>Soběslav</placeName>
+         </place>
+         <place xml:id="ST_Place_0162">
+            <placeName>Strait of Gibraltar</placeName>
+         </place>
+         <place xml:id="ST_Place_0163">
+            <placeName>Malaga</placeName>
+         </place>
+         <place xml:id="ST_Place_0164">
+            <placeName>Maghreb</placeName>
+         </place>
+         <place xml:id="ST_Place_0165">
+            <placeName>Valladolid</placeName>
+         </place>
+         <place xml:id="ST_Place_0167">
+            <placeName>Bítov</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1011302</idno>
+         </place>
+         <place xml:id="ST_Place_0168">
+            <placeName>Buda</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q193478</idno>
+         </place>
+         <place xml:id="ST_Place_0169">
+            <placeName>Mecca</placeName>
+         </place>
+         <place xml:id="ST_Place_0170">
+            <placeName>Wilfersdorf</placeName>
+         </place>
+         <place xml:id="ST_Place_0171">
+            <placeName>Mozambique</placeName>
+         </place>
+         <place xml:id="ST_Place_0173">
+            <placeName>Jičín</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q656603</idno>
+         </place>
+         <place xml:id="ST_Place_0174">
+            <placeName>Sichuan</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q19770</idno>
+         </place>
+         <place xml:id="ST_Place_0175">
+            <placeName>Yunnan</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q43194</idno>
+         </place>
+         <place xml:id="ST_Place_0176">
+            <placeName>Korea</placeName>
+         </place>
+         <place xml:id="ST_Place_0177">
+            <placeName>Visegrád</placeName>
+         </place>
+         <place xml:id="ST_Place_0178">
+            <placeName>Siam</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1081620</idno>
+         </place>
+         <place xml:id="ST_Place_0179">
+            <placeName>Tonkin</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q622778</idno>
+         </place>
+         <place xml:id="ST_Place_0180">
+            <placeName>Hormuz</placeName>
+         </place>
+         <place xml:id="ST_Place_0181">
+            <placeName>Breda</placeName>
+         </place>
+         <place xml:id="ST_Place_0182">
+            <placeName>America</placeName>
+         </place>
+         <place xml:id="ST_Place_0183">
+            <placeName>Eger</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q167109</idno>
+         </place>
+         <place xml:id="ST_Place_0184">
+            <placeName>Bosnia</placeName>
+         </place>
+         <place xml:id="ST_Place_0185">
+            <placeName>Bruges</placeName>
+         </place>
+         <place xml:id="ST_Place_0186">
+            <placeName>Sulzbach</placeName>
+         </place>
+         <place xml:id="ST_Place_0187">
+            <placeName>Isfahan</placeName>
+         </place>
+         <place xml:id="ST_Place_0188">
+            <placeName>Leźno</placeName>
+         </place>
+         <place xml:id="ST_Place_0189">
+            <placeName>Livonia</placeName>
+         </place>
+         <place xml:id="ST_Place_0190">
+            <placeName>Geneva</placeName>
+         </place>
+         <place xml:id="ST_Place_0191">
+            <placeName>Komárom</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q625154</idno>
+         </place>
+         <place xml:id="ST_Place_0192">
+            <placeName>Esztergom</placeName>
+         </place>
+         <place xml:id="ST_Place_0193">
+            <placeName>Giarmata</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q5062149</idno>
+         </place>
+         <place xml:id="ST_Place_0194">
+            <placeName>Asia</placeName>
+         </place>
+         <place xml:id="ST_Place_0195">
+            <placeName>Diyarbakir</placeName>
+         </place>
+         <place xml:id="ST_Place_0196">
+            <placeName>Tokat</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q183651</idno>
+         </place>
+         <place xml:id="ST_Place_0197">
+            <placeName>Leipzig</placeName>
+         </place>
+         <place xml:id="ST_Place_0198">
+            <placeName>Gandhara</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q213651</idno>
+         </place>
+         <place xml:id="ST_Place_0199">
+            <placeName>Batavia</placeName>
+         </place>
+         <place xml:id="ST_Place_0200">
+            <placeName>Ulm</placeName>
+         </place>
+         <place xml:id="ST_Place_0201">
+            <placeName>Mirandola</placeName>
+         </place>
+         <place xml:id="ST_Place_0202">
+            <placeName>Parma</placeName>
+         </place>
+         <place xml:id="ST_Place_0203">
+            <placeName>Holland</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q102911</idno>
+         </place>
+         <place xml:id="ST_Place_0204">
+            <placeName>Uppasala</placeName>
+         </place>
+         <place xml:id="ST_Place_0205">
+            <placeName>Palatinate</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q326359</idno>
+         </place>
+         <place xml:id="ST_Place_0206">
+            <placeName>Rotterdam</placeName>
+         </place>
+         <place xml:id="ST_Place_0207">
+            <placeName>Wertheim</placeName>
+         </place>
+         <place xml:id="ST_Place_0208">
+            <placeName>St. Gallen</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q25607</idno>
+         </place>
+         <place xml:id="ST_Place_0209">
+            <placeName>Basel</placeName>
+         </place>
+         <place xml:id="ST_Place_0210">
+            <placeName>Ferrara</placeName>
+         </place>
+         <place xml:id="ST_Place_0211">
+            <placeName>Enns</placeName>
+         </place>
+         <place xml:id="ST_Place_0212">
+            <placeName>Haarlem</placeName>
+         </place>
+         <place xml:id="ST_Place_0213">
+            <placeName>Fiľakovo</placeName>
+            <idno type="wiki">
+                  https://www.wikidata.org/wiki/Q247620
+               </idno>
+         </place>
+         <place xml:id="ST_Place_0214">
+            <placeName>Khorasan</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q2352322</idno>
+         </place>
+         <place xml:id="ST_Place_0215">
+            <placeName>Turkestan</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1315785</idno>
+         </place>
+         <place xml:id="ST_Place_0216">
+            <placeName>Babylon</placeName>
+         </place>
+         <place xml:id="ST_Place_0217">
+            <placeName>Bozcaada</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q211817 
+</idno>
+         </place>
+         <place xml:id="ST_Place_0218">
+            <placeName>İskenderun</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q174341
+
+</idno>
+         </place>
+         <place xml:id="ST_Place_0219">
+            <placeName>Aegean Sea</placeName>
+         </place>
+         <place xml:id="ST_Place_0220">
+            <placeName>Mani Peninsula</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q745295</idno>
+         </place>
+         <place xml:id="ST_Place_0221">
+            <placeName>Cairo</placeName>
+         </place>
+         <place xml:id="ST_Place_0222">
+            <placeName>Black Sea</placeName>
+         </place>
+         <place xml:id="ST_Place_0223">
+            <placeName>Baghdad</placeName>
+         </place>
+         <place xml:id="ST_Place_0224">
+            <placeName>Gihon (Biblical river)</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1247896</idno>
+         </place>
+         <place xml:id="ST_Place_0225">
+            <placeName>Trier</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q3138 
+</idno>
+         </place>
+         <place xml:id="ST_Place_0226">
+            <placeName>Lahore</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q11739</idno>
+         </place>
+         <place xml:id="ST_Place_0227">
+            <placeName>Qeshm Island</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q240719 
+</idno>
+         </place>
+         <place xml:id="ST_Place_0228">
+            <placeName>Cambridge</placeName>
+         </place>
+         <place xml:id="ST_Place_0229">
+            <placeName>Bad Hersfeld</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q16145</idno>
+         </place>
+         <place xml:id="ST_Place_0230">
+            <placeName>Gochsheim</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q585507</idno>
+         </place>
+         <place xml:id="ST_Place_0231">
+            <placeName>Heidelsheim</placeName>
+         </place>
+         <place xml:id="ST_Place_0232">
+            <placeName>Groningen</placeName>
+         </place>
+         <place xml:id="ST_Place_0233">
+            <placeName>Stuttgart</placeName>
+         </place>
+         <place xml:id="ST_Place_0234">
+            <placeName>Heilbronn</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q715</idno>
+         </place>
+         <place xml:id="ST_Place_0235">
+            <placeName>IJssel</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q217818</idno>
+         </place>
+         <place xml:id="ST_Place_0236">
+            <placeName>Duisburg</placeName>
+         </place>
+         <place xml:id="ST_Place_0237">
+            <placeName>Veluwe</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1153251 </idno>
+         </place>
+         <place xml:id="ST_Place_0238">
+            <placeName>Arnhem</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1310</idno>
+         </place>
+         <place xml:id="ST_Place_0239">
+            <placeName>Linge</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1826546</idno>
+         </place>
+         <place xml:id="ST_Place_0240">
+            <placeName>Ghent</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1296</idno>
+         </place>
+         <place xml:id="ST_Place_0241">
+            <placeName>Tibet</placeName>
+         </place>
+         <place xml:id="ST_Place_0242">
+            <placeName>Tartary</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q83971</idno>
+         </place>
+         <place xml:id="ST_Place_0243">
+            <placeName>Henryków</placeName>
+            <idno type="wiki">https://www.wikidata.org/wiki/Q1607522</idno>
+         </place>
+         <place xml:id="ST_Place_0244">
+            <placeName>Württemberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0245">
+            <placeName>Innsbruck</placeName>
+         </place>
+         <place xml:id="ST_Place_0246">
+            <placeName>Gdańsk</placeName>
+         </place>
+         <place xml:id="ST_Place_0247">
+            <placeName>Athens</placeName>
+         </place>
+         <place xml:id="ST_Place_0248">
+            <placeName>Nazareth</placeName>
+         </place>
+         <place xml:id="ST_Place_0249">
+            <placeName>Speyer</placeName>
+         </place>
+         <place xml:id="ST_Place_0250">
+            <placeName>Dresden</placeName>
+         </place>
+         <place xml:id="ST_Place_0251">
+            <placeName>Zielona Góra</placeName>
+         </place>
+         <place xml:id="ST_Place_0252">
+            <placeName>Bamberg</placeName>
+         </place>
+         <place xml:id="ST_Place_0253">
+            <placeName>Pistoia</placeName>
+         </place>
+         <place xml:id="ST_Place_0254">
+            <placeName>Mannersdorf</placeName>
+         </place>
+         <place xml:id="ST_Place_0255">
+            <placeName>Segin</placeName>
+         </place>
+         <place xml:id="ST_Place_0256">
+            <placeName>Hochosterwitz</placeName>
+         </place>
+         <place xml:id="ST_Place_0257">
+            <placeName>Moravský Krumlov</placeName>
+         </place>
+         <place xml:id="ST_Place_0258">
+            <placeName>Africa</placeName>
+         </place>
+         <place xml:id="ST_Place_0259">
+            <placeName>Altenburg-Bleck</placeName>
+         </place>
+         <place xml:id="ST_Place_0261">
+            <placeName>Oxford</placeName>
+         </place>
+         <place xml:id="ST_Place_0262">
+            <placeName>Göppingen</placeName>
+         </place>
+         <place xml:id="ST_Place_0263">
+            <placeName>West Indies</placeName>
+         </place>
+         <place xml:id="ST_Place_0264">
+            <placeName>Belgrade</placeName>
+         </place>
+         <place xml:id="ST_Place_0265">
+            <placeName>Hanau</placeName>
+         </place>
+      </listPlace>
+   </standOff>
+   <text>
+      <body>
+         <ab>Index only</ab>
+      </body>
+   </text>
+</TEI>
