@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Vincent Noguera. 1621-03-13</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0152</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0110">
+                        <placeName>Portugal</placeName>
+                     </place>
+                     <place ref="ST_Place_0151">
+                        <placeName>Lisbon</placeName>
+                     </place>
+                     <place ref="ST_Place_0062">
+                        <placeName>Europe </placeName>
+                     </place>
+                     <place ref="ST_Place_0194">
+                        <placeName>Asia</placeName>
+                     </place>
+                     <place ref="ST_Place_0031">
+                        <placeName>Cologne</placeName>
+                     </place>
+                     <place ref="ST_Place_0070">
+                        <placeName>Antwerp</placeName>
+                     </place>
+                     <place ref="ST_Place_0037">
+                        <placeName>Amsterdam</placeName>
+                     </place>
+                     <place ref="ST_Place_0009">
+                        <placeName>Granada</placeName>
+                     </place>
+                     <place ref="ST_Place_0023">
+                        <placeName>Spain</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0698">
+                        <persName>Johannes Kuthner</persName>
+                     </person>
+                     <person ref="ST_Pers_0722">
+                        <persName>Griffin Markham</persName>
+                     </person>
+                     <person ref="ST_Pers_0285">
+                        <persName>Robert de Scheilder</persName>
+                     </person>
+                     <person ref="ST_Pers_0053">
+                        <persName>Balthasar Moretus</persName>
+                     </person>
+                     <person ref="ST_Pers_0038">
+                        <persName>Anton Hierat</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                     <person ref="ST_Pers_0142">
+                        <persName>Alfonso de Ulloa</persName>
+                     </person>
+                     <person ref="ST_Pers_0136">
+                        <persName>Jan van Wyningen</persName>
+                     </person>
+                     <person ref="ST_Pers_0361">
+                        <persName>Luis del Mármol Carvajal</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Antonio de Gouvea</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737s</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">224r–225v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0152">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1621-03-13">13 March 1621</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0485">Vincent Noguera</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body/>
+   </text>
+</TEI>

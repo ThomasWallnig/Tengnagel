@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Thomas Erpenius to Josephus Abudacnus. 1617-09-15</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0093</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0070">
+                        <placeName>Antwerp</placeName>
+                     </place>
+                     <place ref="ST_Place_0129">
+                        <placeName>Leuven</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0066">
+                        <persName>Franciscus Raphelengius</persName>
+                     </person>
+                     <person ref="ST_Pers_0053">
+                        <persName>Balthasar Moretus</persName>
+                     </person>
+                     <person ref="ST_Pers_0616">
+                        <persName>Disciple of Erpenius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737s</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">139r–139v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0093">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
+               <placeName xml:id="ST_Place_0037">Leiden</placeName>
+               <date when="1617-09-15">15 September 1617</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0001">Josephus Abudacnus</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Attergato di Erpenio: Clarissimo Doctissimo Viro Josepho Barbato Orientalium linguarum Professori dignissimo - Lovanio 
+Ti ho già risposto da alcuni mesi alle tue tre lettere, o uomo dottissimo e precettore osservandissimo. E ti ho già spiegato che non posso spedirti i miei caratteri o le loro matrici arabe (quelle arabe non ce le ho nemmeno). In ogni caso ti spiegherà tutto meglio il mio discepolo. Ti avevo dato speranza riguardo ai caratteri di Raphalengio, ma non sembrano essere in vendita. Potresti forse contattare al cognato di quello (di chi?), Moreto, tipografo ad Anversa. In ogni caso sono abbastanza sicuro che siano in vendita i caratteri di kirstenio. Se è così fammi sapere e scriverò per sostenterti. Questa cosa infatti sta a cuore anche a me. Saprai di più dal mio discepolo e perciò non aggiungo altro. Addio 
+
+DA USARE QUANDO PARLO DELLE TIPOGRAFIE O DEGLI AGENTI 
+
+CHI è IL SUO DISCEPOLO?? CREDO Melchior Maderus</cell>
+      </body>
+   </text>
+</TEI>

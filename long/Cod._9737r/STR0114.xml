@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Konrad Rittershausen. 1610-11-19</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0114</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0332">
+                        <persName>Porphyry</persName>
+                     </person>
+                     <person ref="ST_Pers_0260">
+                        <persName>Scipione Gentili</persName>
+                     </person>
+                     <person ref="ST_Pers_0288">
+                        <persName>Georg Remus</persName>
+                     </person>
+                     <person ref="ST_Pers_0320">
+                        <persName>Nicolaus Schimmelbeinius</persName>
+                     </person>
+                     <person ref="ST_Pers_0111">
+                        <persName>Hubert van Giffen</persName>
+                     </person>
+                     <person ref="ST_Pers_0132">
+                        <persName>Elias Hutter</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">166r–166r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0114">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1610-11-19">19 November 1610</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0068">Konrad Rittershausen</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Menziona l'edizione, curata da Rittershausen, della vita di Pitagora scritta da Porfirio ( ) e quella delle lettere di Plinio (http://data.onb.ac.at/rec/AC10251943 ). nessuna delle due ha note di possesso di ST, a differenza dell'edizione delle favole di Fedro (http://data.onb.ac.at/rec/AC10195425) Si parla di Schimmelbein cenno ai libri prestati a Hutter e alla fine chiede di salutare S. Gentili e G. Remo</cell>
+      </body>
+   </text>
+</TEI>

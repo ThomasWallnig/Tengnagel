@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Thomas Erpenius. 1614-08-23</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0200</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0307">
+                        <persName>William Bedwell</persName>
+                     </person>
+                     <person ref="ST_Pers_0092">
+                        <persName>Bonaventura Vulcanius</persName>
+                     </person>
+                     <person ref="ST_Pers_0461">
+                        <persName>Dominicus Baudius</persName>
+                     </person>
+                     <person ref="ST_Pers_0052">
+                        <persName>Johannes Meursius</persName>
+                     </person>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0110">
+                        <persName>Abū' l-Fidā'</persName>
+                     </person>
+                     <person ref="ST_Pers_0512">
+                        <persName> Joannes Willelm</persName>
+                     </person>
+                     <person ref="ST_Pers_0464">
+                        <persName>Mustafā Ǧannābī</persName>
+                     </person>
+                     <person ref="ST_Pers_0230">
+                        <persName>al-Farabi</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Johannes Antonides</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">269r–269v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0200">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1614-08-23">23 August 1614</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0026">Thomas Erpenius</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lettera importantissima, . 
+Carissimo e dottissimo Erpenio, ormai da sei mesi ho mandato una serie di lettere con le quali ho cercato di procurarmi l'accesso alla tua amizia, ma fin qui è stato tutto vano; infatti non ho avuto alcuna riscontro o alcuna risposta alle mie lettera (cosa che desideravo tantissimo) e non riesco a capire quale sia il motivo, se non fosse che o le mie o le tue sia andata perse per dolo o per incuria dei postini, cosa che ovviamente non posso sapere. e perciò ricomincio questo compito della scrittura e ribatto ancora una volta sullo stesso accordo sbagliato perché sono fortemente costretto a farlo dallo stimolo o meglio dal pungolo dei tuoi studi esotici (peregrini). E infatti io smanio di un amore disperato [in greco, è una cit da Plutarco] per quegli studi lì e ogni qual volta vengo a sapere di un rivale o di un correligionario allora io brucio per associarlo ai miei bisogni con una passione incredibile e impossibile da trattenere, almeno credo. Ora, dato che fra queste persone qui i cavalieri e il senato della lettere orientali darebbero con ogni probabilità a te la palma della vittoria, del resto giustamente, dato che aiuti a estendere in lungo e in largo i confini di quelle non solo a voce ma anche in opere scritte e pubblicate e aiuti a farli pervenire a sommo splendore (fastigium). Lode a te per questo coraggio e per questo successo! Possa Dio o i nostri magnati belgi assecondare le tue magnifiche imprese e sostenerle e innalzarle e possano sempre a loro spese stampare e portare a compimento quellele opere illustri portate in medicina, matematica, astronomia, storia e filosofia alla luce da te sulla scena pubblica della repubblica delle lettere dalle miniere arabe. 
+Anche io potrei portare un piccolo contributo a questi studi se un qualche stampatore volesse affidare alla stampa quelle cose. infatti sto sto lavorando a che sia stampato un manoscritto turco con una storia turca ricevuto con mutuo accordo da un ambasciatore in turchia, un'opera rara, con poche note e pochi "commas"; voglio pubblicarla perché abbraccia tutte le cose che accaddero fin dagli inizi della religione maomettana, i califfi, i re, i sultani in procincie diverse nobili e sconosciute e poi le gesta di pace e di guerra e tutta la serie dei loro successori con grande cura ed esattezza; e poi anche una cosmografia di Ismael Abulfeda da un autografo palatino; e poi il Chronicon di Ebu Gian Her; e altre cose che forse non ti dispiacerebbero se trovassero presso di voi un tipografo, cosa che ho bisogno di sapere da te. Parimenti desidero conoscere che cosa in questo genere di lettere orientali tu stia intraprendendo con tuo sforzo che possa giovare e far bene alla posterità. Effettivamente, finora, non sono ancora riuscito ad assaggiare neanche un pochino di quelle operette eccellenti tratte alla luce, grazie all'opera del tuo ingegno, dalle capanne semidistrutte dei Mori, non so se per incuria o per pigrizia del nostro bibliotecario. Per questo motivo aspetto avidamente che mi siano spedite per tramite di Johannes Wilhelm di Amsterdam che sta per venire da voi e che è amico mio ma anche legato da un rapporto d'affetto con tuo padre le seguenti opere: quei famosi Proverbi arabi, le Osservazioni grammaticali, il Lessico raphalengiano, le Epistolæ Catholicæ omnes di William Bedwell; sempre di Bedwell l'epistola Alcamaria a Tito e la sua grammatica. Ho saputo che Bedwell ha portato o comprato dall'oriente una grande quantità di libri orientali e se di questi tu hai a disposizione, come anche dei tuoi, e di quelli lasciati da Scaligero, un breve indice, ti prego di trasmettermelo e di indicarmi contemporaneamente quali operette tiu voglia affidare alla stampa. E qui pongo fine alla mia scrittura che però riprenderò con maggior lunghezza, non appena avrò ricevuto quelle tue lettere, cariche di merci arabe con le quali di prego di rendermi quanto prima felice. Stammi bene forgia la tua vita con la lettura e la scrittura (cit. da Varrone) e salutami e porgi i miei ossequi ai dottissimi uomini Vulcanius, Baudio, Meursio, e Heinsius. Vienna, 22 agosto 1614. 
+
+
+
+Bonaventura Vulcanius [Bonaventura de Smet (1538-1614), grande umanista olandese, il padre era in contatto con Erasmo; prima in spagna a servizio di F.Mendoza de Bodabilla, poi collabora con H. Estienne e dal 1574 insegna a Leiden. Tra i suoi allievi Daniel Heinsius e Ugo Grozio. Precoce lettore di Montaigne. C'è un libro Brill del 2010 ma non menziona né S.T. né Erpenio];
+Dominicus Baudius (1561-1613) [French neo-Latin Poet, scholar and historian.v From 1603 professor at the University of Leiden. Amico di De Thou, Sidney, Hensius, Grotius, Meursius];
+
+
+CHRISTIANITY - HULYA</cell>
+      </body>
+   </text>
+</TEI>

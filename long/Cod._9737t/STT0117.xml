@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Wilhelm Schickard to Sebastian Tengnagel. 1628-08-12</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0117</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0014">
+                        <placeName>Istanbul</placeName>
+                     </place>
+                     <place ref="ST_Place_0060">
+                        <placeName>Aleppo</placeName>
+                     </place>
+                     <place ref="ST_Place_0012">
+                        <placeName>India</placeName>
+                     </place>
+                     <place ref="ST_Place_0063">
+                        <placeName>Leiden</placeName>
+                     </place>
+                     <place ref="ST_Place_0228">
+                        <placeName>Cambridge</placeName>
+                     </place>
+                     <place ref="ST_Place_0096">
+                        <placeName>The Hague</placeName>
+                     </place>
+                     <place ref="ST_Place_0138">
+                        <placeName>China</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0846">
+                        <persName>Jacobus Golius</persName>
+                     </person>
+                     <person ref="ST_Pers_0964">
+                        <persName>André Rivet</persName>
+                     </person>
+                     <person ref="ST_Pers_0966">
+                        <persName>Willebrord Snellius</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0880">
+                        <persName>George Villiers</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">192r–192v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0117">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0073">Wilhelm Schickard</persName>
+               <placeName xml:id="ST_Place_0057">Tübingen</placeName>
+               <date when="1628-08-12">12 August 1628</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">PUBLISHED BY F. SECK, pp. 339 (questa sì): https://ucloud.univie.ac.at/index.php/apps/files/?dir=/Shared/OORPL/ScansAndMaterials/Seck%20Shickard%20Briefwechsel%20vol.%20I%20&amp;fileid=222966549#/Shared/OORPL/ScansAndMaterials/Seck%20Shickard%20Briefwechsel%20vol.%20I%20/PXL_20201104_144839919.jpg
+
+
+interessante. Gli scrive perché subito dopo aver chiuso la lettera precedente ha ricevuto una lettera da lione di André Rivet (l'ugonotto!). Rivet lo informava che dopo la sua morte, i libri di Erpenio erano stati comprati da Buckhingham e portati a Cambridge. Aveva imposto prezzi così elevati che "l'accademia di Leida" aveva deciso che sarebbe stato più conveniente comprare dall'oriente che da lui. Sempre Rivet gli dice che un allievo di Erpenio alle prese con una versione del Corano e mi sembra che dica qualcosa come "non potrà pubblicarlo a meno di non preparare anche una refutatio in una lingua occidentale (Alicuis e discipulis Erpenii Alcorani novam versionem suscipuisse, sed nolle ipsos absque Antidoto librum vulgari.). E che Golius, che stava ad Aleppo, stava tornando in Europa per prendere il posto di Snellius come matematico e Leida. E che la lingua cinese è incomprensibile agli europei (Chinensem linguam Europaeis hactenus imperscrutabilem: dehortatur me a conatu) mentre quella "malabarica è possibile impararla con l'uso di dizionari etc. 
+
+CHRISTIANITY</cell>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Jan Gruter to Hugo Blotius, Sebastian Tengnagel. 1607-01-07</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0035</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0011">
+                        <persName>Jakob Christmann</persName>
+                     </person>
+                     <person ref="ST_Pers_0228">
+                        <persName>Guillaume Postel</persName>
+                     </person>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0110">
+                        <persName>Abū' l-Fidā'</persName>
+                     </person>
+                     <person ref="ST_Pers_0223">
+                        <persName>Georg Weigenmaier</persName>
+                     </person>
+                     <person ref="ST_Pers_0229">
+                        <persName>Johannes Damascenus</persName>
+                     </person>
+                     <person ref="ST_Pers_0103">
+                        <persName>Muḥammad al-Buchārī</persName>
+                     </person>
+                     <person ref="ST_Pers_0230">
+                        <persName> al-Makīn Ibn al-ʿAmīd</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">49r–50v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0035">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0031">Jan Gruter</persName>
+               <placeName xml:id="ST_Place_0036">Heidelberg</placeName>
+               <date when="1607-01-07">7 January 1607</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="">Hugo Blotius, Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">è la copia per mano di ST della lettera precedente. Si dispiace per il ritardo dell'Abilfeda e dice che cercherà di occuparsi della faccenda del lessico a Tubinga di Wegeimeir. Evidentemente quindi ST aveva accettato l'incarico. Fa l'elenco di libri in arabo nella biblioteca palatina che facevano parte della collezione di Postel. Sono inclusi in questo elenco: http://histmath-heidelberg.de/zitat/christ-palatina.htm (verificare con Hülya). Si lamenta poi di Christmann che conclude poco: il motivo che lui mette avanti è la mancanza di tipografie con caratteri arabi, ma secondo Gruter è per pigrizia e egoismo. Diverso, aggiunge, il caso di Scaliger, che non chiude i suoi lavori per i suoi nemici che gli danno il tormento. 
+Trascritta correttamente e tradotta interamente (tranne le prime righe di saluto che non so tradurre)</cell>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Guillaume Le Bé to Sebastian Tengnagel. 1610-03-20</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0099</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0008">
+                        <placeName>Frankfurt am Main</placeName>
+                     </place>
+                     <place ref="ST_Place_0062">
+                        <placeName>Europe</placeName>
+                     </place>
+                     <place ref="ST_Place_0077">
+                        <placeName>Marseille</placeName>
+                     </place>
+                     <place ref="ST_Place_0029">
+                        <placeName>Germany</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0398">
+                        <persName>Jérôme Parent</persName>
+                     </person>
+                     <person ref="ST_Pers_0228">
+                        <persName>Guillaume Postel</persName>
+                     </person>
+                     <person ref="ST_Pers_0313">
+                        <persName>Honoré Suffin</persName>
+                     </person>
+                     <person ref="ST_Pers_0183">
+                        <persName>Pierre Victor Palma Cayet</persName>
+                     </person>
+                     <person ref="ST_Pers_0194">
+                        <persName>Adriaen Willems</persName>
+                     </person>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                     <person ref="ST_Pers_0400">
+                        <persName>Martinus</persName>
+                     </person>
+                     <person ref="ST_Pers_0315">
+                        <persName>Jean Cinqarbres</persName>
+                     </person>
+                     <person ref="ST_Pers_0314">
+                        <persName>Pierre Vignal</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">145r–146v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0099">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0186">Guillaume Le Bé</persName>
+               <placeName xml:id="ST_Place_0019">Paris</placeName>
+               <date when="1610-03-20">20 March 1610</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body/>
+   </text>
+</TEI>

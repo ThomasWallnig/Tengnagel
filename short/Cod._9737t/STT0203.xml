@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Christophorus Colerus to Johann Matthäus Wacker von Wackenfels. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0203</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0188">
+                        <placeName>Leźno</placeName>
+                     </place>
+                     <place ref="ST_Place_0079">
+                        <placeName>Poland</placeName>
+                     </place>
+                     <place ref="ST_Place_0189">
+                        <placeName>Livonia</placeName>
+                     </place>
+                     <place ref="ST_Place_0021">
+                        <placeName>Prague</placeName>
+                     </place>
+                     <place ref="ST_Place_0251">
+                        <placeName>Zielona Góra</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_1052">
+                        <persName>Wenceslaus Lescinius of Leszno</persName>
+                     </person>
+                     <person ref="ST_Pers_1053">
+                        <persName>Erasmus Schilling</persName>
+                     </person>
+                     <person ref="ST_Pers_0231">
+                        <persName>Caspar Schoppe</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">321r–322v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0203">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0014">Christophorus Colerus</persName>
+               <placeName xml:id="ST_Place_0251">Zielona Góra</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0178">Johann Matthäus Wacker von Wackenfels</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin 
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body/>
+   </text>
+</TEI>

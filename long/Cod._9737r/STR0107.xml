@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Johann Lieb to Sebastian Tengnagel. 1610-10-16</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0107</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0079">
+                        <placeName>Poland</placeName>
+                     </place>
+                     <place ref="ST_Place_0080">
+                        <placeName>Switzerland</placeName>
+                     </place>
+                     <place ref="ST_Place_0013">
+                        <placeName>Ingolstadt</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0321">
+                        <persName>Hans Kneüßl</persName>
+                     </person>
+                     <person ref="ST_Pers_0322">
+                        <persName>Haberstock</persName>
+                     </person>
+                     <person ref="ST_Pers_0149">
+                        <persName>Johann Prigglmayer</persName>
+                     </person>
+                     <person ref="ST_Pers_0028">
+                        <persName>Christoph Gewold</persName>
+                     </person>
+                     <person ref="ST_Pers_0037">
+                        <persName>Johann Georg Herwart von Hohenburg</persName>
+                     </person>
+                     <person ref="ST_Pers_0090">
+                        <persName>Ursula Ungelter</persName>
+                     </person>
+                     <person ref="ST_Pers_0329">
+                        <persName>Johann Lieb's son</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">156r–157v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0107">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0046">Johann Lieb</persName>
+               <placeName xml:id="ST_Place_0018">Munich</placeName>
+               <date when="1610-10-16">16 October 1610</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>German</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Greetings to ST's wife; Lieb does not manage to come to Vienna, as he had hoped. Update on the matter of "Arabic books", on which he had not managed to answer properly; Gewold and Herwart had not been around; but now he managed to arrange the transmission to take place through "the Austrians"; wishes he had been at the service of the Habsburgs for promotion reasons; Lieb's son should study Philosophy in Ingolstadt but cannot get a stipend, so he asks ST for help - son is desperate and wants to go to Poland; news about Strasbourg, Switzerland, Fürstenberg, Truchsess and Zollern</cell>
+      </body>
+   </text>
+</TEI>

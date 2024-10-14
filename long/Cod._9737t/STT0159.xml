@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Josephus Abudacnus to Sebastian Tengnagel. 1627-07-29</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0159</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0017">
+                        <persName>Michel D'Asquier</persName>
+                     </person>
+                     <person ref="ST_Pers_1006">
+                        <persName>Sebastian Lustrier von Liebenstein</persName>
+                     </person>
+                     <person ref="ST_Pers_0054">
+                        <persName>Otto von Nostitz</persName>
+                     </person>
+                     <person ref="ST_Pers_0377">
+                        <persName>Questenberg</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">263r–264r, 152r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0159">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0001">Josephus Abudacnus</persName>
+               <placeName xml:id="ST_Place_0014">Istanbul</placeName>
+               <date when="1627-07-29">29 July 1627</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian - Arabic</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">cf. sopra, da cui copio: 
+Si lamenta del trattamento che gli riserva il residente Castries ST gli ha comunicato la morte di Erpenio, se ne dispiace ma dice che tocca a tutti, dotti o indotti. Si pente di non essere rimasto a Vienna con ST, dice che era andato a Costantinopoli per imparare, ma che avrebbe potuto imparare dagli arabi d'egitto o di barberia, mentre lì sta dimenticando tutto (io non mi sono contentato 
+di essere intrato nel servitio(?) di sua M.C. per 
+sua Clementia, et per gratia di lei, et altri Signori et 
+Patroni, ma ho voluto restare nella porta Ottomana 
+(del che mi sono molto pentito) per imparare qualche 
+vertù, o scientia, il che si può benissimo per merito(?) di 
+Arabi tanto di Eggitto, quanto di Barbaria, persone 
+dottissime, et peritissimi in tute le scientie. ). ST gli ha dato il catalogo di erpenio, chiedendogli alcuni libri, ma lui non ha tempo per far nulla per via delle angherie del residente. Lamenta di non avere i soldi per i vestiti (ne ha coprati alcuni usando i soldi che Dasquier gli aveva dato per comprare certi libri). 
+
+AGENTS</cell>
+      </body>
+   </text>
+</TEI>

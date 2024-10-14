@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Michel D'Asquier to Sebastian Tengnagel. 1625-05-02</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0020</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0060">
+                        <placeName>Aleppo</placeName>
+                     </place>
+                     <place ref="ST_Place_0094">
+                        <placeName>Damascus</placeName>
+                     </place>
+                     <place ref="ST_Place_0095">
+                        <placeName>Tripolis</placeName>
+                     </place>
+                     <place ref="ST_Place_0198">
+                        <placeName>Gandhara</placeName>
+                     </place>
+                     <place ref="ST_Place_0184">
+                        <placeName>Bosnia</placeName>
+                     </place>
+                     <place ref="ST_Place_0012">
+                        <placeName>India</placeName>
+                     </place>
+                     <place ref="ST_Place_0025">
+                        <placeName>Transylvania</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0355">
+                        <persName>Abbas I</persName>
+                     </person>
+                     <person ref="ST_Pers_0849">
+                        <persName>Yusuf Sayfa Pasha</persName>
+                     </person>
+                     <person ref="ST_Pers_0850">
+                        <persName>Jahangir</persName>
+                     </person>
+                     <person ref="ST_Pers_0102">
+                        <persName>Gabriel Bethlen</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">35r–36v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0020">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0017">Michel D'Asquier</persName>
+               <placeName xml:id="ST_Place_0255">[Segin]</placeName>
+               <date when="1625-05-02">2 May 1625</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian
+
+Arabic</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Ancora riferimenti alla salute di ST (Sento con dispiacere grande la continuatione della sua malatia et prego il Signore restituirli la desiderata sanità). Riferimento a questioni militari e diplomatiche (Mi perdoni se non le comunico qualche particolare della Trattatione non potendolo ancora fare, ma col tempo saperà ogni cosa). Chiedere a HC il nome in arabo dell'emiro - 
+
+molto interessante tutta, parla dello stato di salute dei turchi (Gli Turchi son bene co' Tartari checché voglino dir alcuni; &amp; questo accresce non poco la loro potenza che non è tanto indebolita per l'avversità havute che non ne possin far più che paura, il che DEUS avertat) e dei persiani, entrambi descritti come molto robusti, per esmpio smentisce la voce che l'impero persiano subisse perdite a causa di quello Moghul (gagliardamente per seguitar gli suoi acquisti sopra il Turco in questa primavera, non che, di conservar gli già fatti, et che vi è apparenza che farà gran progressi, già che non solo non è molestato dal Gran Mogor (come dicono gli Turchi per scemare la loro vergogna, et la gloria del Persiano) ma fà dall'altra parte acquisti di non poca importanza sopra di esso Mogor che non ha ripreso Gandara ) . 
+
+alla fine dice a ST: prego di non comunicare quello che io scrivo se non con persone discrete, acciò ch'io non tenuto uno scrittore di nuove. Queste avversità non scemano punto l'orgoglio Turchesco (à chi non glielo conoscesse) in questa nostra Trattatione parrebbe che fussero superiori per tutto et questa loro arroganza è causa in parte della dilatione che si usa qui. Della quale trattatione, oserei sperar felice successo e non venisse pertubata et impedita dal Transilvano, che pure usando tuttavia le sue solite prattiche alla Corte Ottomana ne dà travaglio, &amp; fastidio assai; anzi per tante sue sollecitazioni(?) sono stati gli Turchi mossi a mandar questa Primavera l'essercito(?) di Bossina &amp; altrio luochi al bassà di Buda, per far una pace armata (come si suol dire9 e è verosimile che se S.M.tà vorrà vim vi repellere er reciprocamente mandar gente alle sue frontiere 
+come pare che sia obligata di fare, acciò gli suoi poveri sudditi non siano trattati come le due volte passate sotto pretesto di pace
+
+USARE IN AGENTS</cell>
+      </body>
+   </text>
+</TEI>

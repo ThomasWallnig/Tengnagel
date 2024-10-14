@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Jacob Gretser. [1611-09-01]</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0006</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0009">
+                        <placeName>Granada</placeName>
+                     </place>
+                     <place ref="ST_Place_0033">
+                        <placeName>Würzburg</placeName>
+                     </place>
+                     <place ref="ST_Place_0018">
+                        <placeName>Munich</placeName>
+                     </place>
+                     <place ref="ST_Place_0005">
+                        <placeName>Ethiopia</placeName>
+                     </place>
+                     <place ref="ST_Place_0012">
+                        <placeName>India</placeName>
+                     </place>
+                     <place ref="ST_Place_0040">
+                        <placeName>Syria</placeName>
+                     </place>
+                     <place ref="ST_Place_0023">
+                        <placeName>Spain</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0040">
+                        <persName>Melchior Khlesl</persName>
+                     </person>
+                     <person ref="ST_Pers_0084">
+                        <persName>Georg Sturn</persName>
+                     </person>
+                     <person ref="ST_Pers_0037">
+                        <persName>Johann Georg Herwart von Hohenburg</persName>
+                     </person>
+                     <person ref="ST_Pers_0091">
+                        <persName>Matthäus Welser</persName>
+                     </person>
+                     <person ref="ST_Pers_0079">
+                        <persName>Nicolaus Serarius</persName>
+                     </person>
+                     <person ref="ST_Pers_0094">
+                        <persName>Anton Welser</persName>
+                     </person>
+                     <person ref="ST_Pers_0060">
+                        <persName>Juan de Pineda</persName>
+                     </person>
+                     <person ref="ST_Pers_0008">
+                        <persName>Henricus Canisius</persName>
+                     </person>
+                     <person ref="ST_Pers_ 0028">
+                        <persName>Christoph Gewold</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Johann Lieb</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">14r–15r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0006">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="[1611-09-01]">[1611-09-01]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0030">Jacob Gretser</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lettera importante perché dimostra l'interesse di ST per la Spagna. Mi colpisce in particolare la richiesta di informaizone sulla messa celebrata per i neofiti moriscos. All'inizio fa riferimento alla dedica al cardinale Khesl. Poi si augura di poter essere ammesso alla consultazione dei libri arabi e ebraici della biblioteca di monaco. Sulla Spagna (trascrizione inesatta): A. P. Antonio Velsero, vel alteri alicui in Hispaniis Patri tibi noto, per te aliquid oneris imponi nisi nimium quantum impudens videur pervelim(?) Granata escusum est. Dictionarium Hispano Arabicum, cum modo confitendi, et Missa in usum Neophytorum Maurorum, litteris latinis vel Hispanicus, A° nisi fallor 1493, statim post Granatam expugnat vocatur vulgariter, Arte para saver ligeramente la lengua Arabiga P. Serarius piae memor, acceptum ex Hispania mihi illud utendum dederat, sed iam R. P. Sturnum Collegio Herbipolensi paucis ante mensibus reddi curavi). Chiede infine notizie dei progressi dei gesuiti in siria, etiopia e in india. USARE IN CHRISTIANITY. Quelle lettere di Adriano e degli altri papi le avrei affidate da recapitarti, o eruditissimo, a quel Lanconio che mi ha portato le tue. Ma poiché padre Hillin pensava che lui [Lanconio] sarebbe stato appesantito dal piccolo bagaglio da esse costituito, ho cambiato idea, e mi sono visto costretto a rimandare quel peso a un'occasione più comoda. Ho curato quella mia piccola lettera dedicatoria per Khesl l'ho affidata a padre Sturnum pochi giorni fa e lui, stando a quanto scrive, la stessa lettera vista e letta da Khels, e soltanto cambiata nel titolo, l'ha affidata a Matteo Velser, e credo che ti sarà restituita in brevissimo tempo. Se in questa lettera ci sarà qualcosa che possa essere oggetto di una censura di lima, si senta libero di cancellario; vorrei sapere se i nostri opuscoli saranno stampati per la fiera. Infatti se più a lungo stessero sotto la stampa, forse si potrebbe aggiungere un "episagma" [trattatello?] dalla biblioteca accademica; in effetti io ne sono ancora escluso ma grazie alle continue richieste, come spero, otterrò finalmente l'ammissione: della qual cosa ti informerò. la vita di Enrico S. Imperatore può essere da te enormemente accresciuta grazie a quelle epistole sulla costituzione della chiesa di Bamberga. C'è qui presso di me un frammento di quella stessa vita scritta da Adeboldo vescovo di Fraiestensi degno di menzione [in greek] se fosse integro; comincia così: "quando si scrive la storia, a due cose bisogna fare attenzioen: la prima, che lo scrittore miri alla verità nell'esposizione; e che il lettore nella sua lettura ne riceva un'utilità"; e consiste soltanto di 10 fogli; è stato copiato da un qualche codice antico e si conclude con la spedizione contro Buzislao di Boemia e si conclude con le seguenti parole: "Nel frattempo vola voce che Buzislao è stato ucciso dai cosrpiratori di Praga". 
+C'è anche una vita di Ottone di Bamberga in tre libri mutila del finale, in quello stesso codice che contiene la vita di Gregorio VII che, se ricordo bene, padre Canisio ha già pubblicato. Comincia così.. . 
+Se in queste cose ci saraò qualcosa che potrà dar lustro ai tuoi studi, comanda, VC, e l'otterrai. 
+Un esemplare dei divini Bab., se possibile, ti chiedo. [...] Ho un codice membranaceo dei Canoni che consta di 7 libri, anonimo. Per questo motivo ti mando gli inizi di ciascuno dei libri affinché tu scopra da essi il condiscepolo, ma se non mi sbaglio è Anselmo. È presente pure qui la collezione dei Canoni di quel famoso Reginone Prumiense e se tu li ritenessi degni di vedere la luce io volentieri li condividerei con te. Le antiche lezione di P. Canisio, fammi sapere a quanto sono in vendita. Quell'ultimo punto della tua lettera che contiene le promesse di C.D. Gebualdo sui tre arabici mi ha rallegrato tantissimo, perciò ho scritto all'illustrissimo Hervardum delle lettere che a te restituisco aperte affinchè tu veda ciò che io scrivo e affinché tu unisca le tue preghiere, che varranno presso di loro sicuramente di più, alle mie, che devo essere sottoscritte da te. Ancora una richiesta: fai in modo e cerca di ottenere che io ottenga dal Serenissimo Principe questo [greco] dei nostri libri; potranno essere affidati in tutta sicurezza a Johannes Lieb 
+
+LA CITO IN CHRISTIANITY</cell>
+      </body>
+   </text>
+</TEI>

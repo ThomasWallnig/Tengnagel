@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Petrus Kirstenius. 1610-11-21</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0118</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0036">
+                        <placeName>Heidelberg</placeName>
+                     </place>
+                     <place ref="ST_Place_0040">
+                        <placeName>Syria</placeName>
+                     </place>
+                     <place ref="ST_Place_0041">
+                        <placeName>Egypt</placeName>
+                     </place>
+                     <place ref="ST_Place_0086">
+                        <placeName>Palestine</placeName>
+                     </place>
+                     <place ref="ST_Place_0087">
+                        <placeName>Mesopotamia</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                     <person ref="ST_Pers_0243">
+                        <persName>Julius Konrad Otto</persName>
+                     </person>
+                     <person ref="ST_Pers_0300">
+                        <persName>Johannes Leunclavius</persName>
+                     </person>
+                     <person ref="ST_Pers_0335">
+                        <persName>Étienne Hubert</persName>
+                     </person>
+                     <person ref="ST_Pers_0011">
+                        <persName>Jakob Christmann</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">168r–168r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0118">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1610-11-21">21 November 1610</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0041">Petrus Kirstenius</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Carissimo, quanto io abbia ammirato le grandi prove del tuo ingegno e quanto piacere mi abbiano arrecato è meglio passarlo sotto silenzio per non incorrere nel turpe vizio dell’adulazione e per non fare -come si usa dire- come gli asini “che si grattano a vicenda” ... Nel frattempo ti ripeto quel solenne monito a **** e ti esorto a continuare la tua fatica e, dopo aver posto le fondamenta, a innalzare il tetto. Prima di tutto ti esorto a pubblicare davanti a ogni altra cosa quel tuo Lessico e in questo modo da una parte ti guadagnerai ancora più fama e dall’altra supererai nelle opere altri che “rotolano lo stesso masso” (riferimento proverbiale alla fatica di Sisifo).Sento dire infatti che Casaubon, senza dubbio meglio provvisto di copie scaligeriane, sta tentando di produrre qualcosa in questo stesso studio, e perciò sforzati di farci felici e contenti quanto prima con le tue opere arabe. Il mio Avicenna e gli Evangelisti te li lascerò a disposizione, anche se io stesso avrei un gran bisogno di servirmene, ancora per un po’, a questa condizione però, se potrò ottenere da te il Pentateuco Palatino per un mese e … te lo restituirò in perfette condizioni (cosa che spero farai per me volentieri non appena avrai agio di occupartene, e io a mia volta ti ripagherò di quel favore). In … c’è anche il Chronicon Vulgare turco di Leonclavio, mutilo in molti punti e rovinato dal traduttore, se solo ci fosse la copia del tipografo... riguardo alla quale non oserei in nessun modo …
+
+Le tue opere turche, che ci avevi trasmesso, non è possibile per nessuno spiegarle bene o leggerle chiaramente. Chi mai insegni Arabo nell’accademia di Heidelberg, a costui desidero (che le mandi??) Magari fanne cenno a Christmann… In quale parte del mondo si aggiri Otto Konrad, se lo sai, fammelo sapere e scrivimi se abcora porta le tue merci dalla Siria… Tra gli opusculi postumi di Scaligero c’è un’epistola a stefano uberto, uno che a quanto pare era espertissimo fra tutti in lingua araba, dove mostra a Scaligero moltissime cose dagli studi arabi ed espone il suo patrimonio librario quasi come fosse in bella vista in una bottega, un patrimonio che certamente io invidio ai Batavi, a meno che non la pubblichino e divulghino per il bene della respublica delle lettere. Oh se gli piacesse di copiarne alcune! Ma ho il forte timore che questo desiderio sia *** Ah, e quasi dimenticavo: Per i piccoli doni che mi hai mandato, ti mando enormi ringraziamenti e ti contraccambierò non appena la mia officina avrà messo fuori qualcosa di nuovo. Stammi bene e abbi cura di te, o uomo carissimo e pregandoti vivamente per il pentateuco, fa’ che io ottenga il mio desiderio, Vienna 21 Novembre 1610 
+
+AGENTS a HULYA
+</cell>
+      </body>
+   </text>
+</TEI>

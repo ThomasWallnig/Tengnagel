@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Petrus Lansselius to Sebastian Tengnagel. 1627-02-20</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0088</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0208">
+                        <placeName>St. Gallen</placeName>
+                     </place>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0008">
+                        <placeName>Frankfurt am Main</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0033">
+                        <persName>Johann Ludwig von Hagen</persName>
+                     </person>
+                     <person ref="ST_Pers_0789">
+                        <persName>Johannes Buxtorf</persName>
+                     </person>
+                     <person ref="ST_Pers_0074">
+                        <persName>Andreas Schott</persName>
+                     </person>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0436">
+                        <persName>Mirchond</persName>
+                     </person>
+                     <person ref="ST_Pers_0261">
+                        <persName>Isidorus Pelusiota</persName>
+                     </person>
+                     <person ref="ST_Pers_0927">
+                        <persName>Marc Lescarbot</persName>
+                     </person>
+                     <person ref="ST_Pers_0928">
+                        <persName>Samuel de Champlain</persName>
+                     </person>
+                     <person ref="ST_Pers_0929">
+                        <persName>Jean Mocquet</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Herman Hugo</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">142r–142v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0088">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0042">Petrus Lansselius</persName>
+               <placeName xml:id="ST_Place_0070">Antwerp</placeName>
+               <date when="1627-02-20">20 February 1627</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Arabic
+
+Persian</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lettera piena di titoli interessante,. Non l'ho trascritta perché il file si dovrà spostare, letta e tradotta. Ci sono anche titoli in arabo per Hülya (sono libri di Erpenio). Accanto a una lista di libri ST scrive quelli che vuole e quelli no. Deo tornarci su senza dubbio. 
+Aggiunge che se ST non ha ancora ricevuto l'orazione funebre e il catalogo della biblioteca di erpenio gliela manda lui subito. 
+POi aggiunge qualcosa sul corano e sull'edizione di Erpenius di Josephus (che tutti i codici secondo lui gemmano da quello usato da Erpenio)
+Dice anche che ha cercato di ottenere un codice di cui aveva parlato dall'abbazia di st. gallen, ma che è impossibile ormai ottenere in prestito i loro codici. 
+
+Lescarbot, Histoire Nouvelle France - S. Champlain, Voyages et descouvertures faites en la nouvelle France - jean Mocquet, Voyages en Afrique - Hugo Herman, Obsidia Bredana - Bibliotheca Patrum Graecolatina - Coran etc.
+
+
+CHRISTIANITY</cell>
+      </body>
+   </text>
+</TEI>

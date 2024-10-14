@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Pierre Cavellat to Sebastian Tengnagel. 1604-06-04</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0011</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0008">
+                        <placeName>Frankfurt am Main</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                     <person ref="ST_Pers_0182">
+                        <persName>Jacques-Marie d'Amboise</persName>
+                     </person>
+                     <person ref="ST_Pers_0186">
+                        <persName>Guillaume Le Bé</persName>
+                     </person>
+                     <person ref="ST_Pers_0193">
+                        <persName>Simon Cauler</persName>
+                     </person>
+                     <person ref="ST_Pers_0188">
+                        <persName>Guillaume Cavellat</persName>
+                     </person>
+                     <person ref="ST_Pers_0169">
+                        <persName>Andrea Maes</persName>
+                     </person>
+                     <person ref="ST_Pers_0194">
+                        <persName>Adriaen Willems</persName>
+                     </person>
+                     <person ref="ST_Pers_0195">
+                        <persName>Cesare Baronio</persName>
+                     </person>
+                     <person ref="ST_Pers_0197">
+                        <persName>P. Caietanus</persName>
+                     </person>
+                     <person ref="">
+                        <persName>P. Martinus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">14r–14v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0011">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0010">Pierre Cavellat</persName>
+               <placeName xml:id="ST_Place_0019">Paris</placeName>
+               <date when="1604-06-04">4 June 1604</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lettera interessante. Nomina Guillaume Le Bé: importante tipografo di caratteri arabi. Attenzione, si tratta di Guillaume II, figlio dell'omonimo tipografo, altrettanto famoso. Muore nel 1645 e nel 1600 rileva la tipografia del padre. 
+Dice che ha ha parlato di ST a Casaubon, a d'Amboise e Simon Caulier e tutti e tre desiderano entrare in contatto con ST. ST doveva aver parlato di qualcosa riguardante l'ungheria, perché Cavellat scrive che Simon Caulier è interessato a saperne di più. Amboise vuole invece mandare a ST il libro De rebus creatis et eorum creatore liber tripertitus pubblicato nel 1586 (http://data.onb.ac.at/rec/AC09654195 ma senza ex libris di ST). Da Casaubon ha visto la copia dei Proverbi Arabi, ancora da stampare. Parla poi di Guillaume Le Bé: "Si chiama Guglielmo Le Bé ed è un mio caro amico e nostro vicino. Lavora con la lingua araba e ha un Corano veramente bello e anche altri libri arabi che a lui grazie alla conoscenza della lingua sono preziosi. È un uomo perbene e facilmente potrai servirti della sua opera riguardo alla conoscenza della suddetta lingua araba. Avendo stampato da un anno quel Salmo, aveva intenzione di stampare anche 7 salmi penitenziali in arabo e in latino e aveva pure iniziato questo lavoro, ma poi, invischiato in altre faccende, non lo ha portato a conclusione. Quel Dizionario Arabo non sarà stampato tanto velocemente però in breve tempo verrà fuori la grammatica araba che ha tra le mani e pubblicherà Adrian Wilhelm di nazionalità batava o frisia che abita già qui ad tempus [...]. Io lo conosco di faccia ma non ci ho mai parlato, ma è molto amico di Le Bé". Inine raccomanda a ST il suo fratello mione, Guglielmo, e gli chiede di salutare Blotius e Andrea Maes (che viene citato più volte ma non capisco chi sia). 
+Interamente trascritta e tradotta. 
+
+CHRISTIANITY AGENTS</cell>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Robert de Scheilder to Sebastian Tengnagel. 1615-06-07</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0018</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0112">
+                        <placeName>Naples</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0009">
+                        <persName>Isaac Casaubon</persName>
+                     </person>
+                     <person ref="ST_Pers_0018">
+                        <persName>Jacques-Auguste De Thou</persName>
+                     </person>
+                     <person ref="ST_Pers_0022">
+                        <persName>Fronton du Duc</persName>
+                     </person>
+                     <person ref="ST_Pers_0195">
+                        <persName>Cesare Baronio</persName>
+                     </person>
+                     <person ref="ST_Pers_0361">
+                        <persName>Luis del Mármol Carvajal</persName>
+                     </person>
+                     <person ref="ST_Pers_0523">
+                        <persName>François Savary de Brèves</persName>
+                     </person>
+                     <person ref="ST_Pers_0524">
+                        <persName>Zsigmond I. Lónyay</persName>
+                     </person>
+                     <person ref="ST_Pers_0178">
+                        <persName>Johann Matthäus Wacker von Wackenfels</persName>
+                     </person>
+                     <person ref="ST_Pers_0077">
+                        <persName>Thomas Segeth</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Vincenzo Lorefice</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737s</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">25r–26v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0018">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0285">Robert de Scheilder</persName>
+               <placeName xml:id="ST_Place_0021">Prague</placeName>
+               <date when="1615-06-07">7 June 1615</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Bella lettera, molto ricca. Annuncia che gli manda un cassa di libri. Che gli manda anche l'Africa di Marmol Carvajal (ma non riesco a trovarla sulla ONB) e che si sta procurando anche la topografia di Costantinopoli di Pierre Gilles. Poi passa a parlare dell'Historia ecclesiastica di Niceforo. Si citano De Thou, Fronton. Lo infomra che ha sentito dire che Casaubon ha in stampa le sue esercitazioni contro Baronio. Dice che Thomas Seghet è nei guai e (ma forse mi sbaglio) che lui non può dfar di più che avvertire Lichtenstein e Wecker. Dice poi che Vincenzo Lorefice non si tratterrà a Napoli, poi qualche altra cosa che non capisco. Gli manda i saluti di Barvizio. Infine, nel PS, riferimento interessante: Velim Turcicorum et Arabicorum tuorum editionem matures haud dubie Dns De Breves omnia humanitatis officia(?) tibi praestabit, in gratiam Ill. Thuani cuius sevirum esse intelligo. 
+
+Su Lorefice: Lorefice, Vincenzo
+Namensvarianten Vincentius Laurificus, Vincenzo Aurificus, theologus cardinalis
+Barberini
+Geboren In Siracusa oder Ragusa (Sizilien)
+Gestorben 1624 in Rom
+Aus der Biografie Lorefices, der kurze Zeit als Konsultor für die Indexkongregation tätig war, sind bislang nur wenige Nachrichten bekannt. Der polyglotte Sizilianer, der fließend Griechisch, Hebräisch, Latein, Französisch, Spanisch und Deutsch gesprochen haben soll, gehörte zum Mitarbeiterstand M. → Barberinis. Nach der Wahl Barberinis zum Papst (Urban VIII.) war Lorefice für den Erzstuhl von Monreale auf Sizilien designiert, doch verstarb er, noch bevor die Amtsinvestitur vollzogen wurde.
+
+DA USARE CAP CRISTIANI O AGENTI forse anche ANTOLOGIA</cell>
+      </body>
+   </text>
+</TEI>

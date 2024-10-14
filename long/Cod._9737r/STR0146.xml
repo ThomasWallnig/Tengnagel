@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Jacob Gretser to Sebastian Tengnagel. 1611-07-14</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0146</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0001">
+                        <placeName>Vienna</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0029">
+                        <persName>Melchior Goldast</persName>
+                     </person>
+                     <person ref="ST_Pers_0195">
+                        <persName>Cesare Baronio</persName>
+                     </person>
+                     <person ref="ST_Pers_0028">
+                        <persName>Christoph Gewold</persName>
+                     </person>
+                     <person ref="ST_Pers_0267">
+                        <persName>Roberto Bellarmino</persName>
+                     </person>
+                     <person ref="ST_Pers_0412">
+                        <persName>Bernold of Konstanz</persName>
+                     </person>
+                     <person ref="ST_Pers_0040">
+                        <persName>Melchior Khlesl</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">193r–193v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0146">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0030">Jacob Gretser</persName>
+               <placeName xml:id="ST_Place_0013">Ingolstadt</placeName>
+               <date when="1611-07-14">14 July 1611</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Dice che ha ricevuto tutto quello che ST gli ha mandato nella sarcinula. Chiede a ST di mandargli la prefazione, che può dedicare a chi vuole, per esempio allßarcivescovo di Vienna o qualcun altro signore e che lui la avggiungerà all'edizione. La Vita Altmanni episcopi passaviensis (in ONB esistono due manoscritti: Cod. 8993 e Cod. 602: http://data.onb.ac.at/rec/AC13977006) e la Vita Ebehardi episcopi salz (ci sono 3 mss: Cod, 3662; 602; 339) dice, mi sembra, che non facciano al caso suo e chiede quindi se può mandare codici migliori e più completi. idem per altri due codici. e aggiunge che se Baronio avesse avuto a disposizione quei codici, avrebbe aggiunto queste vite ai suoi tomi XI e XII. Per quel che riguarda Goldast, ST non deve preoccuparsi, perché Gretser non sarà troppo duro con lui, anche se Goldast aveva già attaccato e continuava a attaccare Gretser, Gregorio VII e Bellarmino. Dice che Goldast ha fatto un grande uso del suo Apologia pro Gregorio VII. Pontifice Maximo. In qua insunt hactenus inedita quaedam pro eodem pontifice opuscula Bernaldi Constantiensis presbyteri, Ingolstadii 1607, Alla fine si congratula con ST per i libri arabi (quali?) e dice che aveva già fatto più volte menzione con il bibliotecario di Monaco di mandare a ST un certo codice arabo, ma non sapeva se poi lo avesse fatto.</cell>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Isaac Casaubon. 1607-08-22</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0042</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0019">
+                        <placeName>Paris</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0029">
+                        <persName>Melchior Goldast</persName>
+                     </person>
+                     <person ref="ST_Pers_0234">
+                        <persName>Plautus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">61r–61v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0042">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1607-08-22">22 August 1607</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0009">Isaac Casaubon</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+Greek</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Incipit con molti complimenti per Casaubon e le solite metafore culinarie. Dice che è il più felice di ricevere la traduzione dei Provebi arabi e che è molto curioso anche della Geographia Araba di cui gli aveva parlato e che Casaubon sarà il mistigago negli arcani delle lettere arabe (Mystagogo in arcanam harum literarum penetrare possemus). Altra bella immagine: "tu spacchi per la prima volta questo ghiaccio scivoloso e inaccessibile". Vuole procurarsi il suo lessico. e chiede di fare da intermediario con Scaligero, che va esortato a pubblicare il lessico. Parla male di Shoppe che ha parlato male di Casaubon e Scaligero. Chiede poi un catalogo dei libri orientali nella biblioteca regia di Parigi. Gli raccomanda poi Andrea Wechel (bibliotecario di francoforte a Vienna) e Marnio- e g.li chiede di salutargli Morellus e De Thou, e si mette a disposizione di entrambi per confronti e copie dalla biblioteca di vienna. Infine lo saluta chiamandolo Colonna delle lettere. [Published partly in Lambeck, according to Graevius's Casaubon edition]</cell>
+      </body>
+   </text>
+</TEI>

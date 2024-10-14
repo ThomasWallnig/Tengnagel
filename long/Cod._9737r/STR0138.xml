@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Marquard Freher. 1611-02-28</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0138</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0063">
+                        <placeName>Leiden</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0401">
+                        <persName>Johannes Cuspinian</persName>
+                     </person>
+                     <person ref="ST_Pers_0044">
+                        <persName>Wolfgang Lazius</persName>
+                     </person>
+                     <person ref="ST_Pers_0068">
+                        <persName>Konrad Rittershausen</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0115">
+                        <persName>Johannes Sambucus</persName>
+                     </person>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0402">
+                        <persName>Nicolas Haunoldt</persName>
+                     </person>
+                     <person ref="ST_Pers_0249">
+                        <persName>Ermoldus Nigellus</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">186v–186v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0138">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1611-02-28">28 February 1611</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0027">Marquard Freher</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin
+
+</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">fa riferimento a un autore menzionato da Cuspiniano , ma dice che non riesce più a trovarlo. Lamenta il destino infausto dei codici migliori che o finiscono nelle mani leste degli avidi, o cadono nell'oblio o diventano carta per il pesce. Riferimento anche alla biblioteca di Sambuco e alla negoziazione tra la vedova e Niclas Haunoldt (who Worked as a secreatary at the Royal Chamber, he was a member of several delegations to Turkey). Sulla vicenda cf. Viskolcz Noémi, The fate of Johannes Sambucus’ library (pdf su ucloud). Controllare la data della lettera. Si parla dei soliti due lessici di Scaliger, ripete la stessa cosa: Scaliger voleva farli tradurre, come testimoniano le sue lettere postume, ma non ci riuscì perché non aveva un turco</cell>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Johann Küttner von Künitz to Sebastian Tengnagel. 1621-10-15</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0166</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0165">
+                        <placeName>Valladolid</placeName>
+                     </place>
+                     <place ref="ST_Place_0016">
+                        <placeName>Madrid</placeName>
+                     </place>
+                     <place ref="ST_Place_0012">
+                        <placeName>India</placeName>
+                     </place>
+                     <place ref="ST_Place_0162">
+                        <placeName>Strait of Gibraltar</placeName>
+                     </place>
+                     <place ref="ST_Place_0146">
+                        <placeName>Flanders</placeName>
+                     </place>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0028">
+                        <placeName>Geldern</placeName>
+                     </place>
+                     <place ref="ST_Place_0026">
+                        <placeName>England</placeName>
+                     </place>
+                     <place ref="ST_Place_0077">
+                        <placeName>Marseille</placeName>
+                     </place>
+                     <place ref="ST_Place_0029">
+                        <placeName>Germany</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0717">
+                        <persName>Rodrigo Calderón</persName>
+                     </person>
+                     <person ref="ST_Pers_1075">
+                        <persName>Duque de Lerma</persName>
+                     </person>
+                     <person ref="ST_Pers_0485">
+                        <persName>Vincent Noguera</persName>
+                     </person>
+                     <person ref="ST_Pers_0718">
+                        <persName>Pedro Téllez-Girón</persName>
+                     </person>
+                     <person ref="ST_Pers_0285">
+                        <persName>Robert de Scheilder</persName>
+                     </person>
+                     <person ref="ST_Pers_0485">
+                        <persName>Vincent Noguera</persName>
+                     </person>
+                     <person ref="ST_Pers_0703">
+                        <persName>Don Juan de Persia</persName>
+                     </person>
+                     <person ref="ST_Pers_0702">
+                        <persName>Charles Bonaventure de Longueval</persName>
+                     </person>
+                     <person ref="ST_Pers_0361">
+                        <persName>Luis del Mármol Carvajal</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Diego de Torres Bollo</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737s</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">250r–250v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0166">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0721">Johann Küttner von Künitz</persName>
+               <placeName xml:id="ST_Place_0016">Madrid</placeName>
+               <date when="1621-10-15">15 October 1621</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body/>
+   </text>
+</TEI>

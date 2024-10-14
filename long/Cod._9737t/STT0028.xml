@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Jan van Wyningen to Sebastian Tengnagel. 1625-09-11</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0028</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0111">
+                        <placeName>Silesia</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0856">
+                        <persName>Jacob van Zill</persName>
+                     </person>
+                     <person ref="ST_Pers_0855">
+                        <persName>Hendrik van Dortmunt</persName>
+                     </person>
+                     <person ref="ST_Pers_0857">
+                        <persName>Fredericus Pleunis</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">50r–50v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0028">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0136">Jan van Wyningen</persName>
+               <placeName xml:id="ST_Place_0021">Prague</placeName>
+               <date when="1625-09-11">11 September 1625</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Dutch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lot: 
+Sends greetings and gratitude from himself and his sisters for Tengnagels care, assistence, etc.. Writes that he has found his sister in 'alright' health in Prague, where 'the infection' had resurfaced in her logement (not entirely clear). She is already in her 6th logement in the city. More than 12.000 people have died in the month of August - excluding 'Jews and poor'?. The city appears 'dead' because of all the deaths and the fights. Is 'traveling to Brandijs with the President'? Something about travelling and no-one being allowed to pass from October. Something about a letter to Silesia and a certain 'Jacob van Zijll' - seems to be business related, and Tengnagel seems to play a part (as a middle man?) in this correspondence. The backside is a 'wisselbrief' ('exchange letter') for a total of 59 Rijksdaalders that need to be devided amongst several people by Tengnagel. Includes a certain 'Pluenius' (?), the 'chamberlain of the President', a 'Herr Julius Soner Inu..'. Also something about a Hendrick von Dortmunt. 
+</cell>
+      </body>
+   </text>
+</TEI>

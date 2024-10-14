@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to s.n.. 1608-03-24</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STR0058</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0036">
+                        <placeName>Heidelberg</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0022">
+                        <persName>Fronton du Duc</persName>
+                     </person>
+                     <person ref="ST_Pers_0084">
+                        <persName>Georg Sturn</persName>
+                     </person>
+                     <person ref="ST_Pers_0082">
+                        <persName>Jacques Sirmond</persName>
+                     </person>
+                     <person ref="ST_Pers_0113">
+                        <persName>Johannes Chrysostomus</persName>
+                     </person>
+                     <person ref="ST_Pers_0257">
+                        <persName>Manuel Kalekas</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737r</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">86r–86r</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STR0058">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1608-03-24">24 March 1608</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="">s.n.</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">comunica che sa che Wechelus sta andando presso il destinatario. Ho scritto a te tramite Hoeschel. Kirsten mi ha fatto sapere che lui manderà un suo uomo a Heidelberg per ottenere i libri arabi. Io non so per mezzo di quale catalogo ne sia venuto a conoscenza, io di sicuro non ho fatto parola con lui di questi testi, cose che aggiungo afficnhé tu non imputi a me qualcosa se per caso questa informazione non andava diffusa. Se indovino bene Magisero il quale, secondo Kirstein, ha cercato di stampare nella tipografia di &lt;Kirsten le sue cose turco-arabiche; forse è stato lui a dirgli dei libri di Heidelberg. Qui intanto è tornata la pace, ed è ben stabile. Bisogna pregare Dio che possa durare e fiorire. Se tu volessi, ti prometto che la nostra biblioteca è a tua disposizione. I miei auguri che Dio ti conceda le forze per porre mano alle tue opere del tuo ingegno, delizia per gli uomini sofistificati e disprezzati dai beoti nati per il vile bronzo (denaro?). Porta i miei saluti e ossequi a Frehero e Georg Michael Lingelsheim. dunque sta scrivendo a qualcuno a Heidelberg, immagino sia Gruter? 
+
+H. Megiser aveva vissuto in Italia e a Malta e nel 1612 pubblica a Leipzig (ma glielo stampa Kirstenius) Institutionum linguae turcicae libri quatuor. Dedica l'opera a Mattia II re di Ungheria e giustifica lo studio del turco per ragioni pragmatiche e ovviamente anche religiose (ad propagandam inter gentes illas Mahumetanas, religionem Christianam, et ad refutandum nefarias et abominabiles Alcorani nugas et blasphemias. Ego itaque, utm ut publicam utilitatem quadamtenus juvarem). Turco come lingua dell'impero? Azzardato dirlo, ma come lingua utile da conoscere anche per gli amministratori e non solo per i religiosi penso che si possa dire. L'operetta, oltre alla grammatica e al dizionatio, contiene la traduzione traslitterata di alcune preghiere cristiane e una serie di proverbi (sempre traslitterari in alfabeto latino) tradotti in latino, tedesco e italiano. Sulla copia all'ONB non ci sono note di possesso: http://data.onb.ac.at/rec/AC10111502</cell>
+      </body>
+   </text>
+</TEI>

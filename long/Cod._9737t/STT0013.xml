@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Michel D'Asquier to Sebastian Tengnagel. 1625-04-04</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0013</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0168">
+                        <placeName>Buda</placeName>
+                     </place>
+                     <place ref="ST_Place_0192">
+                        <placeName>Esztergom</placeName>
+                     </place>
+                     <place ref="ST_Place_0193">
+                        <placeName>Giarmata</placeName>
+                     </place>
+                     <place ref="ST_Place_0196">
+                        <placeName>Tokat</placeName>
+                     </place>
+                     <place ref="ST_Place_0194">
+                        <placeName>Asia</placeName>
+                     </place>
+                     <place ref="ST_Place_0195">
+                        <placeName>Diyarbakir</placeName>
+                     </place>
+                     <place ref="ST_Place_0020">
+                        <placeName>Persia</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0841">
+                        <persName>Giovanni Paolo</persName>
+                     </person>
+                     <person ref="ST_Pers_0840">
+                        <persName>Çerkes Mehmed Pasha</persName>
+                     </person>
+                     <person ref="ST_Pers_0842">
+                        <persName>Hafız Ahmed Pasha</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">22r–23v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0013">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0017">Michel D'Asquier</persName>
+               <placeName xml:id="ST_Place_0191">Komárom</placeName>
+               <date when="1625-04-04">4 April 1625</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Italian</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">interessantissima. Allude al fatto che ST stesse scrivendo una storia ottomana contemporane (possibile?): 
+Mosso adunque di questo parere, per poter con la presente occasione trovare qualche luoco nell'Historie de tempi nostri, che so lei va tessendo tuttavia et rendermi immortale col suo mezo,
+
+passa quindi a parlare delle trattative con gli ottomani e allude ai "travagli che i turchi hanno in Asia ai quali si è aggiunto la.morte di Mehmet bassa gran vesir 
+
+Si teme di maggior progresso del Persiano, dal quale è stato visto 
+un Ambasciadore Turco chiamato Tocacli(?) Mehemet Ciausch 
+
+Alam fine allusione preoccupata alla salute di ST, che stava così.male da non poter scrivere. 
+Historie dei tempi nostri 
+
+USO IN AGENTS</cell>
+      </body>
+   </text>
+</TEI>

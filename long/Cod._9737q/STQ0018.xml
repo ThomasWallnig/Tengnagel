@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to [Samuel Slade]. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0018</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0002">
+                        <placeName>Augsburg</placeName>
+                     </place>
+                     <place ref="ST_Place_0026">
+                        <placeName>England</placeName>
+                     </place>
+                     <place ref="ST_Place_0002">
+                        <placeName>Frankfurt</placeName>
+                     </place>
+                     <place ref="ST_Place_0022">
+                        <placeName>Rome</placeName>
+                     </place>
+                     <place ref="ST_Place_0014">
+                        <placeName>Istanbul</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0039">
+                        <persName>David Hoeschel</persName>
+                     </person>
+                     <person ref="ST_Pers_0141">
+                        <persName>Panisotus Simoni</persName>
+                     </person>
+                     <person ref="ST_Pers_0130">
+                        <persName>Arrian of Nicomedia</persName>
+                     </person>
+                     <person ref="ST_Pers_0128a">
+                        <persName>Epictetus</persName>
+                     </person>
+                     <person ref="ST_Pers_0129">
+                        <persName>Procopius of Caesarea</persName>
+                     </person>
+                     <person ref="ST_Pers_0140">
+                        <persName>João de Barros</persName>
+                     </person>
+                     <person ref="ST_Pers_0142">
+                        <persName>Alfonso de Ulloa</persName>
+                     </person>
+                     <person ref="ST_Pers_0041">
+                        <persName>Petrus Kirstenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0139">
+                        <persName>Avicenna</persName>
+                     </person>
+                     <person ref="">
+                        <persName>Saadiak Haggam</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">31v–32v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0018">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0083">[Samuel Slade]</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin, Greek, Hebrew</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Lettera imporante. dovrebbe essere a Slade. ST informa del prestito a Kirstenius (descritto come "auctor et medicus vratislaniensis multarum linguarum callens et Arabice unice deditus) dei mss per scrivere la grammatica araba. Chiede se conosce qualche medico ebreo in grado di fargli da copista di arabo e gli chiede di chiedere al suo precettore di ebraico, il rabbi Leo. Chiede anche di interpretare alcune parti del pentateuco che fu di Scaligero (?). C'è un rigo in un alfabeto che non so distinguere. Chiedere a Hulya.  USARE IN AGENTS O CHRISTIANITY. a proposito dei COPISTI!</cell>
+      </body>
+   </text>
+</TEI>

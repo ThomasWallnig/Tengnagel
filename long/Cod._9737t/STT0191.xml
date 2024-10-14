@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Avraham ben Efrayim Schlüter to Sebastian Tengnagel. 1603-07-09</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STT0191</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <listBibl type="mentioned">
+                  <bibl xml:id="ST_">
+                     <title/>
+                  </bibl>
+               </listBibl>
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson/>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737t</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">304r–304v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STT0191">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_1000">Avraham ben Efrayim Schlüter</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="1603-07-09">9 July 1603</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Hebrew</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">DA GIACOMO CORAZZOL:
+
+Lettera di Avraham ben Efrayim Schlüter(?) Niederländer Sofer [Sofer vuol dire copists], a Sebastian. La lettera, datata lunedì 1 Av 5363 [= 9 luglio 1603], è spedita da Vienna 
+
+le prime tre righe sono dei versi in cui ogni emistichio inizia con una lettera che compone il nome proprio di Sebastianum. Quindi è un acrostico. SBS - TIA - NUM. Nel quarto verso domanda retorica con soluzione dell'acrostico perché dice: si tratta del grande Sebastiano
+Aggiunge che ha voluto omaggiarlo con i suoi versi per esprimergli il suo affetto 
+
+Quello che sappiamo del mittente: è un copista attivo a Vienna. Si firma in un certo modo ma è conosciuto (cf. attergato di ST) come Abramo di Bonn. 
+
+la lettera è scritta in ebraico quadrato, ed è una grafia askenazita 
+
+AGENTS!! da mettere in connessione con la lettera in cui ST chiede di pagare un copista per l'ebraico.</cell>
+      </body>
+   </text>
+</TEI>

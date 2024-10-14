@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Jan van Wyningen to Sebastian Tengnagel. 1620-06-10</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STS0144</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace>
+                     <place ref="ST_Place_0096">
+                        <placeName>The Hague</placeName>
+                     </place>
+                     <place ref="ST_Place_0063">
+                        <placeName>Leiden</placeName>
+                     </place>
+                     <place ref="ST_Place_0030">
+                        <placeName>Venice</placeName>
+                     </place>
+                     <place ref="ST_Place_0147">
+                        <placeName>Rhine</placeName>
+                     </place>
+                     <place ref="ST_Place_0148">
+                        <placeName>Bacharach</placeName>
+                     </place>
+                  </listPlace>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0026">
+                        <persName>Thomas Erpenius</persName>
+                     </person>
+                     <person ref="ST_Pers_0680">
+                        <persName>Petrus Bertius</persName>
+                     </person>
+                     <person ref="ST_Pers_0678">
+                        <persName>Luis de Velasco y Velasco</persName>
+                     </person>
+                     <person ref="ST_Pers_0006">
+                        <persName>Johannes Borelius</persName>
+                     </person>
+                     <person ref="ST_Pers_0677">
+                        <persName>Ambrogio Spinola</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737s</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">211r–211v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STS0144">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0136">Jan van Wyningen</persName>
+               <placeName xml:id="ST_Place_0037">Amsterdam</placeName>
+               <date when="1620-06-10">10 June 1620</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Dutch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Thanks Tengnagel again for procuration and hard work. Says that they will happily pay him whatever he desires. Writes that 'Petrus Bertius' had indeed become a Catholic. Has not heard of Erpenius returning yet. Has asked someone from Leiden to immediately write him if this is the case. Will ask someone in The Hague to enquire if I. (or J.?) Borelius is still alive. Marquis Spinola has taken Bacherach, and the other Pals cities around the Rhine will likely follow soon. Also rumours that he has taken Frankendal, but no confirmation. Has also one Cruijtsnach, Alzum and Oppenheijm. English ambassadeur is said to go back and forth between Spinola's two armies and that of the German rulers. Maurits and Hendrick van Nassau leading armies (mentions a lot of numbers of German, Dutch, and English forces in Hendrick's army and writes Maurits' army is really small). Cannot get over the Moessel, but have gone over Rhine. Something about Louis de Velasco again. Soldiers are treasoning as Italians and French (?). States have called in a Venetian ambassadeur who is expected in Den Haag soon. Rumours that the Venetians will join 'our war'.</cell>
+      </body>
+   </text>
+</TEI>

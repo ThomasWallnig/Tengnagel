@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc xml:id="STqrst">
+         <titleStmt>
+            <title type="main">Sebastian Tengnagel to Cornelis van der Myle. s.d.</title>
+            <respStmt>
+               <persName>
+                  <surname>Petrolini</surname>
+                  <forename>Chiara</forename>
+               </persName>
+               <resp>Data acquisition</resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Wallnig</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <resp>Data curation</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Tengnagel Correspondence Data</edition>
+            <principal>
+               <forename>Thomas</forename>
+               <surname>Wallnig</surname>
+            </principal>
+            <funder ref="https://www.fwf.ac.at/forschungsradar/10.55776/P30511">FWF P 30511</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Phaidra</orgName>
+               <ref target="https://phaidra.univie.ac.at/">https://phaidra.univie.ac.at/</ref>
+            </publisher>
+            <date type="first" when="2024">2024</date>
+            <pubPlace>Vienna</pubPlace>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <idno>STQ0007</idno>
+            <idno type="URI">http://XYZ</idno>
+         </publicationStmt>
+         <notesStmt>
+            <noteGrp type="mentions">
+               <note>
+                  <listPlace/>
+               </note>
+               <note>
+                  <listPerson>
+                     <person ref="ST_Pers_0004">
+                        <persName>Hugo Blotius</persName>
+                     </person>
+                     <person ref="ST_Pers_0072">
+                        <persName>Joseph Justus Scaliger</persName>
+                     </person>
+                     <person ref="ST_Pers_0031">
+                        <persName>Jan Gruter</persName>
+                     </person>
+                     <person ref="ST_Pers_0035">
+                        <persName>Daniel Heinsius</persName>
+                     </person>
+                     <person ref="ST_Pers_0006">
+                        <persName>Johannes Borelius</persName>
+                     </person>
+                  </listPerson>
+               </note>
+            </noteGrp>
+            <noteGrp type="editorial"/>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc type="composite">
+               <msIdentifier facs="http://data.onb.ac.at/rep/10028395">
+                  <institution>Austrian National Library</institution>
+                  <repository>Department of Manuscripts and Rare Books</repository>
+                  <idno type="shelfmark">Cod. 9737q</idno>
+               </msIdentifier>
+            </msDesc>
+            <bibl>
+               <biblScope unit="page">15r–15v</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="Tengnagel">letter</classCode>
+         </textClass>
+         <correspDesc ref="STQ0007">
+            <correspAction type="sent">
+               <persName xml:id="ST_Pers_0070">Sebastian Tengnagel</persName>
+               <placeName xml:id="ST_Place_0001">Vienna</placeName>
+               <date when="s.d.">s.d.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName xml:id="ST_Pers_0112">Cornelis van der Myle</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language>Latin</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <cell style="font-size: 11pt;">Cornelis Van der Myle, affiliato a Grozio e Vulcanio. Lettera importante. trascritta rapidamente, da controllare e poi tradurre. Bella espressione sugli studi arabi: abstrusas illas Arabicarum litterarum fodinas investigo. Chiede di prestargli i lessici usati da Scaligero. Del fatto che io ti disturbi con le mie letterine insulse e che per di più proprio nell'atrio del discorso, per così dire, io aggiunga anche una richiesta ben poco modesta, è responsabile quella tua straordinaria benevolenza che mentre salutavi qui Blozio sul momento di tornare in Italia è apparsa chiarissima da segnali per niente oscuri da quel tuo chiaro volto. Lo straordinario zelo con il quale io continuo a investigare quelle miniere nascoste delle lettere arabe , dal momento un'enorme quantità di esse è stata riposta e lasciata dal vostro grande scaligero sui monti di Lione. Guidato, o Tua Eccellenza, dal tuo filo d'Arianna e dai tuoi auspici, per quanto sia possibile e lecito, per indagare le vene di quelle miniere, ho stabilito di **. E se su questa cosa ti sembra che io abbia la faccia troppo tosta, anche questo ti prego di imputarlo benevolmente alla tua stessa umanità/affabilità, che mi trascina pur riluttante, quasi imponendomi la mano, e anche all'amore per le lingue orientali. Ma per non farla lunga, VC, sappi questo: nella vostra biblioteca scaligeriana, in mezzo agli altri monumenti di queste lingue esotiche, c'è un lessico arabo-turco e uno persiano-turco; della traduzione di questi, quell'incomparabile eroe, finché era in vita, lamentava la mancanza, com'è evidente dalle sue lettere postume; di questi due lessici, quindi, io ti chiedo che mi sia possibile ottenere l'uso, anche solo per pochi mesi, grazie al tuo favore e autorità e con una adeguata cauzione; io tenterei di copiarli per il mio utilizzo e dopo averne tratto una versione latina, di restituirteli, sani e salvi, con grandissima gratitudine e il primo possibile. Se una qualche difficoltà dovesse sorgere nel trasmetterli, i codici potranno essere affidati in tutta sicura a Jan Gruter, bibliotecario palatino mio cassimo amico che generosamente ha fornito libri arabi rari e di grande importanza ai miei studi. Ho scritto anche riguardo alla fiera precedente a Heinsius, ma finora non mi ha risposto. Anche Gruter ha promesso che in futuro sarà intermediario a mio nome presso di te o presso un altro tra i curatori. Ti prego perciò, se c'è spazio per le preghiere, con il valido peso della tua autorità e del tuo favore, di sostenermi e di non sprezzare di adornare i miei studi con il tuo illustre beneficio. Vorrei anche, se possibile, manifestare il mio saluto e la mia devozione, a Giovanni Borrelio, un tempo tuo compagno, al quale vorrei chiedere in quale delle due lingue orientali è esperto.  CHRISTIANITY, HULYA (Lexicon Scaliger)  Borelius: Nessun notizia nei file autorità, ma è spesso nominato negli studi su Grotius. All'orientalista Petrus Cunaeus quale consegna nel 1614 l'edizione della Mishneh Torah pubblicata a Venezia nel 1574. Aveva viaggiato in Siria e in Palestina, paesi dai quali riportò libri. Passò poi al servizio di Giacomo I. Johann Boreel è il suo nome olandese. Era irentista e universalista 
+</cell>
+      </body>
+   </text>
+</TEI>
