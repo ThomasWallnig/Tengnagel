@@ -84,7 +84,7 @@
          <correspDesc ref="STQ0011">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0016">Pierre Coton</persName>
-               <placeName xml:id="ST_Place_0006">Paris</placeName>
+               <placeName xml:id="ST_Place_0019">Paris</placeName>
                <date when="1612-10-29">29 October 1612</date>
             </correspAction>
             <correspAction type="received">
