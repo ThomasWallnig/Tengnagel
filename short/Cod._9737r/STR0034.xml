@@ -94,7 +94,7 @@
                <date when="1607-01-07">7 January 1607</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST_Pers_0070 ST_Pers_0004">Hugo Blotius, Sebastian Tengnagel</persName>
+               <persName xml:id="ST_Pers_0070">[Hugo Blotius], Sebastian Tengnagel</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
