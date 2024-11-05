@@ -65,16 +65,13 @@
                      <person ref="ST_Pers_0465">
                         <persName>Arnold Willelms</persName>
                      </person>
-                     <person ref="">
-                        <persName> Raphelengius (non Francesco, un successore nella stamperia) - </persName>
-                     </person>
                      <person ref="ST_Pers_0026">
                         <persName>Thomas Erpenius</persName>
                      </person>
                      <person ref="ST_Pers_0466">
                         <persName>Theophrastus</persName>
                      </person>
-                     <person ref="">
+                     <person ref="ST_Pers_0066">
                         <persName>Franciscus Raphelengius</persName>
                      </person>
                   </listPerson>
