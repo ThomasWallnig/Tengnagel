@@ -78,7 +78,7 @@
          <correspDesc ref="STR0185">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0059">Péter Pázmány</persName>
-               <placeName xml:id="ST_Place_0098">Szerdahely</placeName>
+               <placeName xml:id="ST_Place_0055">Szerdahely</placeName>
                <date when="1613-09-09">9 September 1613</date>
             </correspAction>
             <correspAction type="received">
