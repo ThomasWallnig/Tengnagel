@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0276">
+                        <title>Iudicium orientalis ecclesiae super Augustana confessione</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0278">
+                        <title>Christoph Clavius, Epitome arithmeticae practicae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

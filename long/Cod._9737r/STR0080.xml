@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0093">
+                        <title>Libellum sive Turcicum sive Arabicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0094">
+                        <title>Pentateuch in Hebrew</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0069">

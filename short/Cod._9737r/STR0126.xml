@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0130">
+                        <title>Vetus Testamentum vel pars testamenti in lingua Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0129">
+                        <title>Chronica de rebus gestis Persarum, Tatarorum, familiae Osmanidarum vel Calipharum qui ante Osmanidas imperium</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0131">
+                        <title>Dictionaria lugat Arabi, lugat Pfarsi</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0014">
                         <placeName>Istanbul</placeName>

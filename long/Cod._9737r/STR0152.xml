@@ -42,11 +42,28 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0001">
+                        <title>Adelboldus Traiectensis, Vita imperatoris Henrici II</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0176">
+                        <title>Fabula de Joanna papa</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0166">
+                        <title>Jacob Gretser, Divi Bambergenses, S. Henricus imperator, S. Kunegundis imperatrix, S. Otho episcopus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0019">
+                        <title>Vita Othonis Bambergensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0169">
+                        <title>Jacob Gretser, Summula casuum conscientiae de sacramentis pro sectariis praedicantibus tam urbanis et oppidanis</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0021">

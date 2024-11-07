@@ -42,11 +42,20 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0124">
+                        <title>Pedro Teixeira, Relaciones De Pedro Teixeira D'el origen descendencia y succession de los reyes de Persia, y de Harmuz</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0187">
+                        <title>Chronicon Teimur Langhi, et Tatarorum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0188">
+                        <title>Mirchond, Rawżat aṣ-ṣafāʾ
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0060">

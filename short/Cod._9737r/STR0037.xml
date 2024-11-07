@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

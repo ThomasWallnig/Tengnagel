@@ -42,11 +42,32 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0112">
+                        <title>Petrus Kirstenius, Lexicon Arabicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0070">
+                        <title>Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0072">
+                        <title>al-Arbaʿa al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0113">
+                        <title>Pentateuchus Palatinus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0114">
+                        <title>Joseph Justus Scaliger, Opuscula varia antehac non edita</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0115">
+                        <title>Johannes Leunclavius, Neuwe Chronica Türckischer nation</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0036">

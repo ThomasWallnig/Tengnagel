@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0251">
+                        <title>Gulistān</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0005a">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0262">
                         <placeName>Göppingen </placeName>

@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0019">
+                        <title>Vita Othonis Bambergensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0034">
+                        <title>Raphelengii Glossarium latino Arabicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0033">
+                        <title>MS Scaligeriana</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

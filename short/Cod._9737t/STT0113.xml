@@ -43,6 +43,43 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0244">
+                        <title>Pietro Della Valle, Professio Fidei Mahammedanorum duplex apud me est altera nimirum Sonnitarum, qui sunt Turcae, altera Sciaitarum qui Persae, utraque compendiosa</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0243">
+                        <title>Qur'an in Persian</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0141">
+                        <title>Pentateuch in Arabic</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0238">
+                        <title>Fīrūzābādī, al-Qāmus al-Muḥ
+                  ī
+                  ṭ
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0239">
+                        <title>al-Jawhari, al-Ṣiḥ
+                  ā
+                  ḥ
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0240">
+                        <title>Dottrina Christiana di P. Giesuiti in Lahor (Dittionario Persiano et Italiano)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0241">
+                        <title>Muḥammad Qāsim ibn Ḥājjī Muḥammad Surūrī, Farhang-i Surūrī</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0245">
+                        <title>Al-Istahri, Kitāb al-Masālik wa-l-mamālik</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0031">
                         <placeName>Cologne</placeName>

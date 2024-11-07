@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0219">
+                        <title>Quattuor tractatus insignis Nebulonis qui se Prophetam dicit</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0190">
                         <placeName>Geneva</placeName>

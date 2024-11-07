@@ -43,6 +43,29 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0023">
+                        <title>João de Barros, L'Asia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0021">
+                        <title>Petrus Kirstenius, Grammatices Arabicae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0024">
+                        <title>Euclid, Kitāb taḥ
+                  rīr usūl li-Uqlīdis min ta
+                  ʾ
+                  līf 
+                  ̮
+                  Hwaǧa Nasīr-ad-dīn a
+                  ṭ
+                  -
+                  Ṭ
+                  ūsī. Euclidis Elementorum geometricorum libri tredecim
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0002">
                         <placeName>Augsburg</placeName>

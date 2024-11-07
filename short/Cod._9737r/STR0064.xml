@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0079">
+                        <title>Victor Scialac, Gregorius Sanctus Episcopus Nyssenus, Cyrillus Archiepiscopus Alexandrinus. Liturgiae ex Arabico conversae a Victorio Scialach</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0080">
+                        <title>Caspar Schoppe, Scaliger Hypobolimaeus hoc est elenchus epistolarum Josephi Burdonis pseudo Scaligeri</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0022">
                         <placeName>Rome</placeName>

@@ -42,11 +42,22 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0142">
+                        <title>Raphael Holinshead, Chronicles, comprising The description and historie of England</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0143">
+                        <title>John Florio, Queen Anna's new world of words, or dictionarie of the Italien and English tongues</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0144">
+                        <title>Richard Knolles, The generall historie of the Turkes</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0145">
+                        <title>Catalogum librorum Graecorum (Vienna)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0045">

@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0262">
+                        <title>Jean de Chokier, Thesaurus politicorum aphorismorum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0263">
+                        <title>Dietenberger Bible</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

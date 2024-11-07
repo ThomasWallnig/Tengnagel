@@ -42,11 +42,13 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0005a">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0226">
+                        <title>Giovanni Battista Ferrari, Nomenclator Syriacus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0225">
+                        <title>Refutations of the Qur'an</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0022">
                         <placeName>Rome</placeName>

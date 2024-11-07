@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0053">
+                        <title>Dictionarium Arabico-Latinum quinque vocabolorum millibus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0054">
+                        <title>Grammatica Arabica</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0023">
                         <placeName>Rome</placeName>

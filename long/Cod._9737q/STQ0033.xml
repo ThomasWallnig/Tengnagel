@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0043">
+                        <title>Gregory of Nyssa, Homilia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0042">
+                        <title>Conradus Pelicanus, Commentaria</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0044">
+                        <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0019">
                         <placeName>Paris</placeName>

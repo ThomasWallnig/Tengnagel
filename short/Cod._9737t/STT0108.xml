@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0236">
+                        <title>Wilhelm Schickard, Tarich h.e. Series Regum Persiae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0217">
+                        <title>Muhammad al-Idrisi / Gabriel Sionita, Geographia Nubiensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0237">
+                        <title>Wilhelm Schickard, Bechinath Happeruschim Hoc est Examinis Commentationum Rabbinicarum in Mosen Prodromus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0057">
                         <placeName>Tübingen</placeName>

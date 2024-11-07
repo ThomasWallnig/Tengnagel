@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0044">
+                        <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0105">
                         <placeName>Brussells</placeName>

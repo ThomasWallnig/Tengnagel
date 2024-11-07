@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0221">
+                        <title>Adam Reusner, Jerusalem</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0222">
+                        <title>Jacob Ziegler / Wolfang Weyssenburger, Terrae Sactae descriptio</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0223">
+                        <title>Guillaume Postel, Syriae descriptio</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

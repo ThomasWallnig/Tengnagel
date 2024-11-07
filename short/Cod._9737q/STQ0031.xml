@@ -43,6 +43,22 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0035">
+                        <title>De thesauro linguae Arabicae, Alcamusi nomine</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0036">
+                        <title>SS. Patrum monumenta</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0037">
+                        <title>Joan Baptista Raymundi bibliothecae indicem</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0038">
+                        <title>Opus Veteris Testamenti Arabicum, praecipue Prophaetae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0022">
                         <placeName>Rome</placeName>

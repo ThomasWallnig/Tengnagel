@@ -42,11 +42,20 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0070">
+                        <title>Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0113">
+                        <title>Pentateuchus Palatinus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

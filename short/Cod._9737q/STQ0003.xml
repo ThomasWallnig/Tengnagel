@@ -43,6 +43,34 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0006">
+                        <title>Vita SS Patrum incipienda a Testamento veteri</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0007">
+                        <title>Muḥammad al-Buchārī, Libri aliqui Buchari auctore Mahomede</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0008">
+                        <title>IV Evangelia ex interpretatione diversa a Vulgata</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0009">
+                        <title>Pentateuchus Moisis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0003">
+                        <title>Epistula S. Pauli</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0010">
+                        <title>Dictionarium Latino-Syriacum cum interpretatione Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0014">
+                        <title>Pentateuchus Arabice Hebraice Chaldaice et Persice</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0013">
+                        <title>Chronica Reichersbergensis</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

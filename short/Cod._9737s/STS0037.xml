@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0203">
+                        <title>Jacob Gretser, Admonitio ad exteros de Bibliis Tigurinis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0253">
+                        <title>Cesare Baronio, Annales ecclesiastici</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

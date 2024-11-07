@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0200">
+                        <title>Biblia regia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0190">
+                        <title>Salomon Schweigger, Ein newe Reyßbeschreibung auß Teutschland nach Constantinopel und Jerusalem</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0191">
+                        <title>Neue Reysbeschreibung eines gefangenen Christen</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0075">
                         <placeName>Nuremberg</placeName>

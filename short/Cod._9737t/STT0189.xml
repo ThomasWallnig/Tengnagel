@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0141">
+                        <title>Pentateuch in Arabic</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0065">
+                        <title>al-Makīn Ibn al-ʿ
+                  Amīd, Tārī
+                  ḫ
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

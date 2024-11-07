@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0146">
+                        <title>Lexicon Arabice</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0147">
+                        <title>Old Testament in Arabic</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

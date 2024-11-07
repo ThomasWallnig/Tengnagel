@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0206">
+                        <title>Thomas Erpenius, Historia Josephi patriarchae ex Alcorano</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0224">
+                        <title>Gerhard Johannes Vossius, Oratio in obitum Thomae Erpenii</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0208">
                         <placeName>St. Gallen</placeName>

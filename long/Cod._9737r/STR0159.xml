@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0174">
+                        <title>Murad Beg, Kitāb-i Tesvīyetü l- Teveccüh ilā l-Ḥ
+                  a
+                  ḳḳ
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

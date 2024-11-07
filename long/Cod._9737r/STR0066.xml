@@ -42,11 +42,37 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0084">
+                        <title>Leon Modena, Ḥ
+                  ele
+                  ḳ
+                   rishon mi-sefer midbar Yehudah
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0085">
+                        <title>Giovanni Tommaso Minadoi, Historia della guerra fra Turchi et Persiani</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0086">
+                        <title>Francesco Sansovino, Delle cose notabili che sono in Venetia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0087">
+                        <title>Ibn al-Hâjib, Kāfīya li-Ibn al-Ḥ
+                  āǧib : Grammatica Arabica dicta Caphiah, auctore filio Alhagiabi
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0088">
+                        <title>Mohammed ibn Adjurrum, Kitāb al-Āǧurrūmīya / Grammatica Arabica in compendium redacta, quae vocatur Giarrumia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0024">
+                        <title>Euclid, Kitāb taḥrīr usūl li-Uqlīdis min taʾlīf ̮Hwaǧa Nasīr-ad-dīn aṭ-Ṭūsī. Euclidis Elementorum geometricorum libri tredecim</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0089">
+                        <title>Avicenna, Kutub al-qānūn fi 'ṭ-ṭibb li Abū ʿAlī ar-raʾīs Ibn Sīnā / Libri quinque Canonis Medicinae Abu Ali principis filii Sinae alias corrupte Avicennae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0030">

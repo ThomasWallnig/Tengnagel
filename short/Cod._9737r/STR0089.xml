@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0098">
+                        <title>Song of Songs</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0097">
+                        <title>Book of Proverbs</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0096">
+                        <title>Book of Wisdom</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0068">
                         <placeName>Library of Vienna</placeName>

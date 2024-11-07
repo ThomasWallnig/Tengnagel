@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0040">
+                        <title>Christoph Gewold, De Sacri Romani Imperii septemviratu commentarius</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0039">
+                        <title>Thomas Ebendorfer, Chronicon Austriae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

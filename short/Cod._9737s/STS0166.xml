@@ -43,6 +43,9 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl/>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0165">
                         <placeName>Valladolid</placeName>

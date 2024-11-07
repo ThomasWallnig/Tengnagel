@@ -43,6 +43,25 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0114">
+                        <title>Joseph Justus Scaliger, Opuscula varia antehac non edita</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0066a">
+                        <title>Adagia Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0119">
+                        <title>Lexicon Arabico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0120">
+                        <title>Lexicon Persico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0122">
+                        <title>Cathologum libroum Constantinopoli venalium manuscriptorum in linguis Graeca, Syra, Hebraica, Arabica, Persica, Turcica vel Chaldaica</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

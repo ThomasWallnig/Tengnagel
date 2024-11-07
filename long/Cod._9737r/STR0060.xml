@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0076">
+                        <title>Konrad Rittershausen, Vota viatica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0078">
+                        <title>Isidorus Pelosiota, Epistolae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0077">
+                        <title>Scipione Gentili, In L. Apuleii Apologiam, qua se ipse defendit publico de magia judicio, commentarius</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0022">

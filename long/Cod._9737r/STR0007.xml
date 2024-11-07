@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0052">
+                        <title>Historia Apollonii regis Tyri</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0051">
+                        <title>Chronica a mundi initia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0050">
+                        <title>Andreas of Regensburg, Chronicon de principibus terrae Bavarorum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

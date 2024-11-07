@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0103">
+                        <title>Athanasius of Alexandria, Vita S. Antonii eremitae a D. Athanasio Graece scripta, cum Davidis Hoeschelii interpretatione ac notis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0104">
+                        <title>Anna Comnena, Alexiados Libri VIII.  ab Anna Comnena de rebvs a patre gestis scripti, nunc primum a Dauide Hoeschelio editi</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0105">
+                        <title>Sirach</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

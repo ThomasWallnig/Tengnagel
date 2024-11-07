@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0227a">
+                        <title>Moses Majmonides, Moreh ha-nevukhim (in Arabic)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0274">
+                        <title>Pentateuch in Samaritan</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0275">
+                        <title>Pentateuch of Rabbi Se’adyah</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

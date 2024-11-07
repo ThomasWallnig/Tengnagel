@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0216">
+                        <title>Evangelium Aethiopicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0215">
+                        <title>Rutger Spey, Risālat Būlus ar-rasūl ilā ʾahl Ġalāṭiya. Epistola Pauli ad Galatas, item sex primaria capita Christianae religionis Arabice</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0071">
+                        <title>Johann Albrecht Widmannstetter / Moses of Mardin, Liber sacrosancti Evangelii de Jesu Christo characteribus et lingua Syra expressa</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0001">
                         <placeName>Vienna</placeName>

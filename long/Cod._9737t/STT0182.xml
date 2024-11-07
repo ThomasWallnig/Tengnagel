@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0270">
+                        <title>Ovid, Fasti</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0271">
+                        <title>Johann Rasch, Calendarium Romanum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

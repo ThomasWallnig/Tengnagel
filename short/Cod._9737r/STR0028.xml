@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0061">
+                        <title>Georg Weigenmaier, Lexicon Arabicum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0057">
                         <placeName>Tübingen</placeName>

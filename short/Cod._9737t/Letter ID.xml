@@ -43,6 +43,9 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl/>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="">
                         <placeName>Places</placeName>

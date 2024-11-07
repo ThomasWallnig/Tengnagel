@@ -43,6 +43,22 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0061">
+                        <title>Georg Weigenmaier, Lexicon Arabicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0065">
+                        <title>al-Makīn Ibn al-ʿ
+                  Amīd, Tārī
+                  ḫ
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0273">
+                        <title>Jan Gruter, Duodecim Panegyrici veteres emendati, aucti</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0168">
                         <placeName>Buda</placeName>

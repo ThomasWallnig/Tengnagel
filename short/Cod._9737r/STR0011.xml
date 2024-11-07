@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0055">
+                        <title>Jacques-Marie d'Amboise, De rebus creatis et eorum creatore liber tripertitus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0008">
                         <placeName>Frankfurt am Main</placeName>

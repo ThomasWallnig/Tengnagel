@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0183">
+                        <title>Tagrum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0005a">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0236">
+                        <title>Wilhelm Schickard, Tarich h.e. Series Regum Persiae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0261">

@@ -43,6 +43,28 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0006">
+                        <title>Vita SS Patrum incipienda a Testamento veteri</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0007">
+                        <title>Muḥammad al-Buchārī, Libri aliqui Buchari auctore Mahomede</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0008">
+                        <title>IV Evangelia ex interpretatione diversa a Vulgata</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0009">
+                        <title>Pentateuchus Moisis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0010">
+                        <title>Dictionarium Latino-Syriacum cum interpretatione Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0011">
+                        <title>Institutionum Muhammedis expositio Hebraice </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0003">
                         <placeName>Bavaria</placeName>

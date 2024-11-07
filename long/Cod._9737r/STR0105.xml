@@ -43,6 +43,29 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0020">
+                        <title>Petrus Kirstenius, Vitae Evangelistarum quatuor: nunc primum ex codice manuscripto Arabico caesareo erutae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0021">
+                        <title>Petrus Kirstenius, Grammatices Arabicae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0100">
+                        <title>Petrus Kirstenius, Liber de vero usu et abusu medicinae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0101">
+                        <title>Petrus Kirstenius, Trewe Warnung von rechtem Gebrauch und Mißbrauch der Artzney</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0070">
+                        <title>Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0040">
                         <placeName>Syria</placeName>

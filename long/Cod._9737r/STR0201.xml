@@ -42,11 +42,22 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0005a">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0197">
+                        <title>Theophrastus / Daniel Heinsius, Theophrastou tou Eresiou Hapanta</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0120a">
+                        <title>Lexicon Persico Turcicum (Leiden)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0120b">
+                        <title>Lexicon Persico Turcicum (Vienna)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0146">
+                        <title>Lexicon Arabice</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0147">
+                        <title>Old Testament in Arabic</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

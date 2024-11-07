@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0001">
+                        <title>Adelboldus Traiectensis, Vita imperatoris Henrici II</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0171">
+                        <title>Epistolae pontificium ad Pipinum et Carolum Magnum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0001">

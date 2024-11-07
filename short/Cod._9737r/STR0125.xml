@@ -43,6 +43,28 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0126">
+                        <title>Luis de Guzmám, Historia de las missiones que han hecho los religiosos de la Compania de Jesus, para predicar el sancto Evangelio en la India Oriental y en los reynos de la China y Iapon</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0127">
+                        <title>Antonio de Herrera y Tordesillas, La Historia General del Mundo</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0128">
+                        <title>Antonio de San Roman, Historia general de la India Oriental</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0116">
+                        <title>João de Barros / Alfonso de Ulloa, L'Asia del S. Giovanni, consigliero del christianissimo re di Portogallo</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0124">
+                        <title>Pedro Teixeira, Relaciones De Pedro Teixeira D'el origen descendencia y succession de los reyes de Persia, y de Harmuz</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0125">
+                        <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

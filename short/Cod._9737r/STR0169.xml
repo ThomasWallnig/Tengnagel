@@ -43,6 +43,20 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0070">
+                        <title>Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0113">
+                        <title>Pentateuchus Palatinus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

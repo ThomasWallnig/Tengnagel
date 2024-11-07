@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0236">
+                        <title>Wilhelm Schickard, Tarich h.e. Series Regum Persiae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0057">
                         <placeName>Tübingen</placeName>

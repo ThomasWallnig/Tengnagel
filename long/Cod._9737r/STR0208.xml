@@ -43,6 +43,23 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0125">
+                        <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0160">
+                        <title>Muṣṭ
+                  afā Ǧannābī, Tā'rī
+                  ḫ
+                  ü l-Cenābī / The History of Cenābī
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0198">
+                        <title>Story of Timur / Tamerlan in Persian and in Turkish</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0019">
                         <placeName>Paris</placeName>

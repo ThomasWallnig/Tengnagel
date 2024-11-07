@@ -43,6 +43,29 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0196">
+                        <title>Johannes Antonides, D. Pauli Apostoli Epistola ad Titum, Arabice; cum Ioannis Antonidae Alcmariani interlineari versione Latina</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0172">
+                        <title>Franciscus Raphelengius, Lexicon Arabicum (cum Erpenii observationibus)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0194">
+                        <title>Thomas Erpenius, Grammatica Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0066">
+                        <title>Franciscus Raphelengius / Joseph Justus Scaliger / Thomas Erpenius / Isaac Casaubon, Kitābu ʾ
+                  l-am
+                  ṯ
+                  āli Seu Proverbiorum Arabicorum
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0195">
+                        <title>William Bedwell, Johannis apostoli et evangelistae Epistolae Catholicae omnes, Arabicae ante aliquot secula factae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

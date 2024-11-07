@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0264">
+                        <title>Nikolaus Gerbel, In descriptionem Graeciae Sophiani praefatio</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0265">
+                        <title>Pontus Heuterus, De veterum ac sui seculi Belgio libri duo</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0266">
+                        <title>Hubert Goltzius, Thesaurus rei antiquariae huberrimus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

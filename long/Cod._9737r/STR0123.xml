@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0123">
+                        <title>Cicero, Epistolae ad familiars</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0103">

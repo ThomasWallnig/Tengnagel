@@ -42,11 +42,22 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0161">
+                        <title>Vita s. Altmanni episcopi Pataviensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0162">
+                        <title>Vita s. Eberhardi archiepiscopi Salisburgensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0163">
+                        <title>Bernold of Konstanz / Jacob Gretser, Apologia pro Gregorio VII pontifice maximo</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0164">
+                        <title>Sebastian Tengnagel , Vetera Monumenta contra schismaticos</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0001">

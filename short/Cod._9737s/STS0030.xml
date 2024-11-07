@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0203">
+                        <title>Jacob Gretser, Admonitio ad exteros de Bibliis Tigurinis</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0109">
                         <placeName>Austria</placeName>

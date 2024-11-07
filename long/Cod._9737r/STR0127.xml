@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0132">
+                        <title>Cyril of Alexandria, Contra Iulianum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0103">
+                        <title>Athanasius of Alexandria, Vita S. Antonii eremitae a D. Athanasio Graece scripta, cum Davidis Hoeschelii interpretatione ac notis</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0026">

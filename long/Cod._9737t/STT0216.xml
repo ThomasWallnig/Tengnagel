@@ -43,6 +43,28 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0277">
+                        <title>Heinrich Bünting, Itinerarium Sacrae Scripturae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0221">
+                        <title>Adam Reusner, Jerusalem</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0222">
+                        <title>Jacob Ziegler / Wolfang Weyssenburger, Terrae Sactae descriptio</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0279">
+                        <title>Christiaan Adrichom, Theatrum Terrae Sanctae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0280">
+                        <title>Brocardus Monachus , Descriptio Terrae Sanctae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0223">
+                        <title>Guillaume Postel, Syriae descriptio</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0061">
                         <placeName>Holy Land</placeName>

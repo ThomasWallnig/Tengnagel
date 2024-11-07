@@ -42,11 +42,28 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0005">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0065a">
+                        <title>al-Makīn Ibn al-ʿ
+                  Amīd, Tārī
+                  ḫ
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0141">
+                        <title>Pentateuch in Arabic</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0062">
+                        <title>Disputatio Mahumetani cum Christiano de religione</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0064">
+                        <title>Johannes Damascenus, De fide Orthodoxa</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

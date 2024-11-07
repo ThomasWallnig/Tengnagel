@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0161">
+                        <title>Vita s. Altmanni episcopi Pataviensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0166">
+                        <title>Jacob Gretser, Divi Bambergenses, S. Henricus imperator, S. Kunegundis imperatrix, S. Otho episcopus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

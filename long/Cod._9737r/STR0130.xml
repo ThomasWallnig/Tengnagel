@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0119">
+                        <title>Lexicon Arabico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0120">
+                        <title>Lexicon Persico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0008">
                         <placeName>Frankfurt am Main</placeName>

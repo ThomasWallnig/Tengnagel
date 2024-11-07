@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0217">
+                        <title>Muhammad al-Idrisi / Gabriel Sionita, Geographia Nubiensis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0036">
                         <placeName>Heidelberg</placeName>

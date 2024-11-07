@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0203b">
+                        <title>Roberto Bellarmino, Doctrina Christiana nunc primum ex Italico idiomate in Arabicum translata per Victorium Scialat et Gabrielem Sionitam</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0022">
                         <placeName>Rome</placeName>

@@ -42,11 +42,25 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0070">
+                        <title>Avicenna, al-Qānūn fī ṭ
+                  -
+                  ṭ
+                  ibb
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0072">
+                        <title>al-Arbaʿ
+                  a al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0009">

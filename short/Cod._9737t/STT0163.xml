@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0266">
+                        <title>Hubert Goltzius, Thesaurus rei antiquariae huberrimus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0260">
+                        <title>Wolfgang Lazius, De gentium aliquot migrationibus</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

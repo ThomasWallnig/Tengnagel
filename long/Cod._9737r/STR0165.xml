@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0028">
+                        <title>Catalogum librorum Arabicorum Scaligeri</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0180">
+                        <title>Johannes Damascenus, Ioannes Damascenus (in Arabic)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0008">

@@ -43,6 +43,25 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0230">
+                        <title>Librum unum lingua Rutenica conscriptum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0014">
+                        <title>Pentateuchus Arabice Hebraice Chaldaice et Persice</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0228">
+                        <title>Johannes Buxtorf, Lexicon Chaldaicum et Syriacum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0229">
+                        <title>Talmud</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0231">
+                        <title>Lexicon Arabico-Turcicum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0208">
                         <placeName>St. Gallen</placeName>

@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0261">
+                        <title>Corpus iuris civilis glossatum cum notis Accursii</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0261">
+                        <title>Corpus iuris civilis glossatum cum notis Accursii</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

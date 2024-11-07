@@ -43,6 +43,33 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0021">
+                        <title>Petrus Kirstenius, Grammatices Arabicae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0081">
+                        <title>Joseph Justus Scaliger, Elenchus trihaeresii</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0072">
+                        <title>al-Arbaʿ
+                  a al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0082">
+                        <title>Muḥammad al-Idrisi, Kitāb nuzhat al-muštāq</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0083">
+                        <title>Bašārat Yasūʿ / Evengelium Jesu Christi</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0022">
                         <placeName>Rome</placeName>

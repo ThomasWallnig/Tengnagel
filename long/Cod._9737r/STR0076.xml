@@ -42,11 +42,23 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0020">
+                        <title>Petrus Kirstenius, Vitae Evangelistarum quatuor: nunc primum ex codice manuscripto Arabico caesareo erutae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0091">
+                        <title>Johann Albrecht Widmannstetter, Ketābā d-Ewangeliyōn qaddīšā de-Māran w-Alāhan Yēšūʾ
+                   Mešī
+                  ḥ
+                  ā / Liber sacrosancti Evangelii De Jesu Christo Domino et Deo nostro
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

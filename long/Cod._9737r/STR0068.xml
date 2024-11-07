@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0021">
+                        <title>Petrus Kirstenius, Grammatices Arabicae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0090">
+                        <title>Ermoldus Nigellus, In honorem Ludovici Pii</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace/>
                </note>

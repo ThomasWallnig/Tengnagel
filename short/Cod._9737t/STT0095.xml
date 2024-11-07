@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0233">
+                        <title>Lead Books of Sacromonte</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0224">
+                        <title>Gerhard Johannes Vossius, Oratio in obitum Thomae Erpenii</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0009">
                         <placeName>Granada</placeName>

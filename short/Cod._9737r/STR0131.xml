@@ -43,6 +43,34 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0133">
+                        <title>Friedrich Sylberg, Saracenica sive Maomethica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0134">
+                        <title>Jerónimo Osóno, De religione</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0135">
+                        <title>Johannes Jacob Wecker, De secretis libri XVII</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0136">
+                        <title>John VI Kantakouzenos, Ioannis Cantacvzeni Constantinopolitani regis contra Mahometicam fidem Christiana</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0138">
+                        <title>Jean Bodin, De la demonomanie des sorciers</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0137">
+                        <title>Nicholas Remy, Daemonolatreiae libri tres</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0139">
+                        <title>Hadrianus Junius Adagiorum centuriae VIII. cum dimidia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0140">
+                        <title>Johann Isaak Levita, Grammatica Hebraea absolutissima in II libros</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0021">
                         <placeName>Prague</placeName>

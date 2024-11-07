@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0014">
+                        <title>Pentateuchus Arabice Hebraice Chaldaice et Persice</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0070">
                         <placeName>Antwerp</placeName>

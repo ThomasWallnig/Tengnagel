@@ -42,11 +42,9 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl/>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0008">

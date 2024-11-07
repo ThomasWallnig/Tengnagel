@@ -42,11 +42,16 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0120a">
+                        <title>Lexicon Persico Turcicum (Leiden)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0119">
+                        <title>Lexicon Arabico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0096">

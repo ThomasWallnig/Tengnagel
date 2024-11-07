@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0118">
+                        <title>Viaggi fatti da Vinetia, alla Tana, in Persia, in India, et In Costantinopoli</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0116">
+                        <title>João de Barros / Alfonso de Ulloa, L'Asia del S. Giovanni, consigliero del christianissimo re di Portogallo</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0117">
+                        <title>Giovanni da Pian del Carpine, Opera dilettevole da intendere, nella qual si contiene doi itinerarij in Tartaria</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

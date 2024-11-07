@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0167">
+                        <title>David Hoeschel, Sapientia Sirachi sive Ecclesiasticus</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0132">
+                        <title>Cyril of Alexandria, Contra Iulianum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0008">
                         <placeName>Frankfurt am Main</placeName>

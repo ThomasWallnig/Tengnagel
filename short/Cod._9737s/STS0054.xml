@@ -43,6 +43,13 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0104">
+                        <title>Anna Comnena, Alexiados Libri VIII.  ab Anna Comnena de rebvs a patre gestis scripti, nunc primum a Dauide Hoeschelio editi</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0014">
                         <placeName>Istanbul</placeName>

@@ -43,6 +43,9 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl/>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0026">
                         <placeName>England</placeName>

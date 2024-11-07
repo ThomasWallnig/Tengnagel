@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0044">
+                        <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0200">
+                        <title>Biblia regia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0125">
+                        <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0001">

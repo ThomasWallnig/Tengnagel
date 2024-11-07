@@ -42,11 +42,21 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0174">
+                        <title>Murad Beg, Kitāb-i Tesvīyetü l- Teveccüh ilā l-Ḥ
+                  a
+                  ḳḳ
+               </title>
+                     </bibl>
+                     <bibl ref="ST_Works_0072">
+                        <title>al-Arbaʿ
+                  a al-anāǧīl al-muqaddasa [Quatuor Arabica Evangelia]
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0026">

@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0120a">
+                        <title>Lexicon Persico Turcicum (Leiden)</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0119">
+                        <title>Lexicon Arabico Turcicum (or. Scaliger)</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

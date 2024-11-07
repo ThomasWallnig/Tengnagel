@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0164">
+                        <title>Sebastian Tengnagel , Vetera Monumenta contra schismaticos</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0179">
+                        <title>Numisma Arabicum cum expositione Itali cuiusdam</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0178">
+                        <title>Vita S. Mechtildis</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

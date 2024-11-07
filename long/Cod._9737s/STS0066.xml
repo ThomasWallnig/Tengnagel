@@ -42,11 +42,30 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0056">
+                        <title>Qur'an</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0207">
+                        <title>Biblia Arabica</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0205">
+                        <title>Giarrumia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0206">
+                        <title>Thomas Erpenius, Historia Josephi patriarchae ex Alcorano</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0208">
+                        <title>Henri Estienne, Thesaurus Graecae linguae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0209">
+                        <title>Thomas Erpenius / Ibn al-ʿ
+                  Amīd al-Makīn, Historia Saracenica
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0022">

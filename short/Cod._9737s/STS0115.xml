@@ -43,6 +43,31 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0128">
+                        <title>Antonio de San Roman, Historia general de la India Oriental</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0255">
+                        <title>Garcilasso de la Vega, Historia General del Peru</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0256">
+                        <title>Garcilasso de la Vega, La florida del Ynca</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0125">
+                        <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0257">
+                        <title>Luis del Mármol Carvajal, Historia del rebelion y castigo de los Moriscos del reyno de Granada</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0258">
+                        <title>Antonio de Herrera y Tordesillas, Istoria general de las Indias</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0259">
+                        <title>Gaspar Barreiros, Chorographia</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0020">
                         <placeName>Persia</placeName>

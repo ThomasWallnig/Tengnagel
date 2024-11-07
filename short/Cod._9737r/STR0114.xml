@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0106">
+                        <title>Christophorus Crinesius, Disputatio de confusione linguarum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0107">
+                        <title>Porphyry / Konrad Rittershausen, De vita Pythagorae, nunc primum ex manuscriptis in lucem editus a Cunrado Rittershusio</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0108">
+                        <title>Catalogus Francofurti</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

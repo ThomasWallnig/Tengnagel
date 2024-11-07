@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0021">
+                        <title>Petrus Kirstenius, Grammatices Arabicae</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0020">
+                        <title>Petrus Kirstenius, Vitae Evangelistarum quatuor: nunc primum ex codice manuscripto Arabico caesareo erutae</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

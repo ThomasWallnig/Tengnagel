@@ -42,11 +42,19 @@
          </publicationStmt>
          <notesStmt>
             <noteGrp type="mentions">
-               <listBibl type="mentioned">
-                  <bibl xml:id="ST_">
-                     <title/>
-                  </bibl>
-               </listBibl>
+               <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0192">
+                        <title>Girolamo De Franchi Conestaggio, Delle guerre della Germania inferiore istoria</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0193">
+                        <title>Girolamo De Franchi Conestaggio, Dell'unione del regno di Portogallo alla corona di Castiglia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0044">
+                        <title>Nicephorus Callistus Xanthopulus, Historia Ecclesiastica</title>
+                     </bibl>
+                  </listBibl>
+               </note>
                <note>
                   <listPlace>
                      <place ref="ST_Place_0073">

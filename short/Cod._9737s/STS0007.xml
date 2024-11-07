@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0200">
+                        <title>Biblia regia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0073">
+                        <title>Julius Otto Konrad, Gali Razia occultorum detectio</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0029">
                         <placeName>Germany</placeName>

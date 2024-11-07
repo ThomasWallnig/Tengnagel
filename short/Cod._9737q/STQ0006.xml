@@ -43,6 +43,31 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0012">
+                        <title>Henricus Canisius, Antiquae lectiones</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0004">
+                        <title>Pedro de Alcalá, Arte para saver ligeramente la lengua Araviga</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0016">
+                        <title>Dictionarium Hispano-Arabicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0015">
+                        <title>Fabula de Johanna Papissa</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0001">
+                        <title>Adelboldus Traiectensis, Vita imperatoris Henrici II</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0017">
+                        <title>Missa in usum neophytorum Maurorum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0002">
+                        <title>Regino of Prüm, De synodalibus causis et disciplinis ecclesiasticis </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0009">
                         <placeName>Granada</placeName>

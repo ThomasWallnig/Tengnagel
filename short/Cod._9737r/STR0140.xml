@@ -43,6 +43,22 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0005b">
+                        <title>Abū' l-Fidā', Taqwīm al-Buldān</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0027">
+                        <title>Jan Gruter, Florilegium ethico-politicum</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0159">
+                        <title>François Goedthals, Les Proverbes anciens flamengs et françois, correspondants de sentence les uns aux autres</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0175">
+                        <title>Juan de Mal-Lara, La philosophia vulgar</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

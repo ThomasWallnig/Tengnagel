@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0184">
+                        <title>Lucas Tudensis, De Altera Vita fideique controversiis adversus Albigenses</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0185">
+                        <title>Raniero Sacconi, Opusculum contra Waldenses: Capitula aliqua, primo de causis haeresis</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0186">
+                        <title>Errores Picardorum, Waldensium, Pauperum de Lugduno, Dolcini Novariensis, Eylardi Bremensis, Patarenorum etc.</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
                <note>

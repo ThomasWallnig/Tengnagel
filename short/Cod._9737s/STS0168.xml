@@ -43,6 +43,16 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0214">
+                        <title>Don Juan de Persia, Relaciones divididas en 3 libros, donde se tratan las cosas notables de Persia</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0125">
+                        <title>Luis del Mármol Carvajal, Descripción general de África</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0001">
                         <placeName>Vienna</placeName>

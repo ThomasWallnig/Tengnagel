@@ -43,6 +43,17 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0066">
+                        <title>Franciscus Raphelengius / Joseph Justus Scaliger / Thomas Erpenius / Isaac Casaubon, Kitābu ʾ
+                  l-am
+                  ṯ
+                  āli Seu Proverbiorum Arabicorum
+               </title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace/>
                </note>
             </noteGrp>

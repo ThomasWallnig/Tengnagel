@@ -43,6 +43,19 @@
          <notesStmt>
             <noteGrp type="mentions">
                <note>
+                  <listBibl>
+                     <bibl ref="ST_Works_0235">
+                        <title>Sefer Nizzahon Yashan</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0229">
+                        <title>Talmud</title>
+                     </bibl>
+                     <bibl ref="ST_Works_0228">
+                        <title>Johannes Buxtorf, Lexicon Chaldaicum et Syriacum</title>
+                     </bibl>
+                  </listBibl>
+               </note>
+               <note>
                   <listPlace>
                      <place ref="ST_Place_0214">
                         <placeName>Khorasan</placeName>
