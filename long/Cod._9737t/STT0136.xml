@@ -72,8 +72,8 @@
                      <place ref="ST_Place_0241">
                         <placeName>Tibet</placeName>
                      </place>
-                     <place ref="ST_Place_0166">
-                        <placeName>Ethiophia</placeName>
+                     <place ref="ST_Place_0005">
+                        <placeName>Ethiopia</placeName>
                      </place>
                      <place ref="ST_Place_0242">
                         <placeName>Tartary</placeName>
@@ -109,7 +109,7 @@
                      <person ref="ST_Pers_0436">
                         <persName>Mirchond</persName>
                      </person>
-                     <person ref="">
+                     <person ref="ST_Pers_0988">
                         <persName>Marco Polo</persName>
                      </person>
                   </listPerson>
