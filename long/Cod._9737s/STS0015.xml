@@ -104,7 +104,7 @@
          <correspDesc ref="STS0015">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0021">Caspar Dornau</persName>
-               <placeName xml:id="ST_Place_0104">Görlitz</placeName>
+               <placeName xml:id="ST_Place_0100">Görlitz</placeName>
                <date when="1615-06-27">27 June 1615</date>
             </correspAction>
             <correspAction type="received">
