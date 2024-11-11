@@ -84,7 +84,7 @@
                      <person ref="ST_Pers_0494">
                         <persName>Willibald Pirckheimer</persName>
                      </person>
-                     <person ref="">
+                     <person ref="ST_Pers_0495">
                         <persName>Ulrich von Hutten</persName>
                      </person>
                   </listPerson>
@@ -112,7 +112,7 @@
          <correspDesc ref="STS0001">
             <correspAction type="sent">
                <persName xml:id="ST_Pers_0021">Caspar Dornau</persName>
-               <placeName xml:id="ST_Place_0104">Görlitz</placeName>
+               <placeName xml:id="ST_Place_0100">Görlitz</placeName>
                <date when="1615-01-12">12 January 1615</date>
             </correspAction>
             <correspAction type="received">
