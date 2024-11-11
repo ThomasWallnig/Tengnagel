@@ -76,14 +76,14 @@
                      <person ref="ST_Pers_0223">
                         <persName>Georg Weigenmaier</persName>
                      </person>
-                     <person ref="ST_Pers_214">
+                     <person ref="ST_Pers_0214">
                         <persName>Abulcasis</persName>
                      </person>
                      <person ref="ST_Pers_0222">
                         <persName>Georg Michael Lingelsheim</persName>
                      </person>
-                     <person ref="">
-                        <persName>Henry Savile ST_0071</persName>
+                     <person ref="ST_Pers_0071">
+                        <persName>Henry Savile</persName>
                      </person>
                      <person ref="ST_Pers_0004">
                         <persName>Hugo Blotius</persName>
