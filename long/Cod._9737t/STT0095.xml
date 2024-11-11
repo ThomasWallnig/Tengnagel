@@ -75,10 +75,7 @@
                   <listPerson>
                      <person ref="ST_Pers_0074">
                         <persName>Andreas Schott</persName>
-                     </person>
-                     <person ref="">
-                        <persName>Heribert Rosweyde</persName>
-                     </person>
+                     </person> 
                      <person ref="ST_Pers_0026">
                         <persName>Thomas Erpenius</persName>
                      </person>
