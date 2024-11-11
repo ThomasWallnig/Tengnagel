@@ -57,16 +57,10 @@
                         <title>Qur'an</title>
                      </bibl>
                      <bibl ref="ST_Works_0238">
-                        <title>Fīrūzābādī, al-Qāmus al-Muḥ
-                  ī
-                  ṭ
-               </title>
+                        <title>Fīrūzābādī, al-Qāmus al-Muḥīṭ</title>
                      </bibl>
                      <bibl ref="ST_Works_0239">
-                        <title>al-Jawhari, al-Ṣiḥ
-                  ā
-                  ḥ
-               </title>
+                        <title>al-Jawhari, al-Ṣiḥāḥ</title>
                      </bibl>
                      <bibl ref="ST_Works_0240">
                         <title>Dottrina Christiana di P. Giesuiti in Lahor (Dittionario Persiano et Italiano)</title>
@@ -142,7 +136,7 @@
                      <person ref="ST_Pers_0958">
                         <persName>al-Jawhari</persName>
                      </person>
-                     <person ref="">
+                     <person ref="ST_Pers_0959">
                         <persName>Muḥammad Qāsim ibn Ḥājjī Muhammad Surūrī</persName>
                      </person>
                   </listPerson>
