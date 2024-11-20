@@ -78,7 +78,7 @@
                <date when="s.d.">s.d.</date>
             </correspAction>
             <correspAction type="received">
-               <persName xml:id="ST:Pers_0019">Johannes Decker</persName>
+               <persName xml:id="ST_Pers_0019">Johannes Decker</persName>
             </correspAction>
          </correspDesc>
          <langUsage>
